@@ -161,6 +161,6 @@ int main(int argc, const char * argv[]) {
         }
     }
     
-    save("position", graphLayout.getBodies());
+    save("positions", graphLayout.getBodies());
     delete[] graphFile.content;
 }
