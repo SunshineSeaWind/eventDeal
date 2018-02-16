@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-13 04:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "零售店",
+            "苹果",
+            "复制",
+            "神话",
+            "理想",
+            "日期",
+            "购买",
+            "服务",
+            "印度",
+            "苹果公司"
+        ]
+    }
+}

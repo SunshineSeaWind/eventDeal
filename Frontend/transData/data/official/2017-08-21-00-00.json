@@ -1,0 +1,37 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-21 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中印大同网"
+        ],
+        "node_1": {
+            "ID": 731,
+            "nodeName": "中印大同网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "王者",
+            "回归",
+            "胜利"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中印大同网"
+        ],
+        "node_1": {
+            "ID": 731,
+            "nodeName": "中印大同网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "王者",
+            "回归",
+            "胜利"
+        ]
+    }
+}

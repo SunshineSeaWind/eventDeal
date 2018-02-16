@@ -1,0 +1,22 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-07 17:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "公约",
+            "东朗",
+            "牛地"
+        ]
+    }
+}

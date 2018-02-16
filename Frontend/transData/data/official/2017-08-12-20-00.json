@@ -1,0 +1,165 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-12 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视新闻客户端"
+        ],
+        "node_1": {
+            "ID": 101,
+            "nodeName": "央视新闻客户端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "停职",
+            "天内",
+            "院长",
+            "北方邦",
+            "医院",
+            "印度",
+            "莫迪",
+            "总理",
+            "死亡"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "因供",
+            "而致",
+            "丧生",
+            "一所",
+            "液态氧",
+            "北方邦",
+            "儿童",
+            "死亡"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视网"
+        ],
+        "node_1": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "停职",
+            "天内",
+            "院长",
+            "北方邦",
+            "医院",
+            "在线",
+            "印度",
+            "莫迪",
+            "ICP"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军事政治解码",
+            "军事政治解码"
+        ],
+        "node_1": {
+            "ID": 491,
+            "nodeName": "军事政治解码",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 491,
+            "nodeName": "军事政治解码",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "服役",
+            "俄罗斯",
+            "印度",
+            "梦碎",
+            "因歼",
+            "战机",
+            "第五代",
+            "研发",
+            "隐身",
+            "AMCA"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "央视新闻",
+            "央视新闻",
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "氧气",
+            "儿童",
+            "否认",
+            "官方",
+            "印度",
+            "医院",
+            "北方邦",
+            "供氧",
+            "事故",
+            "院方"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军事武器新视野",
+            "军事武器新视野"
+        ],
+        "node_1": {
+            "ID": 378,
+            "nodeName": "军事武器新视野",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 378,
+            "nodeName": "军事武器新视野",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴铁",
+            "首艘",
+            "核潜艇",
+            "掐死",
+            "软肋",
+            "致命",
+            "歼敌",
+            "潜射",
+            "印度",
+            "巴基斯坦"
+        ]
+    }
+}

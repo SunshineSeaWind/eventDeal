@@ -1,0 +1,140 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-19 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰军事"
+        ],
+        "node_1": {
+            "ID": 165,
+            "nodeName": "凤凰军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "中国",
+            "关键",
+            "动手",
+            "树敌",
+            "军事",
+            "美国",
+            "对峙",
+            "调动",
+            "作战"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军演",
+            "美日",
+            "威慑",
+            "航母",
+            "马拉巴尔",
+            "军事演习",
+            "印度",
+            "航空母舰",
+            "海军"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "出鞘军事"
+        ],
+        "node_1": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "解放军",
+            "媒体",
+            "乍闻",
+            "轰炸",
+            "阵地",
+            "印度",
+            "边境",
+            "锡金",
+            "报道",
+            "前线"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "出鞘军事"
+        ],
+        "node_1": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "解放军",
+            "媒体",
+            "乍闻",
+            "轰炸",
+            "阵地",
+            "印度",
+            "边境",
+            "锡金",
+            "报道",
+            "前线"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "联合利华",
+            "财报",
+            "9%",
+            "第一季度",
+            "净利润",
+            "卢比",
+            "HUL",
+            "同比"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "努比亚",
+            "品牌",
+            "印度",
+            "亿美元",
+            "手机",
+            "摄影",
+            "电池容量",
+            "直营店",
+            "主打",
+            "拍照"
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-21 01:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "世界文学WorldLiterature"
+        ],
+        "node_1": {
+            "ID": 966,
+            "nodeName": "世界文学WorldLiterature",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "纳伽伐利",
+            "花环",
+            "欣赏",
+            "小说"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "世界文学WorldLiterature"
+        ],
+        "node_1": {
+            "ID": 966,
+            "nodeName": "世界文学WorldLiterature",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "纳伽伐利",
+            "花环",
+            "欣赏",
+            "小说"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "世界文学WorldLiterature"
+        ],
+        "node_1": {
+            "ID": 966,
+            "nodeName": "世界文学WorldLiterature",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "纳伽伐利",
+            "花环",
+            "欣赏",
+            "小说"
+        ]
+    }
+}

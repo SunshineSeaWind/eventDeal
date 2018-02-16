@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-11 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抵制",
+            "印度",
+            "受害者",
+            "采访",
+            "零售店",
+            "广告牌",
+            "视频",
+            "外部",
+            "vivo",
+            "店面"
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-03 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "做得好",
+            "印度人"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "印度人",
+            "Google",
+            "配给",
+            "手杖",
+            "实习",
+            "军队",
+            "弹药",
+            "缺少",
+            "知识"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边防部队",
+            "解放军",
+            "撤出",
+            "日报",
+            "领土",
+            "印度",
+            "评论",
+            "中国",
+            "中国军方"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报德文"
+        ],
+        "node_1": {
+            "ID": 706,
+            "nodeName": "中国日报德文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Grenze",
+            "China",
+            "org",
+            "cn",
+            "中国外交部",
+            "挑衅",
+            "声明",
+            "尊重"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "SU30MKI",
+            "舰队",
+            "边界",
+            "赶到",
+            "印度",
+            "唧唧"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "SU30MKI",
+            "舰队",
+            "边界",
+            "赶到"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-17 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武备志"
+        ],
+        "node_1": {
+            "ID": 929,
+            "nodeName": "武备志",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航母",
+            "邻国",
+            "二战",
+            "大国",
+            "超越",
+            "轻松",
+            "印度",
+            "辽宁",
+            "编队",
+            "中国"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武备志"
+        ],
+        "node_1": {
+            "ID": 929,
+            "nodeName": "武备志",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航母",
+            "邻国",
+            "二战",
+            "大国",
+            "超越",
+            "轻松",
+            "印度",
+            "辽宁",
+            "编队",
+            "中国"
+        ]
+    }
+}

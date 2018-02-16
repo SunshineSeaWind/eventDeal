@@ -1,0 +1,253 @@
+{
+    "LinkedArraySize": 9,
+    "Date": "2017-08-02 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            ""
+        ],
+        "node_1": {
+            "ID": 27,
+            "nodeName": "",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "iPhone",
+            "SE",
+            "组装",
+            "印度",
+            "Q1",
+            "苹果",
+            "该机",
+            "32GB",
+            "生产",
+            "文明"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "幸福的胜子"
+        ],
+        "node_1": {
+            "ID": 403,
+            "nodeName": "幸福的胜子",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度人",
+            "反思",
+            "惨败",
+            "印度",
+            "尼赫鲁",
+            "中国",
+            "帕特尔",
+            "军队",
+            "战争",
+            "作家"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "金融界",
+            "新华社",
+            "金融界",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "苹果",
+            "印度政府",
+            "印度",
+            "优惠",
+            "iPhone",
+            "制造",
+            "税收",
+            "优惠政策",
+            "旗杆",
+            "告知"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "幸福的胜子"
+        ],
+        "node_1": {
+            "ID": 403,
+            "nodeName": "幸福的胜子",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度人",
+            "反思",
+            "惨败",
+            "印度",
+            "尼赫鲁",
+            "中国",
+            "帕特尔",
+            "军队",
+            "战争",
+            "作家"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "幸福的胜子",
+            "幸福的胜子"
+        ],
+        "node_1": {
+            "ID": 403,
+            "nodeName": "幸福的胜子",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 403,
+            "nodeName": "幸福的胜子",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度人",
+            "反思",
+            "惨败",
+            "印度",
+            "尼赫鲁",
+            "中国",
+            "帕特尔",
+            "军队",
+            "战争",
+            "作家"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "幸福的胜子"
+        ],
+        "node_1": {
+            "ID": 403,
+            "nodeName": "幸福的胜子",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度人",
+            "反思",
+            "惨败",
+            "印度",
+            "尼赫鲁",
+            "中国",
+            "帕特尔",
+            "军队",
+            "战争",
+            "作家"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "海外网",
+            "环球网",
+            "环球网",
+            "海外网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "胎中胎",
+            "腹中",
+            "男婴",
+            "双胞胎",
+            "疑为",
+            "同胞",
+            "新生儿",
+            "惊现",
+            "婴儿",
+            "医生"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰网广东"
+        ],
+        "node_1": {
+            "ID": 479,
+            "nodeName": "凤凰网广东",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "冷脸",
+            "回击",
+            "大校"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民网-人民日报",
+            "人民网-人民日报"
+        ],
+        "node_1": {
+            "ID": 190,
+            "nodeName": "人民网-人民日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 190,
+            "nodeName": "人民网-人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "古吉拉特邦",
+            "洪灾",
+            "人数",
+            "伯纳斯"
+        ]
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-27 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "聚散流沙"
+        ],
+        "node_1": {
+            "ID": 376,
+            "nodeName": "聚散流沙",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战机",
+            "印度",
+            "花费",
+            "俄罗斯",
+            "仅次于",
+            "30MKI",
+            "架苏",
+            "30K",
+            "发动机",
+            "矢量"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "聚散流沙"
+        ],
+        "node_1": {
+            "ID": 376,
+            "nodeName": "聚散流沙",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战机",
+            "印度",
+            "花费",
+            "俄罗斯",
+            "仅次于",
+            "30MKI",
+            "架苏",
+            "30K",
+            "发动机",
+            "矢量"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抵制",
+            "澳大利亚",
+            "呼吁",
+            "印度",
+            "堪培拉",
+            "新德里",
+            "演习",
+            "战略",
+            "印度洋",
+            "区域"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事武器新视野"
+        ],
+        "node_1": {
+            "ID": 378,
+            "nodeName": "军事武器新视野",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "反潜机",
+            "紧盯",
+            "巨资",
+            "四架",
+            "鹰眼",
+            "用意",
+            "印度",
+            "海神",
+            "反潜",
+            "鱼雷"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事武器新视野"
+        ],
+        "node_1": {
+            "ID": 378,
+            "nodeName": "军事武器新视野",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "反潜机",
+            "紧盯",
+            "巨资",
+            "四架",
+            "鹰眼",
+            "用意",
+            "印度",
+            "海神",
+            "反潜",
+            "鱼雷"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "AI",
+            "在线教育",
+            "初创",
+            "颠覆",
+            "要用",
+            "这家",
+            "SLIQ",
+            "学习",
+            "Talentedge",
+            "雷锋"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-09 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "manoj10",
+            "烧焦",
+            "中国",
+            "英语",
+            "谢谢"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "山西新闻网山西日报"
+        ],
+        "node_1": {
+            "ID": 246,
+            "nodeName": "山西新闻网山西日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "珠峰",
+            "登顶",
+            "解雇",
+            "山西",
+            "新闻网",
+            "夫妇",
+            "马哈拉施特拉邦",
+            "拉索",
+            "许可证",
+            "尼泊尔政府"
+        ]
+    }
+}

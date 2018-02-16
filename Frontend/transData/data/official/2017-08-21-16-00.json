@@ -1,0 +1,155 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-21 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "徒步",
+            "天梯",
+            "攀登",
+            "险峻",
+            "Kalavantin",
+            "攀爬",
+            "Durg",
+            "Mangesh",
+            "台阶",
+            "户外"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "说服",
+            "借力",
+            "求助",
+            "俄罗斯",
+            "印度",
+            "金砖",
+            "军事演习",
+            "官员",
+            "会议"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "雄起"
+        ],
+        "node_1": {
+            "ID": 127,
+            "nodeName": "雄起",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "地缘",
+            "重要性",
+            "印度",
+            "美称",
+            "远不如",
+            "欧洲",
+            "中国",
+            "欧盟",
+            "媒体",
+            "政治"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "澎湃新闻",
+            "澎湃新闻",
+            "澎湃新闻"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印媒",
+            "洞朗",
+            "借力",
+            "求助",
+            "说服",
+            "俄罗斯",
+            "印度",
+            "金砖",
+            "军事演习",
+            "官员"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "雄起"
+        ],
+        "node_1": {
+            "ID": 127,
+            "nodeName": "雄起",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "地缘",
+            "重要性",
+            "印度",
+            "美称",
+            "远不如",
+            "欧洲",
+            "中国",
+            "欧盟",
+            "媒体",
+            "政治"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "最高法院",
+            "炸弹",
+            "军官",
+            "保释金",
+            "爆炸案",
+            "保释",
+            "Purohit",
+            "印度",
+            "陆军军官",
+            "一名"
+        ]
+    }
+}

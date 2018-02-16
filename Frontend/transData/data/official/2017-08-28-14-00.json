@@ -1,0 +1,316 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-08-28 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            " 人民日报 ",
+            "人民日报"
+        ],
+        "node_1": {
+            "ID": 78,
+            "nodeName": " 人民日报 ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "对峙",
+            "撤离",
+            "分许",
+            "双方同意",
+            "媒体",
+            "印方",
+            "越界",
+            "中方",
+            "边界"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报"
+        ],
+        "node_1": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "分许",
+            "洞朗",
+            "印方",
+            "越界",
+            "中方",
+            "边界",
+            "撤回",
+            "一侧",
+            "主权"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民日报客户端",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "分许",
+            "洞朗",
+            "浏览器",
+            "手机",
+            "印度",
+            "中枪",
+            "发难",
+            "疯狂",
+            "印方",
+            "越界"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "阵风",
+            "战机",
+            "空军",
+            "增购",
+            "印度",
+            "合同",
+            "一批",
+            "价格"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "参考消息",
+            "参考消息",
+            "海外网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军演",
+            "自掘坟墓",
+            "抵制",
+            "频释",
+            "施压",
+            "中方",
+            "媒体",
+            "报道",
+            "印度",
+            "中国"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军演",
+            "频释",
+            "施压",
+            "中方",
+            "演练",
+            "西藏",
+            "媒体",
+            "报道",
+            "实弹射击",
+            "某部"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "四川日报",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大师",
+            "强奸",
+            "无期徒刑",
+            "最长",
+            "至少",
+            "辛格",
+            "审判",
+            "印度",
+            "神宫",
+            "暴力事件"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            " 来源：卫报中文",
+            "海外网",
+            "环球网",
+            "澎湃新闻网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 1103,
+            "nodeName": " 来源：卫报中文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "警察",
+            "军营",
+            "巴基斯坦",
+            "骚乱",
+            "印度",
+            "大师",
+            "枪战",
+            "名印",
+            "夜袭",
+            "亚纳邦"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "人民网国际频道",
+            "人民网国际频道",
+            "人民网",
+            "人民网-国际频道"
+        ],
+        "node_1": {
+            "ID": 281,
+            "nodeName": "人民网国际频道",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 281,
+            "nodeName": "人民网国际频道",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "15%",
+            "光伏",
+            "印度",
+            "75%",
+            "美国进口",
+            "电力供应",
+            "发电",
+            "组件",
+            "产业",
+            "中国"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "居住面积",
+            "牢房",
+            "人均",
+            "贫民",
+            "平米",
+            "平方英尺",
+            "平方米",
+            "印度",
+            "农村",
+            "空间"
+        ]
+    }
+}

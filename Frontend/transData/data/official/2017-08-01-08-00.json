@@ -1,0 +1,361 @@
+{
+    "LinkedArraySize": 11,
+    "Date": "2017-08-01 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遭雷击",
+            "身亡",
+            "Gland",
+            "审批",
+            "复星",
+            "印度政府",
+            "澄清",
+            "收到",
+            "医药",
+            "沙邦"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遭雷击",
+            "身亡",
+            "沙邦",
+            "奥迪"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "人民网-人民日报",
+            "人民网",
+            "中国新闻网",
+            "人民网",
+            "人民网 "
+        ],
+        "node_1": {
+            "ID": 190,
+            "nodeName": "人民网-人民日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 678,
+            "nodeName": "人民网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大吉",
+            "骚乱",
+            "印度",
+            "平息",
+            "升级",
+            "廓尔喀",
+            "地区",
+            "独立",
+            "尼泊尔语",
+            "西孟加拉邦"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "中国小康",
+            "中国小康",
+            "龙凯锋瞰天下",
+            "环球时报",
+            "龙凯锋瞰天下",
+            "人民网-环球时报"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 277,
+            "nodeName": "龙凯锋瞰天下",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 277,
+            "nodeName": "龙凯锋瞰天下",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "越界",
+            "对峙",
+            "中国",
+            "孙子兵法",
+            "战略",
+            "印军",
+            "老兵",
+            "非法",
+            "战争"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "对峙",
+            "台媒",
+            "越界",
+            "最新消息",
+            "非法",
+            "不丹",
+            "洞朗",
+            "边界",
+            "中印"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "对峙",
+            "台媒",
+            "越界",
+            "最新消息",
+            "非法",
+            "不丹",
+            "洞朗",
+            "中国",
+            "注意安全"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "搜狐警法",
+            "新华网",
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 607,
+            "nodeName": "搜狐警法",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "死亡",
+            "印度",
+            "洪灾",
+            "融洽",
+            "气氛",
+            "人数",
+            "加州大学",
+            "伯克利分校",
+            "自杀",
+            "气候变化"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "招待会",
+            "建军",
+            "使馆",
+            "在线",
+            "巴卡",
+            "中印关系",
+            "罗照辉",
+            "廖继勇",
+            "普拉",
+            "中国人民解放军"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 7,
+        "AllNodeNameArray": [
+            "观察者网",
+            "观察者网",
+            "观察者网",
+            "上游新闻",
+            "上游新闻",
+            "观察者网",
+            "上游新闻"
+        ],
+        "node_1": {
+            "ID": 34,
+            "nodeName": "观察者网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 34,
+            "nodeName": "观察者网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 34,
+            "nodeName": "观察者网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 227,
+            "nodeName": "上游新闻",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 227,
+            "nodeName": "上游新闻",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 34,
+            "nodeName": "观察者网",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 227,
+            "nodeName": "上游新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "英文",
+            "新华社",
+            "点评",
+            "四大",
+            "开锅",
+            "炸开",
+            "不丹",
+            "印度",
+            "小哥",
+            "网友"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中新经纬",
+            "中新经纬"
+        ],
+        "node_1": {
+            "ID": 129,
+            "nodeName": "中新经纬",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 129,
+            "nodeName": "中新经纬",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遇挫",
+            "电商",
+            "软银",
+            "亚马逊",
+            "对抗",
+            "Snapdeal",
+            "印度",
+            "Flipkart",
+            "合并",
+            "终止"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "人死于",
+            "暴风雨",
+            "闪电",
+            "来袭",
+            "印度"
+        ]
+    }
+}

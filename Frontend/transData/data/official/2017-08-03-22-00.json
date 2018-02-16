@@ -1,0 +1,84 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-03 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "manoj10",
+            "睡觉",
+            "公民",
+            "原始"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "manoj10",
+            "可悲"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "PMI",
+            "税改",
+            "冲击波",
+            "八年",
+            "跌幅",
+            "日期",
+            "印度",
+            "购买",
+            "服务",
+            "改革"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "说话",
+            "散布",
+            "印度",
+            "压力",
+            "奴役",
+            "儿子",
+            "蒙古人",
+            "alunimum",
+            "里运"
+        ]
+    }
+}

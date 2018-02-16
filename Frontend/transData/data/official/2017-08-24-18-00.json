@@ -1,0 +1,215 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-24 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "平淡",
+            "印度",
+            "收于"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "FM",
+            "对峙",
+            "面孔",
+            "掀起",
+            "印度",
+            "边界",
+            "拉达克",
+            "安全部队",
+            "紧张局势"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "",
+            "四川日报",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 27,
+            "nodeName": "",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印",
+            "边界",
+            "西段",
+            "外交部",
+            "印方",
+            "修路",
+            "无助于",
+            "印度",
+            "边境地区",
+            "马尔斯"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "国际在线",
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自相矛盾",
+            "中印",
+            "西段",
+            "批其",
+            "中国外交部",
+            "边界",
+            "印方",
+            "印度",
+            "华春莹",
+            "无助于"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "棕榈油",
+            "印度尼西亚",
+            "综述",
+            "障碍",
+            "面临",
+            "CPO",
+            "印度",
+            "出口",
+            "进口关税",
+            "产品"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "人民网-国际频道",
+            "外交部网站",
+            "外交部网站"
+        ],
+        "node_1": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 42,
+            "nodeName": "外交部网站",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 42,
+            "nodeName": "外交部网站",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印",
+            "外交部",
+            "印方",
+            "朝核问题",
+            "答问",
+            "中方",
+            "阿富汗",
+            "西段",
+            "和平",
+            "美方"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "瘫痪",
+            "抗议",
+            "教师",
+            "致多地",
+            "内乱",
+            "抗议者",
+            "印度",
+            "双硫仑",
+            "交通",
+            "勒克瑙"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "毓御",
+            "毓御"
+        ],
+        "node_1": {
+            "ID": 425,
+            "nodeName": "毓御",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 425,
+            "nodeName": "毓御",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "一百亿美元",
+            "直升机",
+            "二百架",
+            "军火",
+            "扫荡",
+            "印度",
+            "反潜",
+            "长缨"
+        ]
+    }
+}

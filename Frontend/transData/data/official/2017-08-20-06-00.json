@@ -1,0 +1,206 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-20 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民日报海外版",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 80,
+            "nodeName": "人民日报海外版",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "事故",
+            "尚不明",
+            "脱轨",
+            "放风筝",
+            "飞鸟",
+            "已致",
+            "印度",
+            "全运会",
+            "墨西哥",
+            "洛阳"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "大国之翼",
+            "大国之翼",
+            "大国之翼"
+        ],
+        "node_1": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "拉拢",
+            "妄图",
+            "遏华",
+            "壮胆",
+            "倒戈",
+            "小国",
+            "缅甸",
+            "印度",
+            "莫迪",
+            "访问"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央广网"
+        ],
+        "node_1": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "已致",
+            "脱轨",
+            "北方邦",
+            "列车",
+            "印度",
+            "火车",
+            "事故",
+            "更新",
+            "央视"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "已致",
+            "脱轨",
+            "北方邦",
+            "列车",
+            "印度",
+            "火车",
+            "报道",
+            "时报",
+            "更新",
+            "事故"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "央广网",
+            "央广网"
+        ],
+        "node_1": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "已致",
+            "脱轨",
+            "北方邦",
+            "列车",
+            "印度",
+            "火车",
+            "事故",
+            "更新",
+            "央视"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            " 新华社 "
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 269,
+            "nodeName": " 新华社 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "北方邦",
+            "脱轨",
+            "火车",
+            "出轨",
+            "已致",
+            "列车",
+            "印度",
+            "事故",
+            "铁道部长",
+            "事发"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "第一军情",
+            "第一军情",
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "枪打出头鸟",
+            "这国竟",
+            "助纣为虐",
+            "印度",
+            "出头",
+            "日本",
+            "不丹",
+            "洞朗",
+            "对峙",
+            "大国"
+        ]
+    }
+}

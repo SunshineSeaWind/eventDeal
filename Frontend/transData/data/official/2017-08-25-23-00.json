@@ -1,0 +1,139 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-25 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军机图"
+        ],
+        "node_1": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "反舰导弹",
+            "一口气",
+            "采购",
+            "打算",
+            "印度",
+            "海军",
+            "中程",
+            "国防工业",
+            "大单",
+            "豪掷"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "多地",
+            "人伤",
+            "印度",
+            "辛格",
+            "亚纳邦",
+            "报道",
+            "旁遮普邦"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军机图"
+        ],
+        "node_1": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "反舰导弹",
+            "一口气",
+            "采购",
+            "打算",
+            "印度",
+            "海军",
+            "中程",
+            "国防工业",
+            "大单",
+            "豪掷"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "判定",
+            "强奸",
+            "之神",
+            "抗议",
+            "暴力",
+            "Singh",
+            "Panchkula",
+            "法庭",
+            "支持者",
+            "Ram"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "数百人",
+            "两邦",
+            "受伤",
+            "亚纳邦",
+            "哈里",
+            "旁遮普邦",
+            "暴力事件"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军机图"
+        ],
+        "node_1": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "反舰导弹",
+            "一口气",
+            "采购",
+            "打算",
+            "印度",
+            "海军",
+            "中程",
+            "国防工业",
+            "大单",
+            "豪掷"
+        ]
+    }
+}

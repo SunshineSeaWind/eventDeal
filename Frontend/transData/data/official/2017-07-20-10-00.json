@@ -1,0 +1,190 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-07-20 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网-国际频道"
+        ],
+        "node_1": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "红耳",
+            "摄影师"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "ak",
+            "恼羞成怒",
+            "何事",
+            "士兵",
+            "手机",
+            "英国广播公司",
+            "少校",
+            "军官",
+            "军方",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "ak",
+            "恼羞成怒",
+            "何事",
+            "士兵",
+            "手机",
+            "英国广播公司",
+            "少校",
+            "军官",
+            "军方",
+            "印度"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "法制日报"
+        ],
+        "node_1": {
+            "ID": 444,
+            "nodeName": "法制日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "参选",
+            "最高法院",
+            "议员",
+            "违法",
+            "印度",
+            "选举",
+            "委员会",
+            "终身",
+            "法官",
+            "剥夺"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "海外网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "ak",
+            "恼羞成怒",
+            "何事",
+            "竟是",
+            "打死",
+            "士兵",
+            "军官",
+            "文明",
+            "南方",
+            "印控"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军之言语",
+            "军之言语"
+        ],
+        "node_1": {
+            "ID": 369,
+            "nodeName": "军之言语",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 369,
+            "nodeName": "军之言语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "阵风",
+            "到货",
+            "战斗机",
+            "向法",
+            "太迟",
+            "催促",
+            "美洲豹",
+            "印度",
+            "攻击机",
+            "战机"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "出鞘军事",
+            "出鞘军事"
+        ],
+        "node_1": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "无人机",
+            "中印",
+            "对峙",
+            "一幕",
+            "解放军",
+            "可怕"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "我们视频"
+        ],
+        "node_1": {
+            "ID": 102,
+            "nodeName": "我们视频",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "女模特",
+            "机场跑道",
+            "拍照",
+            "飞过",
+            "头皮"
+        ]
+    }
+}

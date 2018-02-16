@@ -1,0 +1,250 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-28 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "环球时报-环球网",
+            "海外网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "辛格",
+            "大师",
+            "骚乱",
+            "宣判",
+            "强奸案",
+            "被判",
+            "监禁",
+            "亚纳邦",
+            "印度",
+            "报道"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "中国政府网",
+            "人民网-国际频道",
+            "中国小康",
+            "外交部网站",
+            "上观新闻"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 42,
+            "nodeName": "外交部网站",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 1105,
+            "nodeName": "上观新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "印度",
+            "领土",
+            "越界",
+            "撤回",
+            "边防部队",
+            "边界",
+            "中国",
+            "锡金",
+            "主权"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "国际在线",
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "辛格",
+            "监禁",
+            "强奸",
+            "被判",
+            "强奸罪",
+            "判处",
+            "定罪",
+            "印度",
+            "亚纳邦",
+            "上师"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "辛格",
+            "强奸",
+            "被判",
+            "在线",
+            "亚纳邦",
+            "信徒",
+            "ICP",
+            "旁遮普邦",
+            "国际",
+            "强奸罪"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "重庆晨报上游新闻",
+            "澎湃新闻",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 149,
+            "nodeName": "重庆晨报上游新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "辛格",
+            "强奸案",
+            "强奸罪",
+            "判决",
+            "亚纳邦",
+            "哈里",
+            "印度",
+            "信徒",
+            "获刑",
+            "曾引"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "中国新闻网",
+            "中新网",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "强奸",
+            "被判",
+            "徒刑",
+            "信徒",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "旁遮普邦",
+            "监狱"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "Global Times",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸罪",
+            "判处",
+            "印媒",
+            "辛格",
+            "揭秘",
+            "愿为",
+            "送死",
+            "上师",
+            "定罪",
+            "监禁"
+        ]
+    }
+}

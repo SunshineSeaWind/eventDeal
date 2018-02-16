@@ -1,0 +1,176 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-04 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国日报BBS",
+            "中国日报BBS",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "偷发",
+            "剪掉",
+            "恐慌",
+            "头发",
+            "manoj10",
+            "妇女",
+            "SU30MKI",
+            "舰队",
+            "边界"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "CEO",
+            "巴基斯坦",
+            "阅读",
+            "耻辱",
+            "评论",
+            "美国",
+            "SHAME"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度尼西亚",
+            "中国",
+            "电讯"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "不良",
+            "退休",
+            "比哈尔邦",
+            "教师",
+            "官员"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "选举",
+            "星期六",
+            "新任",
+            "总统",
+            "印度"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "中国日报韩文",
+            "新华网日语",
+            "金融界",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 663,
+            "nodeName": "中国日报韩文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 716,
+            "nodeName": "新华网日语",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "非法",
+            "中国",
+            "印方",
+            "领土",
+            "越界",
+            "军队",
+            "边界",
+            "不计后果",
+            "越境"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "杨洁篪",
+            "金砖",
+            "事务",
+            "会见",
+            "南非",
+            "巴西",
+            "国家",
+            "埃切",
+            "戈延"
+        ]
+    }
+}

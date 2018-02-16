@@ -1,0 +1,411 @@
+{
+    "LinkedArraySize": 12,
+    "Date": "2017-08-28 17:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "局座召忠"
+        ],
+        "node_1": {
+            "ID": 292,
+            "nodeName": "局座召忠",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军演",
+            "撤军",
+            "印度洋",
+            "海军",
+            "刚刚",
+            "印度",
+            "编队",
+            "演习",
+            "班公湖",
+            "联合"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "金融界",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "罚款",
+            "接获",
+            "税务局",
+            "印度卢比",
+            "亿港元",
+            "HK",
+            "日期",
+            "购买",
+            "服务",
+            "收益税"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "局座召忠"
+        ],
+        "node_1": {
+            "ID": 292,
+            "nodeName": "局座召忠",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军演",
+            "撤军",
+            "印度洋",
+            "海军",
+            "刚刚",
+            "印度",
+            "编队",
+            "演习",
+            "班公湖",
+            "联合"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 11,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社",
+            "新华社",
+            "中华网日语",
+            "中国新闻周刊",
+            "中国新闻周刊",
+            "中国小康",
+            "四川日报",
+            "中国小康",
+            "中国小康",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 501,
+            "nodeName": "中华网日语",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 474,
+            "nodeName": "中国新闻周刊",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 474,
+            "nodeName": "中国新闻周刊",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_9": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_10": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_11": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "撤军",
+            "越界",
+            "撤回",
+            "印度",
+            "中方",
+            "洞朗",
+            "印方",
+            "边界",
+            "小康"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "新华社",
+            "内蒙古新闻",
+            "中国新闻网",
+            "张琪军事",
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 236,
+            "nodeName": "内蒙古新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "对峙",
+            "中国外交部",
+            "撤军",
+            "确认",
+            "印方",
+            "中方",
+            "调兵",
+            "内幕",
+            "撤退"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "新华网",
+            "张琪军事",
+            "张琪军事",
+            "国际在线",
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "越界",
+            "撤回",
+            "印度",
+            "中国外交部",
+            "莫迪",
+            "撤军",
+            "同意",
+            "印方",
+            "边界",
+            "人员"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "阵风",
+            "六折",
+            "外媒称",
+            "增购",
+            "战机",
+            "印度",
+            "空军",
+            "合同"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "趣历史网",
+            "趣历史网",
+            "趣历史网"
+        ],
+        "node_1": {
+            "ID": 1095,
+            "nodeName": "趣历史网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1095,
+            "nodeName": "趣历史网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1095,
+            "nodeName": "趣历史网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "取经",
+            "长安",
+            "绕道",
+            "唐僧",
+            "玄奘",
+            "印度",
+            "丝绸之路",
+            "当年",
+            "路线",
+            "一条"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "国际在线",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "印度",
+            "法治",
+            "冲突",
+            "庭上",
+            "强奸罪",
+            "痛哭流涕",
+            "被判",
+            "实质",
+            "辛格"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度卢比",
+            "印军",
+            "外交部",
+            "撤出"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "前往",
+            "药物",
+            "患者",
+            "镇压",
+            "最新",
+            "印度",
+            "丙型肝炎",
+            "中国",
+            "医疗",
+            "治疗"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴拉克",
+            "交付",
+            "防空",
+            "拖延",
+            "五年",
+            "SAM",
+            "LR",
+            "印度",
+            "导弹",
+            "MR"
+        ]
+    }
+}

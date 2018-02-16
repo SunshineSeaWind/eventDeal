@@ -1,0 +1,123 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-29 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰财经综合"
+        ],
+        "node_1": {
+            "ID": 1119,
+            "nodeName": "凤凰财经综合",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "罚款",
+            "旗下",
+            "李嘉诚",
+            "印度",
+            "沃达丰",
+            "税务局",
+            "接获",
+            "税金"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "东南卫视"
+        ],
+        "node_1": {
+            "ID": 980,
+            "nodeName": "东南卫视",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "真业",
+            "强奸罪",
+            "被判",
+            "监禁"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "印度",
+            "小康",
+            "外交部",
+            "对峙",
+            "撤军",
+            "印媒",
+            "边境",
+            "做好",
+            "规划"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "罚款",
+            "亿港元",
+            "李嘉诚",
+            "追缴",
+            "印度",
+            "印度卢比",
+            "国际",
+            "税务局",
+            "收益税",
+            "收购"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "史客儿"
+        ],
+        "node_1": {
+            "ID": 851,
+            "nodeName": "史客儿",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "始末",
+            "印军",
+            "中印",
+            "直逼"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "史客儿"
+        ],
+        "node_1": {
+            "ID": 851,
+            "nodeName": "史客儿",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "始末",
+            "印军",
+            "中印",
+            "直逼"
+        ]
+    }
+}

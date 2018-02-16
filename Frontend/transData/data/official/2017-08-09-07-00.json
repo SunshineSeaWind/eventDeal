@@ -1,0 +1,26 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-09 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰网综合"
+        ],
+        "node_1": {
+            "ID": 783,
+            "nodeName": "凤凰网综合",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "女店员",
+            "劫持",
+            "印度人",
+            "传谣",
+            "潜江市",
+            "李某",
+            "视频",
+            "微信"
+        ]
+    }
+}

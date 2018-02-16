@@ -1,0 +1,201 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-10 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "强奸",
+            "男孩",
+            "Singh",
+            "抗议",
+            "妇女",
+            "女孩",
+            "巴拉特",
+            "男子",
+            "凹陷"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "大众网"
+        ],
+        "node_1": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "外长",
+            "港媒",
+            "哪来",
+            "底气",
+            "中印",
+            "马哈拉",
+            "不怀",
+            "声中",
+            "幻想"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报客户端"
+        ],
+        "node_1": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "妄称",
+            "印度",
+            "梵文",
+            "教科书",
+            "教材",
+            "战争",
+            "谬误",
+            "出版社",
+            "家长",
+            "审订"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            " 人民日报 ",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 78,
+            "nodeName": " 人民日报 ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "梵文",
+            "印度",
+            "教科书",
+            "小康",
+            "妄称",
+            "教材",
+            "家长",
+            "战争",
+            "谬误",
+            "中国"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "大众网"
+        ],
+        "node_1": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "外长",
+            "港媒",
+            "哪来",
+            "底气",
+            "中印",
+            "马哈拉",
+            "不怀",
+            "声中",
+            "幻想"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报客户端"
+        ],
+        "node_1": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "妄称",
+            "印度",
+            "梵文",
+            "教科书",
+            "教材",
+            "战争",
+            "谬误",
+            "出版社",
+            "家长",
+            "审订"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "腾讯体育",
+            "腾讯体育"
+        ],
+        "node_1": {
+            "ID": 611,
+            "nodeName": "腾讯体育",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 611,
+            "nodeName": "腾讯体育",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亚洲杯",
+            "男篮",
+            "姚明",
+            "队友",
+            "努力",
+            "哈达",
+            "当小丁",
+            "专访",
+            "辛格",
+            "印度"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "K8",
+            "Note",
+            "联想",
+            "发布会",
+            "乱划",
+            "争议",
+            "印度",
+            "手机",
+            "像素",
+            "卢比"
+        ]
+    }
+}

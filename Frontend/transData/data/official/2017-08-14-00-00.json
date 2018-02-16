@@ -1,0 +1,120 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-08-14 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中断",
+            "非供",
+            "因病",
+            "北方邦",
+            "液态氧",
+            "医院",
+            "儿童",
+            "死亡",
+            "阿迪蒂",
+            "亚纳"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "思远军事"
+        ],
+        "node_1": {
+            "ID": 619,
+            "nodeName": "思远军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "LCA",
+            "胡说八道",
+            "直斥",
+            "看不下去",
+            "更强",
+            "战斗机",
+            "光辉",
+            "印度",
+            "发动机",
+            "思远"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "思远军事"
+        ],
+        "node_1": {
+            "ID": 619,
+            "nodeName": "思远军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "LCA",
+            "胡说八道",
+            "直斥",
+            "看不下去",
+            "更强",
+            "战斗机",
+            "光辉",
+            "印度",
+            "发动机",
+            "思远"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "死硬",
+            "中印",
+            "对峙",
+            "美媒谈",
+            "大国",
+            "印度",
+            "越界",
+            "中国",
+            "印军",
+            "领土"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印军",
+            "小康",
+            "会谈",
+            "而终",
+            "中印",
+            "无果",
+            "开战",
+            "惨败",
+            "洞朗",
+            "印中"
+        ]
+    }
+}

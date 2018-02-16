@@ -1,0 +1,43 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-19 02:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "比哈尔邦",
+            "水灾",
+            "受害者",
+            "安全区",
+            "受灾地区"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网俄文"
+        ],
+        "node_1": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "__",
+            "ussian",
+            "china",
+            "org",
+            "cn",
+            "比哈尔邦",
+            "水灾"
+        ]
+    }
+}

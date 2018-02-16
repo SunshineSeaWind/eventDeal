@@ -1,0 +1,152 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-08 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "抵制",
+            "双赢",
+            "中国",
+            "经济时报",
+            "进口",
+            "亿美元",
+            "出口额",
+            "印度人",
+            "呼吁"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "只留"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "SE",
+            "芯片",
+            "装载",
+            "苹果",
+            "iPhone7",
+            "扩张",
+            "iPhone",
+            "苹果公司",
+            "手机",
+            "处理器"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "只留",
+            "印军",
+            "示弱"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "金砖",
+            "治理",
+            "印度",
+            "专家",
+            "国家",
+            "集团",
+            "全球",
+            "国际货币基金组织",
+            "Kondapalli",
+            "帕利"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "印军",
+            "买来",
+            "撤离",
+            "连夜",
+            "印度",
+            "卢比",
+            "军人",
+            "服役",
+            "军队"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "核潜艇",
+            "军舰",
+            "美媒",
+            "自造",
+            "航母",
+            "巡逻舰",
+            "印度",
+            "建造",
+            "护卫舰",
+            "海军"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-05 15:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "打消",
+            "媒体",
+            "箭在弦上",
+            "解放军",
+            "幻想",
+            "警告",
+            "印度",
+            "中国",
+            "越界",
+            "外交部"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "和平谈判",
+            "强硬",
+            "拖延",
+            "中方",
+            "印发",
+            "印度",
+            "印方",
+            "越界",
+            "警告",
+            "中国国防部"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "SU30MKI",
+            "舰队",
+            "边界",
+            "赶到"
+        ]
+    }
+}

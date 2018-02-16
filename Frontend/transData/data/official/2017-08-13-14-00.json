@@ -1,0 +1,243 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-13 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "大众网",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "洞朗",
+            "国务部长",
+            "对峙",
+            "回应",
+            "喜马偕尔邦",
+            "丧生",
+            "滑坡",
+            "山体",
+            "声称"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "印度",
+            "国务部长",
+            "对峙",
+            "声称",
+            "中印",
+            "印军",
+            "军队",
+            "报道",
+            "辛格"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "国务部长",
+            "对峙",
+            "回应",
+            "做好",
+            "洞朗",
+            "印军",
+            "军队",
+            "中印",
+            "报道"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "印度",
+            "国务部长",
+            "对峙",
+            "声称",
+            "中印",
+            "印军",
+            "军队",
+            "报道",
+            "辛格"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "中国网西班牙",
+            "中国政府网",
+            "新华社",
+            "中国政府网",
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 569,
+            "nodeName": "中国网西班牙",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "滑坡",
+            "两辆",
+            "公共汽车",
+            "喜马偕尔邦",
+            "山体",
+            "冲走",
+            "北部",
+            "遇害",
+            "紧急",
+            "丧生"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "新华通讯社",
+            "新华社",
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 70,
+            "nodeName": "新华通讯社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "滑坡",
+            "山体",
+            "余人",
+            "遇难",
+            "喜马偕尔邦",
+            "丧生",
+            "生死未卜",
+            "印度",
+            "死亡",
+            "另有"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "WS15",
+            "J20",
+            "引擎",
+            "测试",
+            "意味着",
+            "印度",
+            "yasa",
+            "Yasa",
+            "人有",
+            "浪费"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "作者：潘一侨 来源：中国日报网",
+            "看看新闻网"
+        ],
+        "node_1": {
+            "ID": 857,
+            "nodeName": "作者：潘一侨 来源：中国日报网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 329,
+            "nodeName": "看看新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "惊现",
+            "蓝色",
+            "污水",
+            "突变",
+            "疑因",
+            "吓坏",
+            "河水",
+            "MPCB",
+            "动物",
+            "工厂"
+        ]
+    }
+}

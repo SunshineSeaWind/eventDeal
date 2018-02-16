@@ -1,0 +1,125 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-18 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "千里眼2017"
+        ],
+        "node_1": {
+            "ID": 321,
+            "nodeName": "千里眼2017",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "跳脚",
+            "战机",
+            "缓慢"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "千里眼2017"
+        ],
+        "node_1": {
+            "ID": 321,
+            "nodeName": "千里眼2017",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "跳脚",
+            "战机",
+            "缓慢"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "舰船",
+            "印度洋",
+            "日美印",
+            "军演",
+            "欢欢",
+            "外卖",
+            "报道",
+            "自卫队",
+            "海上",
+            "演习"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "舰船",
+            "日美印",
+            "军演",
+            "印度洋",
+            "自卫队",
+            "海上",
+            "演习"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "现代化",
+            "拟斥",
+            "巨资",
+            "助推",
+            "卢比",
+            "万亿",
+            "五年计划",
+            "性支出",
+            "防务",
+            "预算"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网 "
+        ],
+        "node_1": {
+            "ID": 238,
+            "nodeName": "中国新闻网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "舰船",
+            "印度洋",
+            "日美印",
+            "军演",
+            "自卫队",
+            "海上",
+            "演习",
+            "尼米兹",
+            "训练"
+        ]
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-05 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "精神药物",
+            "忘记",
+            "中国",
+            "自相矛盾",
+            "声称",
+            "持久",
+            "污染"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 9,
+        "AllNodeNameArray": [
+            "中国日报BBS",
+            "柚子旅行记",
+            "柚子旅行记",
+            "兵工科技",
+            "海外探客",
+            "海外探客",
+            "海外探客",
+            "中国日报BBS",
+            "海外探客"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 734,
+            "nodeName": "柚子旅行记",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 734,
+            "nodeName": "柚子旅行记",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 666,
+            "nodeName": "兵工科技",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 110,
+            "nodeName": "海外探客",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 110,
+            "nodeName": "海外探客",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 110,
+            "nodeName": "海外探客",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "node_9": {
+            "ID": 110,
+            "nodeName": "海外探客",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "文在寅",
+            "哀嚎",
+            "经济界",
+            "寄托",
+            "韩国",
+            "日记",
+            "沉于",
+            "想念",
+            "韩方"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "精神药物",
+            "中国",
+            "自相矛盾",
+            "seneca",
+            "声称",
+            "忘记",
+            "持久"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "围攻",
+            "反对党",
+            "视察",
+            "古吉拉特邦",
+            "胡尔",
+            "国大党"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "iPhone",
+            "SE",
+            "Q1",
+            "二代",
+            "发售",
+            "制造",
+            "iPhoneSE",
+            "苹果",
+            "TechWeb"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "围攻",
+            "反对党",
+            "视察",
+            "古吉拉特邦",
+            "胡尔",
+            "国大党"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "大阅无疆",
+            "遇上世界",
+            "大阅无疆",
+            "遇上世界",
+            "兵工科技",
+            "兵工科技"
+        ],
+        "node_1": {
+            "ID": 450,
+            "nodeName": "大阅无疆",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 634,
+            "nodeName": "遇上世界",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 450,
+            "nodeName": "大阅无疆",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 634,
+            "nodeName": "遇上世界",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 666,
+            "nodeName": "兵工科技",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 666,
+            "nodeName": "兵工科技",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "萨斯",
+            "空袭",
+            "步枪",
+            "子弹",
+            "进口",
+            "军队",
+            "圆明园",
+            "印度人",
+            "火烧"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战机",
+            "瞄准",
+            "印度",
+            "赶走",
+            "随即",
+            "中国",
+            "对峙",
+            "中国军方",
+            "军事演习",
+            "警告"
+        ]
+    }
+}

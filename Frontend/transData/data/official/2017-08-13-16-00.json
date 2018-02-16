@@ -1,0 +1,219 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-13 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国网法文",
+            "中国网西班牙"
+        ],
+        "node_1": {
+            "ID": 558,
+            "nodeName": "中国网法文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 569,
+            "nodeName": "中国网西班牙",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "滑坡",
+            "两辆",
+            "公共汽车",
+            "丧生",
+            "曼迪",
+            "喜马偕尔邦",
+            "卡达姆",
+            "交通部长",
+            "拖动",
+            "遇难"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            " 新华社 ",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 269,
+            "nodeName": " 新华社 ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "尼泊尔",
+            "丧生",
+            "滑坡",
+            "余人",
+            "山体",
+            "重测",
+            "珠峰",
+            "未获",
+            "对峙",
+            "扬子晚报"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "机场",
+            "侮辱",
+            "否认",
+            "Chahal",
+            "印度",
+            "报道"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华网",
+            "大众网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴士",
+            "滑坡",
+            "两辆",
+            "山体",
+            "重测",
+            "珠峰",
+            "尼泊尔",
+            "死亡",
+            "许可证",
+            "华龙网"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "枪战",
+            "克什米尔",
+            "武装",
+            "士兵",
+            "分子",
+            "丧生",
+            "三名",
+            "警方"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            " 中国新闻网 ",
+            " 央视新闻客户端 ",
+            " 中国新闻网 "
+        ],
+        "node_1": {
+            "ID": 337,
+            "nodeName": " 中国新闻网 ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 820,
+            "nodeName": " 央视新闻客户端 ",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 337,
+            "nodeName": " 中国新闻网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "氧气",
+            "中断",
+            "供氧",
+            "印度",
+            "死亡",
+            "医院",
+            "天津",
+            "丧生",
+            "否认"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美媒谈",
+            "死硬",
+            "中印",
+            "对峙",
+            "大国",
+            "印度",
+            "越界",
+            "印军",
+            "中国",
+            "领土"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "士兵的军情之翼",
+            "士兵的军情之翼"
+        ],
+        "node_1": {
+            "ID": 866,
+            "nodeName": "士兵的军情之翼",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 866,
+            "nodeName": "士兵的军情之翼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "两代",
+            "美军",
+            "超越",
+            "命名",
+            "武器",
+            "以神",
+            "努力",
+            "阿琼",
+            "坦克",
+            "印度"
+        ]
+    }
+}

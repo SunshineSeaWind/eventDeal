@@ -1,0 +1,131 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-20 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华网",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "纳特",
+            "拉姆",
+            "新一任",
+            "贱民",
+            "计票",
+            "之子",
+            "总统",
+            "印度",
+            "印人党"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事天地"
+        ],
+        "node_1": {
+            "ID": 422,
+            "nodeName": "军事天地",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大赞",
+            "但赞",
+            "扬威",
+            "武警"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事天地"
+        ],
+        "node_1": {
+            "ID": 422,
+            "nodeName": "军事天地",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大赞",
+            "但赞",
+            "扬威",
+            "武警"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "鹰眼防务观察"
+        ],
+        "node_1": {
+            "ID": 154,
+            "nodeName": "鹰眼防务观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战斗机",
+            "版本",
+            "俄罗斯",
+            "出售",
+            "印度",
+            "网络战",
+            "空军",
+            "30MKI",
+            "服役",
+            "航电"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事天地"
+        ],
+        "node_1": {
+            "ID": 422,
+            "nodeName": "军事天地",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大赞",
+            "但赞",
+            "扬威",
+            "武警"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "鹰眼防务观察"
+        ],
+        "node_1": {
+            "ID": 154,
+            "nodeName": "鹰眼防务观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战斗机",
+            "版本",
+            "俄罗斯",
+            "出售",
+            "印度",
+            "网络战",
+            "空军",
+            "30MKI",
+            "服役",
+            "航电"
+        ]
+    }
+}

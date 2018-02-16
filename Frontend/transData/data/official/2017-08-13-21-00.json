@@ -1,0 +1,171 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-13 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "二师兄的面包",
+            "鹰扬点兵",
+            "鹰扬点兵"
+        ],
+        "node_1": {
+            "ID": 583,
+            "nodeName": "二师兄的面包",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 861,
+            "nodeName": "鹰扬点兵",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 861,
+            "nodeName": "鹰扬点兵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "美当",
+            "狠宰",
+            "冤大头",
+            "忽悠",
+            "有苦难言",
+            "10C",
+            "生产线",
+            "引入",
+            "战机"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "二师兄的面包"
+        ],
+        "node_1": {
+            "ID": 583,
+            "nodeName": "二师兄的面包",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "10C",
+            "生产线",
+            "引入",
+            "印度",
+            "挡得住",
+            "战斗机",
+            "F16",
+            "战机",
+            "巴基斯坦",
+            "16IN"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国关国政外交学人"
+        ],
+        "node_1": {
+            "ID": 455,
+            "nodeName": "国关国政外交学人",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "悖论",
+            "张家",
+            "南亚"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国关国政外交学人"
+        ],
+        "node_1": {
+            "ID": 455,
+            "nodeName": "国关国政外交学人",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "悖论",
+            "张家",
+            "南亚"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            " 新华网 "
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 751,
+            "nodeName": " 新华网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中断",
+            "非供",
+            "儿童",
+            "死因",
+            "脑炎",
+            "因病",
+            "北方邦",
+            "液态氧",
+            "医院",
+            "死亡"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新民周刊",
+            "新民周刊"
+        ],
+        "node_1": {
+            "ID": 854,
+            "nodeName": "新民周刊",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 854,
+            "nodeName": "新民周刊",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "战机",
+            "俄罗斯",
+            "买货",
+            "第五代",
+            "研发"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "大国博弈",
+            "大国博弈"
+        ],
+        "node_1": {
+            "ID": 679,
+            "nodeName": "大国博弈",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 679,
+            "nodeName": "大国博弈",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "坦克",
+            "丢大脸",
+            "同场竞技"
+        ]
+    }
+}

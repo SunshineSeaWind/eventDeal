@@ -1,0 +1,73 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-27 12:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "看看新闻"
+        ],
+        "node_1": {
+            "ID": 134,
+            "nodeName": "看看新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "求助",
+            "男友",
+            "产子",
+            "拒其",
+            "女孩",
+            "医院",
+            "惨遭",
+            "未婚先孕",
+            "一名"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "大国之翼"
+        ],
+        "node_1": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "剪羊毛",
+            "大国",
+            "别无选择",
+            "火坑",
+            "进场",
+            "只好",
+            "印度",
+            "采购",
+            "俄罗斯",
+            "武器"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "大国之翼"
+        ],
+        "node_1": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "剪羊毛",
+            "大国",
+            "别无选择",
+            "火坑",
+            "进场",
+            "只好",
+            "印度",
+            "采购",
+            "俄罗斯",
+            "武器"
+        ]
+    }
+}

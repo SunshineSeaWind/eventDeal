@@ -1,0 +1,189 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-19 15:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "贱民",
+            "种姓",
+            "歧视",
+            "自认",
+            "孕育",
+            "印度",
+            "库马尔",
+            "阶层",
+            "总统",
+            "考文德"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "六子看军事",
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边界",
+            "几辆车",
+            "印度",
+            "建设",
+            "几个",
+            "洞朗",
+            "对峙",
+            "地区",
+            "中国",
+            "越界"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "江讯网军事",
+            "核子猎潜艇",
+            "核子猎潜艇",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 208,
+            "nodeName": "江讯网军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 343,
+            "nodeName": "核子猎潜艇",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 343,
+            "nodeName": "核子猎潜艇",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "疯狂",
+            "俄罗斯",
+            "印度",
+            "军购",
+            "干件",
+            "出奇",
+            "看法",
+            "T50",
+            "亏本",
+            "战斗机"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "江讯网军事"
+        ],
+        "node_1": {
+            "ID": 208,
+            "nodeName": "江讯网军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "T50",
+            "亏本",
+            "俄罗斯",
+            "几十亿",
+            "变相",
+            "失败",
+            "战机",
+            "服役",
+            "印度",
+            "苏霍伊"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "江讯网军事"
+        ],
+        "node_1": {
+            "ID": 208,
+            "nodeName": "江讯网军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "T50",
+            "亏本",
+            "俄罗斯",
+            "几十亿",
+            "变相",
+            "失败",
+            "战机",
+            "服役",
+            "印度",
+            "苏霍伊"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国青年网"
+        ],
+        "node_1": {
+            "ID": 220,
+            "nodeName": "中国青年网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中方",
+            "耐心",
+            "促印",
+            "揣测",
+            "撤军",
+            "印度",
+            "洞朗",
+            "中国",
+            "外交官",
+            "驻华"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Increff",
+            "领投",
+            "创企",
+            "红杉",
+            "供应链",
+            "万美元",
+            "融资",
+            "主管",
+            "技术"
+        ]
+    }
+}

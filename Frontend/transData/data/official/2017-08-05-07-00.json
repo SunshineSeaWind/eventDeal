@@ -1,0 +1,152 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-05 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国军网"
+        ],
+        "node_1": {
+            "ID": 733,
+            "nodeName": "中国军网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "留给",
+            "印度",
+            "军报",
+            "解放军",
+            "越界",
+            "领土",
+            "印方",
+            "印军",
+            "中国",
+            "善意"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "张琪军事",
+            "张琪军事",
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "武退",
+            "退还",
+            "对峙",
+            "警告",
+            "强硬",
+            "印度",
+            "军事冲突",
+            "退回去",
+            "选择",
+            "严正声明"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "修路",
+            "外交部",
+            "中方",
+            "外交",
+            "和平",
+            "不许",
+            "印度",
+            "印方",
+            "对峙",
+            "不丹"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "大众网"
+        ],
+        "node_1": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "修路",
+            "外交部",
+            "中方",
+            "外交",
+            "和平",
+            "不许",
+            "印度",
+            "印方",
+            "对峙",
+            "不丹"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "解放军报"
+        ],
+        "node_1": {
+            "ID": 186,
+            "nodeName": "解放军报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "正告",
+            "军报",
+            "好自为之",
+            "底线",
+            "界线",
+            "印度",
+            "解放军",
+            "越界",
+            "领土",
+            "印方"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "围攻",
+            "反对党",
+            "视察",
+            "不明",
+            "途中",
+            "古吉拉特邦",
+            "胡尔"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-25 04:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "山西新闻网山西晚报"
+        ],
+        "node_1": {
+            "ID": 234,
+            "nodeName": "山西新闻网山西晚报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "印方",
+            "山西",
+            "西段",
+            "新闻网",
+            "无助于",
+            "反倾销",
+            "中方",
+            "华春莹",
+            "高峰"
+        ]
+    }
+}

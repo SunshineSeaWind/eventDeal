@@ -1,0 +1,135 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-08 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "横渡",
+            "印度洋",
+            "坚强",
+            "澳洲",
+            "板门",
+            "蜘蛛",
+            "澳大利亚",
+            "坎加鲁岛",
+            "漂流",
+            "祖先"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "SE",
+            "芯片",
+            "装载",
+            "苹果",
+            "iPhone7",
+            "扩张",
+            "iPhone",
+            "苹果公司",
+            "手机",
+            "处理器"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中关村在线"
+        ],
+        "node_1": {
+            "ID": 772,
+            "nodeName": "中关村在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "华为",
+            "小米",
+            "联想",
+            "紧随其后",
+            "智能手机",
+            "印度",
+            "品牌",
+            "摩托罗拉",
+            "中国",
+            "出货量"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "克什米尔地区",
+            "五名",
+            "屠杀",
+            "武装"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "降落",
+            "航母",
+            "战机",
+            "保修",
+            "印军",
+            "维克拉玛",
+            "蒂亚",
+            "29K"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "敬酒不吃吃罚酒",
+            "满嘴",
+            "火车",
+            "想想",
+            "印度",
+            "洞朗",
+            "东盟",
+            "中国",
+            "不丹",
+            "领土"
+        ]
+    }
+}

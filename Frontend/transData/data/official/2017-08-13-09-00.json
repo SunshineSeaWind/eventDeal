@@ -1,0 +1,239 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-13 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Agartala",
+            "大雨",
+            "洪水",
+            "沉重"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央广网"
+        ],
+        "node_1": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中断",
+            "因供",
+            "丧生",
+            "北方邦",
+            "液态氧",
+            "租房",
+            "落户",
+            "死亡",
+            "租购",
+            "同权"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "机场",
+            "侮辱",
+            "否认",
+            "Chahal",
+            "印度",
+            "报道"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "击败",
+            "一场",
+            "和平"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 10,
+        "AllNodeNameArray": [
+            "央广网",
+            "军评陈光文",
+            "军评陈光文",
+            "劲彪新闻",
+            "武汉晚报",
+            "四川日报",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网",
+            "    "
+        ],
+        "node_1": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 219,
+            "nodeName": "军评陈光文",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 219,
+            "nodeName": "军评陈光文",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 858,
+            "nodeName": "劲彪新闻",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 860,
+            "nodeName": "武汉晚报",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_9": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_10": {
+            "ID": 7,
+            "nodeName": "    ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中断",
+            "儿童",
+            "氧气",
+            "印度",
+            "婴幼儿",
+            "北方邦",
+            "死亡",
+            "医院",
+            "政府",
+            "卢比"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "驻登",
+            "总领事",
+            "巴萨",
+            "拜会",
+            "印度教",
+            "印尼",
+            "巴厘",
+            "迪亚纳",
+            "中国",
+            "胡银全"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "海外网",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印军",
+            "边境",
+            "开火",
+            "据点",
+            "巴基斯坦",
+            "士兵",
+            "小康",
+            "演习",
+            "中方",
+            "印度"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "微微笑",
+            "微微笑"
+        ],
+        "node_1": {
+            "ID": 863,
+            "nodeName": "微微笑",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 863,
+            "nodeName": "微微笑",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "90S",
+            "搞笑",
+            "两辆",
+            "印度",
+            "96B",
+            "抛锚",
+            "全程",
+            "坦克",
+            "比赛",
+            "整车"
+        ]
+    }
+}

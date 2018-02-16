@@ -1,0 +1,336 @@
+{
+    "LinkedArraySize": 11,
+    "Date": "2017-08-28 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "忘情历史记忆"
+        ],
+        "node_1": {
+            "ID": 128,
+            "nodeName": "忘情历史记忆",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大师",
+            "印度",
+            "满地",
+            "米特",
+            "古尔",
+            "上师",
+            "恩主",
+            "宗教",
+            "追随者",
+            "侍从"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "忘情历史记忆"
+        ],
+        "node_1": {
+            "ID": 128,
+            "nodeName": "忘情历史记忆",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大师",
+            "印度",
+            "满地",
+            "米特",
+            "古尔",
+            "上师",
+            "恩主",
+            "宗教",
+            "追随者",
+            "侍从"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "忘情历史记忆"
+        ],
+        "node_1": {
+            "ID": 128,
+            "nodeName": "忘情历史记忆",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大师",
+            "印度",
+            "满地",
+            "米特",
+            "古尔",
+            "上师",
+            "恩主",
+            "宗教",
+            "追随者",
+            "侍从"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社",
+            "新华社",
+            "快科技",
+            "凤凰科技",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 969,
+            "nodeName": "快科技",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 58,
+            "nodeName": "凤凰科技",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "安保",
+            "宣判",
+            "再次发生",
+            "亚纳邦",
+            "哈里",
+            "辛格",
+            "调查局",
+            "塔克",
+            "监狱"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网－人民日报"
+        ],
+        "node_1": {
+            "ID": 74,
+            "nodeName": "人民网－人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "局势",
+            "紧张",
+            "辛格",
+            "印度",
+            "追随者",
+            "神宫",
+            "亚纳邦",
+            "哈里",
+            "情场失意"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "人民网－《人民日报》",
+            "    ",
+            "    ",
+            "人民网－《人民日报》"
+        ],
+        "node_1": {
+            "ID": 75,
+            "nodeName": "人民网－《人民日报》",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 7,
+            "nodeName": "    ",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 7,
+            "nodeName": "    ",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 75,
+            "nodeName": "人民网－《人民日报》",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "局势",
+            "信徒",
+            "印度",
+            "紧张",
+            "辛格",
+            "追随者",
+            "亚纳邦",
+            "哈里",
+            "旁遮普邦"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "古代小说网"
+        ],
+        "node_1": {
+            "ID": 1099,
+            "nodeName": "古代小说网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "偷桃",
+            "幻术",
+            "神仙",
+            "王青",
+            "古典小说",
+            "之二",
+            "魔术师",
+            "绳技",
+            "绳子",
+            "表演"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "参考消息网",
+            "参考消息网",
+            "参考消息网",
+            "参考消息网",
+            "参考消息网 "
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 1109,
+            "nodeName": "参考消息网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亚洲",
+            "印度",
+            "中日韩",
+            "涌向",
+            "国家",
+            "外资",
+            "新加坡",
+            "台湾地区",
+            "投资",
+            "卡位"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰科技"
+        ],
+        "node_1": {
+            "ID": 58,
+            "nodeName": "凤凰科技",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "贾跃亭",
+            "乐视",
+            "体育",
+            "早茶",
+            "发难",
+            "vivo",
+            "人工智能",
+            "Mate",
+            "无人机",
+            "双摄"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "尼泊尔",
+            "照顾",
+            "印度",
+            "示好",
+            "德乌帕",
+            "加德满都",
+            "中国",
+            "环球时报",
+            "邮报",
+            "尼中"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "松鼠讲武堂",
+            "松鼠讲武堂"
+        ],
+        "node_1": {
+            "ID": 1055,
+            "nodeName": "松鼠讲武堂",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1055,
+            "nodeName": "松鼠讲武堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "潜艇",
+            "雄心勃勃",
+            "跃跃欲试",
+            "巨资",
+            "奋力",
+            "招标",
+            "巨头",
+            "排水量",
+            "长度",
+            "海军"
+        ]
+    }
+}

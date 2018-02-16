@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-01 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遭雷击",
+            "或树下",
+            "躲雨",
+            "田间",
+            "沙邦",
+            "在线",
+            "奥迪",
+            "ICP",
+            "雷击",
+            "国际"
+        ]
+    }
+}

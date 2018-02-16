@@ -1,0 +1,97 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-14 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "卢比",
+            "印度",
+            "强力",
+            "竞争力",
+            "货币",
+            "通货膨胀",
+            "美元",
+            "实力",
+            "升值",
+            "强劲"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "孟加拉国",
+            "尼泊尔",
+            "季风",
+            "洪水",
+            "饮用水",
+            "印度",
+            "法新社",
+            "志愿者",
+            "官员",
+            "水位"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "带来",
+            "现金",
+            "预测",
+            "困难",
+            "莫迪",
+            "Modi",
+            "所得税",
+            "迫使",
+            "纳伦"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "双胞胎",
+            "断氧门",
+            "看血",
+            "无故",
+            "身亡",
+            "德夫",
+            "拉姆",
+            "病房",
+            "监护",
+            "儿童"
+        ]
+    }
+}

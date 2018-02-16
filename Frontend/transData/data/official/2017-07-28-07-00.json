@@ -1,0 +1,204 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-07-28 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "观察者网"
+        ],
+        "node_1": {
+            "ID": 34,
+            "nodeName": "观察者网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "臭弹",
+            "臭味",
+            "印度人",
+            "警方",
+            "测试",
+            "以色列",
+            "气味",
+            "该弹",
+            "警察部队"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "观察者网"
+        ],
+        "node_1": {
+            "ID": 34,
+            "nodeName": "观察者网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "臭弹",
+            "臭味",
+            "印度人",
+            "警方",
+            "测试",
+            "以色列",
+            "气味",
+            "该弹",
+            "警察部队"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "观察者网"
+        ],
+        "node_1": {
+            "ID": 34,
+            "nodeName": "观察者网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "臭弹",
+            "臭味",
+            "印度人",
+            "警方",
+            "测试",
+            "以色列",
+            "气味",
+            "该弹",
+            "警察部队"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "小窗看世界"
+        ],
+        "node_1": {
+            "ID": 608,
+            "nodeName": "小窗看世界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亿美金",
+            "海神",
+            "帮忙",
+            "教训",
+            "库卡",
+            "反潜",
+            "印度",
+            "汉果",
+            "潜艇",
+            "反潜舰"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "林火",
+            "烟霾",
+            "旱季",
+            "激增",
+            "印尼",
+            "泥炭",
+            "减灾",
+            "多地",
+            "亚齐",
+            "总统"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "小窗看世界"
+        ],
+        "node_1": {
+            "ID": 608,
+            "nodeName": "小窗看世界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亿美金",
+            "海神",
+            "帮忙",
+            "教训",
+            "库卡",
+            "反潜",
+            "印度",
+            "汉果",
+            "潜艇",
+            "反潜舰"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "墨者善狩",
+            "墨者善狩",
+            "墨者善狩"
+        ],
+        "node_1": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "惊险",
+            "对峙",
+            "撑不住",
+            "上演",
+            "出手",
+            "美国",
+            "起哄",
+            "战略",
+            "伊朗",
+            "妥协"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "商业周刊/中文版",
+            "商业周刊/中文版"
+        ],
+        "node_1": {
+            "ID": 624,
+            "nodeName": "商业周刊/中文版",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 624,
+            "nodeName": "商业周刊/中文版",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "养鸡场",
+            "抗生素",
+            "超级",
+            "细菌",
+            "迫在眉睫",
+            "滥用",
+            "培育",
+            "印度",
+            "纳拉扬",
+            "拉克斯"
+        ]
+    }
+}

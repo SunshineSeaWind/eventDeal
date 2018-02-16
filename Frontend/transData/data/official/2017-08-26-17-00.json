@@ -1,0 +1,270 @@
+{
+    "LinkedArraySize": 9,
+    "Date": "2017-08-26 17:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "局势",
+            "紧张",
+            "亚纳邦",
+            "哈里",
+            "新德里",
+            "旁遮普邦",
+            "班杰",
+            "库拉",
+            "首都"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "局势",
+            "紧张",
+            "亚纳邦",
+            "哈里",
+            "新德里",
+            "旁遮普邦",
+            "班杰",
+            "库拉",
+            "首都"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "局势",
+            "紧张",
+            "亚纳邦",
+            "哈里",
+            "新德里",
+            "旁遮普邦",
+            "班杰",
+            "库拉",
+            "首都"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "环球网",
+            "瑞摩黄金头条",
+            "央广网",
+            "金融界",
+            "央广网",
+            "瑞摩黄金头条"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1042,
+            "nodeName": "瑞摩黄金头条",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 1042,
+            "nodeName": "瑞摩黄金头条",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "阿富汗",
+            "暴乱",
+            "强奸罪",
+            "骚乱",
+            "被判",
+            "印度",
+            "遭恐袭",
+            "多事之秋",
+            "朝鲜",
+            "教派"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "IT之家"
+        ],
+        "node_1": {
+            "ID": 142,
+            "nodeName": "IT之家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自拍",
+            "Vivo",
+            "Y69",
+            "Live",
+            "Photo",
+            "中端",
+            "登陆",
+            "摄像头",
+            "像素"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "IT之家"
+        ],
+        "node_1": {
+            "ID": 142,
+            "nodeName": "IT之家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自拍",
+            "Vivo",
+            "Y69",
+            "Live",
+            "Photo",
+            "中端",
+            "登陆",
+            "摄像头",
+            "像素"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "刀剑档案",
+            "刀剑档案"
+        ],
+        "node_1": {
+            "ID": 1065,
+            "nodeName": "刀剑档案",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1065,
+            "nodeName": "刀剑档案",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "砍落",
+            "砍头",
+            "一剑",
+            "恐怖",
+            "兵器",
+            "刚果",
+            "印度",
+            "鹿角",
+            "离别",
+            "刑具"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "广大军事",
+            "毛开云",
+            "广大军事",
+            "毛开云",
+            "毛开云"
+        ],
+        "node_1": {
+            "ID": 188,
+            "nodeName": "广大军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1069,
+            "nodeName": "毛开云",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 188,
+            "nodeName": "广大军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 1069,
+            "nodeName": "毛开云",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 1069,
+            "nodeName": "毛开云",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美国",
+            "安倍",
+            "莫迪",
+            "捣蛋",
+            "能干",
+            "急购",
+            "亿美元",
+            "实为",
+            "印度",
+            "羊毛"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤离",
+            "警察",
+            "武装",
+            "袭警",
+            "数百",
+            "瓦马",
+            "普尔",
+            "袭击者",
+            "分子",
+            "警察部队"
+        ]
+    }
+}

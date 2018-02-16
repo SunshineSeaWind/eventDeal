@@ -1,0 +1,118 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-07-19 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "不丹",
+            "外交官",
+            "暗流",
+            "霸权",
+            "痛恨",
+            "强大",
+            "巴德拉",
+            "库马尔",
+            "南亚地区"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "停火协议",
+            "印方",
+            "巴基斯坦",
+            "外交官",
+            "抗议",
+            "控制线",
+            "巴方",
+            "克什米尔地区",
+            "违反",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "停火协议",
+            "印方",
+            "外交官",
+            "抗议",
+            "巴基斯坦",
+            "控制线",
+            "违反",
+            "巴方",
+            "克什米尔地区"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "料增",
+            "7.3%",
+            "财年",
+            "最快",
+            "日期",
+            "服务",
+            "购买",
+            "印度",
+            "降息",
+            "分析师"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "停火协议",
+            "印方",
+            "外交官",
+            "抗议",
+            "巴基斯坦",
+            "控制线",
+            "违反",
+            "巴方",
+            "克什米尔地区"
+        ]
+    }
+}

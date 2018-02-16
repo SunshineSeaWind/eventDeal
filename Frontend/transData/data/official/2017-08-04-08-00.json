@@ -1,0 +1,218 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-04 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "北京青年网",
+            "人民网-国际频道",
+            "央视新闻",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 717,
+            "nodeName": "北京青年网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "外交部",
+            "越界",
+            "和平",
+            "中国",
+            "领土",
+            "印军",
+            "立场",
+            "主权",
+            "中印"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中新网英文",
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "和平",
+            "中国国防部",
+            "中国",
+            "非法",
+            "边界",
+            "领土",
+            "撤出",
+            "外交部",
+            "东朗"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "manoj10",
+            "不可触摸"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "manoj10",
+            "印度人",
+            "骗子",
+            "世界",
+            "不可触摸",
+            "种族主义者",
+            "中国",
+            "井里",
+            "INFERIORITY"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电讯",
+            "带回",
+            "欺诈",
+            "诈骗案",
+            "嫌疑犯"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "新华网",
+            "新华网",
+            "新华网",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "田亮",
+            "跳海",
+            "征途",
+            "萌翻",
+            "复出",
+            "跳水",
+            "小亮",
+            "转体",
+            "节目",
+            "海豹"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美人计",
+            "军官",
+            "印媒",
+            "妄称",
+            "情报",
+            "印度",
+            "女性",
+            "巴基斯坦",
+            "色诱",
+            "中国"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中華人民共和國國防部網站"
+        ],
+        "node_1": {
+            "ID": 720,
+            "nodeName": "中華人民共和國國防部網站",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "防部",
+            "進入",
+            "中國",
+            "領土",
+            "新聞",
+            "發言人",
+            "任國強",
+            "軍隊",
+            "越界"
+        ]
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-28 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大陆",
+            "冲入"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "非法",
+            "偷走",
+            "荣耀",
+            "走私"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "新华网",
+            "人民网",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "智能手机",
+            "半壁江山",
+            "占据",
+            "品牌",
+            "小米",
+            "红米",
+            "市场份额",
+            "卢比",
+            "占有",
+            "手机"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "智能手机",
+            "半壁江山",
+            "占据",
+            "品牌",
+            "小米",
+            "红米",
+            "市场份额",
+            "卢比",
+            "占有",
+            "手机"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "人间有味是清欢",
+            "社会砖家",
+            "社会砖家"
+        ],
+        "node_1": {
+            "ID": 609,
+            "nodeName": "人间有味是清欢",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 614,
+            "nodeName": "社会砖家",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 614,
+            "nodeName": "社会砖家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战机",
+            "俄罗斯",
+            "印度",
+            "打水漂",
+            "一架",
+            "寿命",
+            "掏钱",
+            "合作",
+            "技术",
+            "喷管"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人间有味是清欢"
+        ],
+        "node_1": {
+            "ID": 609,
+            "nodeName": "人间有味是清欢",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "掏钱",
+            "俄罗斯",
+            "印度",
+            "合作",
+            "导弹",
+            "拉莫斯",
+            "研制",
+            "联合",
+            "深度",
+            "技术"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "來源：新華網",
+            "中国网繁体",
+            "中国新闻网",
+            "中国新闻网",
+            "金融界",
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 140,
+            "nodeName": "來源：新華網",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "批发商",
+            "西红柿",
+            "警卫",
+            "抢手货",
+            "印度",
+            "价格上涨",
+            "蔬果",
+            "劫走",
+            "手機",
+            "價格"
+        ]
+    }
+}

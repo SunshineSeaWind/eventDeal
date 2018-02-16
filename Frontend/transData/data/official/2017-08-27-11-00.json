@@ -1,0 +1,269 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-08-27 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "强奸案",
+            "逾千人",
+            "引爆",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "旁遮普邦",
+            "班杰",
+            "宵禁"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "澎湃新闻网",
+            "千龙网"
+        ],
+        "node_1": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 705,
+            "nodeName": "千龙网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "紧急状态",
+            "收监",
+            "牢房",
+            "大师",
+            "待遇",
+            "骚乱",
+            "局势",
+            "紧张",
+            "强奸",
+            "亚纳邦"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "强奸案",
+            "逾千人",
+            "引爆",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "旁遮普邦",
+            "班杰",
+            "宵禁"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度洋",
+            "泰国",
+            "运河",
+            "修建",
+            "澳媒称",
+            "连通",
+            "章莹颖",
+            "处暑",
+            "英国人",
+            "中国"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "参考消息",
+            "参考消息",
+            "环球时报-环球网",
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "实弹",
+            "演练",
+            "强硬",
+            "解放军",
+            "印度洋",
+            "印媒",
+            "印度",
+            "中国",
+            "报道",
+            "公司"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报-环球网"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印",
+            "争议",
+            "直升机",
+            "外媒",
+            "印度",
+            "争议地区",
+            "边境",
+            "计划",
+            "旅游",
+            "环球网"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "天下军武",
+            "天下军武"
+        ],
+        "node_1": {
+            "ID": 276,
+            "nodeName": "天下军武",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 276,
+            "nodeName": "天下军武",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自行火炮",
+            "射爆",
+            "揭秘",
+            "中印",
+            "自行",
+            "印度",
+            "底盘",
+            "车体"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亚洲",
+            "印度",
+            "中日韩",
+            "涌向",
+            "国家",
+            "外资",
+            "新加坡",
+            "想分",
+            "投资",
+            "凯尔"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "FX168",
+            "FX168"
+        ],
+        "node_1": {
+            "ID": 1090,
+            "nodeName": "FX168",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1090,
+            "nodeName": "FX168",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "监管",
+            "多地",
+            "刘士余",
+            "沿街"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "解放军",
+            "小康",
+            "对峙",
+            "视频",
+            "最新消息",
+            "事态",
+            "曝光",
+            "抱怨",
+            "英语",
+            "边境"
+        ]
+    }
+}

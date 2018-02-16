@@ -1,0 +1,166 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-14 17:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "机长",
+            "波音",
+            "险阻",
+            "排除",
+            "安妮",
+            "父母",
+            "飞行员",
+            "飞行",
+            "发音",
+            "成功"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "铁血蒋校长"
+        ],
+        "node_1": {
+            "ID": 355,
+            "nodeName": "铁血蒋校长",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "民族",
+            "差出",
+            "多远",
+            "距离",
+            "甘地",
+            "毛泽东",
+            "中国",
+            "独立",
+            "非暴力"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "铁血蒋校长"
+        ],
+        "node_1": {
+            "ID": 355,
+            "nodeName": "铁血蒋校长",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "民族",
+            "差出",
+            "多远",
+            "距离",
+            "甘地",
+            "毛泽东",
+            "中国",
+            "独立",
+            "非暴力"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "经济观察报",
+            "经济观察报"
+        ],
+        "node_1": {
+            "ID": 143,
+            "nodeName": "经济观察报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 143,
+            "nodeName": "经济观察报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "最具",
+            "大城市",
+            "印度",
+            "夜话",
+            "活力",
+            "卡塔尔",
+            "比特",
+            "http",
+            "qq",
+            "com"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "熊熊点兵"
+        ],
+        "node_1": {
+            "ID": 361,
+            "nodeName": "熊熊点兵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "底气",
+            "三次",
+            "战力",
+            "嘲笑",
+            "打败",
+            "清朝",
+            "印度",
+            "英国",
+            "鸦片战争",
+            "战争"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "熊熊点兵"
+        ],
+        "node_1": {
+            "ID": 361,
+            "nodeName": "熊熊点兵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "底气",
+            "三次",
+            "战力",
+            "嘲笑",
+            "打败",
+            "清朝",
+            "印度",
+            "英国",
+            "鸦片战争",
+            "战争"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "互联网服务",
+            "尼泊尔",
+            "接入",
+            "中企"
+        ]
+    }
+}

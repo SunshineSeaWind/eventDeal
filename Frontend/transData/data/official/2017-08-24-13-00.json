@@ -1,0 +1,250 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-08-24 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大使馆",
+            "印度",
+            "警告",
+            "公民",
+            "中国"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民网-人民日报",
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 190,
+            "nodeName": "人民网-人民日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "列车",
+            "莫迪",
+            "印度教",
+            "民族主义",
+            "上台",
+            "脱轨",
+            "余人",
+            "北方邦",
+            "凌晨",
+            "受伤"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央广网"
+        ],
+        "node_1": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "麦当劳",
+            "决裂",
+            "特许",
+            "门店",
+            "CPRL",
+            "印度",
+            "巴克",
+            "合作伙伴",
+            "餐饮公司",
+            "cnr"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "流感",
+            "死亡",
+            "肆虐",
+            "八个",
+            "毒株",
+            "印度",
+            "瓦尔"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "鸽派",
+            "洞朗",
+            "新德里",
+            "表态",
+            "印度",
+            "巴德拉",
+            "库马",
+            "拉姆",
+            "中国",
+            "教徒"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "华网俄语",
+            "中国财经",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 429,
+            "nodeName": "中国财经",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "反倾销",
+            "商务部",
+            "发起",
+            "克什米尔地区",
+            "地震",
+            "紧急",
+            "今年以来",
+            "印方",
+            "贸易"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军事参考",
+            "军事参考"
+        ],
+        "node_1": {
+            "ID": 1026,
+            "nodeName": "军事参考",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1026,
+            "nodeName": "军事参考",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "没招",
+            "成莫迪",
+            "救命稻草"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "微微笑",
+            "微微笑"
+        ],
+        "node_1": {
+            "ID": 863,
+            "nodeName": "微微笑",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 863,
+            "nodeName": "微微笑",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航母",
+            "十万吨",
+            "坑出",
+            "俄称",
+            "顶配",
+            "海军",
+            "俄罗斯",
+            "建造",
+            "维克拉玛",
+            "蒂亚"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "罢工",
+            "百万",
+            "内乱",
+            "瘫痪",
+            "大面积",
+            "员工",
+            "印度",
+            "银行",
+            "政府",
+            "卢比"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "苏迪尔",
+            "格普塔",
+            "金砖",
+            "德里",
+            "专访",
+            "学院",
+            "教授",
+            "大学",
+            "动力",
+            "国家"
+        ]
+    }
+}

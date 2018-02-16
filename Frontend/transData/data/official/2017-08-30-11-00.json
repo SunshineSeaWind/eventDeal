@@ -1,0 +1,308 @@
+{
+    "LinkedArraySize": 13,
+    "Date": "2017-08-30 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "刀口谈兵"
+        ],
+        "node_1": {
+            "ID": 506,
+            "nodeName": "刀口谈兵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤兵",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "刀口谈兵"
+        ],
+        "node_1": {
+            "ID": 506,
+            "nodeName": "刀口谈兵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤兵",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "晨曦军情",
+            "晨曦防务"
+        ],
+        "node_1": {
+            "ID": 224,
+            "nodeName": "晨曦军情",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1141,
+            "nodeName": "晨曦防务",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "驱逐舰",
+            "号称",
+            "下水",
+            "赶上",
+            "最新",
+            "052C",
+            "公里",
+            "射程",
+            "雷达"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "晨曦军情"
+        ],
+        "node_1": {
+            "ID": 224,
+            "nodeName": "晨曦军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "驱逐舰",
+            "号称",
+            "赶上",
+            "最新",
+            "052C"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "解决",
+            "撤军",
+            "中国",
+            "印度人",
+            "不可思议",
+            "理解",
+            "圣雄甘地",
+            "殖民者",
+            "历史"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "�t望智库"
+        ],
+        "node_1": {
+            "ID": 1138,
+            "nodeName": "�t望智库",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "亿美元",
+            "谣言",
+            "贷款",
+            "印度",
+            "印度斯坦",
+            "贴息贷款",
+            "报业",
+            "媒体",
+            "消息"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "DONEWS"
+        ],
+        "node_1": {
+            "ID": 433,
+            "nodeName": "DONEWS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "小米",
+            "谷歌",
+            "手机",
+            "大腿",
+            "合伙",
+            "Android",
+            "合作",
+            "印度",
+            "5X",
+            "智能机"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            " 央视新闻",
+            "央视新闻",
+            "FX678",
+            "FX678"
+        ],
+        "node_1": {
+            "ID": 1143,
+            "nodeName": " 央视新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1148,
+            "nodeName": "FX678",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 1148,
+            "nodeName": "FX678",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "印度",
+            "黄金",
+            "金砖",
+            "外交部",
+            "厦门",
+            "洗牌",
+            "启动",
+            "亿美元",
+            "珠宝商"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国青年网"
+        ],
+        "node_1": {
+            "ID": 220,
+            "nodeName": "中国青年网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遗传病",
+            "脚趾",
+            "连在一起",
+            "男孩",
+            "罕见",
+            "Aswanth",
+            "医保",
+            "老顽童",
+            "筹到",
+            "卢比"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "千龙网"
+        ],
+        "node_1": {
+            "ID": 705,
+            "nodeName": "千龙网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "看海",
+            "孟买",
+            "几近",
+            "瘫痪"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "对峙",
+            "中方",
+            "边界",
+            "最新消息",
+            "撤军",
+            "小康",
+            "解放军",
+            "驻扎",
+            "印方"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军史记",
+            "军史记"
+        ],
+        "node_1": {
+            "ID": 1149,
+            "nodeName": "军史记",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1149,
+            "nodeName": "军史记",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "鱼级",
+            "十二年",
+            "潜艇",
+            "造出来",
+            "样子",
+            "印度",
+            "瓦里",
+            "卡尔",
+            "第一艘",
+            "一艘"
+        ]
+    },
+    "LinkedArray_13": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "互联网",
+            "印度人",
+            "受不了",
+            "离不开",
+            "一张",
+            "告诉",
+            "千禧",
+            "生活",
+            "智能手机",
+            "想像"
+        ]
+    }
+}

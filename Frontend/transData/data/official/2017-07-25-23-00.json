@@ -1,0 +1,177 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-25 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "科温德",
+            "宣誓就职",
+            "总统",
+            "印度",
+            "特朗普",
+            "唐纳德",
+            "新德里",
+            "索尼娅",
+            "美国国会",
+            "总理"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Paytm",
+            "Bigbasket",
+            "阿里巴巴",
+            "印度",
+            "电商",
+            "洽购",
+            "日期",
+            "服务",
+            "购买",
+            "人士"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中外舰闻",
+            "中外舰闻"
+        ],
+        "node_1": {
+            "ID": 535,
+            "nodeName": "中外舰闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 535,
+            "nodeName": "中外舰闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "舰闻",
+            "探秘",
+            "东段"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "王陶陶",
+            "王陶陶"
+        ],
+        "node_1": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "对手",
+            "潜在",
+            "可怕",
+            "印度",
+            "政治",
+            "群众运动",
+            "政客",
+            "群众",
+            "领袖"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "爬行天下"
+        ],
+        "node_1": {
+            "ID": 541,
+            "nodeName": "爬行天下",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "II",
+            "牛蛙",
+            "附录",
+            "物种",
+            "雄性",
+            "印度",
+            "田鸡",
+            "虎纹蛙",
+            "雄蛙",
+            "捕食"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电商",
+            "Bigbasket",
+            "阿里巴巴",
+            "亿美元",
+            "印度",
+            "投资",
+            "日期",
+            "购买",
+            "服务",
+            "Paytm"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "火星方阵",
+            "火星方阵"
+        ],
+        "node_1": {
+            "ID": 521,
+            "nodeName": "火星方阵",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 521,
+            "nodeName": "火星方阵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遍地开花",
+            "消停",
+            "对峙",
+            "内部",
+            "正酣",
+            "之际",
+            "印度",
+            "印军",
+            "撤军",
+            "边境"
+        ]
+    }
+}

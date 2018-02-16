@@ -1,0 +1,71 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-09 01:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "仇恨",
+            "印度",
+            "Khan",
+            "Ghenghis",
+            "Kublai",
+            "飞蛾",
+            "字典"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "沙漠孤狼"
+        ],
+        "node_1": {
+            "ID": 513,
+            "nodeName": "沙漠孤狼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "榴弹炮",
+            "致力",
+            "比不上",
+            "国产",
+            "告知",
+            "印度",
+            "中国",
+            "自行",
+            "石弩",
+            "Mk"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "沙漠孤狼"
+        ],
+        "node_1": {
+            "ID": 513,
+            "nodeName": "沙漠孤狼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "榴弹炮",
+            "致力",
+            "比不上",
+            "国产",
+            "告知",
+            "印度",
+            "中国",
+            "自行",
+            "石弩",
+            "Mk"
+        ]
+    }
+}

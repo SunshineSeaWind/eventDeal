@@ -1,0 +1,286 @@
+{
+    "LinkedArraySize": 9,
+    "Date": "2017-08-26 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国政府网",
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "精神领袖",
+            "强奸罪",
+            "印度",
+            "遇害",
+            "亚纳邦",
+            "哈里",
+            "辛格",
+            "旁遮普邦",
+            "追随者",
+            "当局"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "已致",
+            "人伤",
+            "强奸罪",
+            "骚乱",
+            "亚纳邦",
+            "潘切",
+            "库拉",
+            "哈里",
+            "辛格",
+            "精神领袖"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中新网",
+            "Global Times",
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "三名",
+            "警察",
+            "袭击",
+            "认真对待",
+            "校方",
+            "已致",
+            "人伤",
+            "强奸罪",
+            "印度",
+            "在线"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "内蒙古新闻"
+        ],
+        "node_1": {
+            "ID": 236,
+            "nodeName": "内蒙古新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "两邦",
+            "数百人",
+            "亚纳邦",
+            "哈里",
+            "旁遮普邦",
+            "暴力事件",
+            "印度"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "环球网",
+            "海外网",
+            "参考消息",
+            "环球网",
+            "环球时报",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "报道",
+            "强奸案",
+            "辛格",
+            "印度",
+            "亚纳邦",
+            "哈里",
+            "库拉",
+            "强奸罪",
+            "信徒"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "搜狐警法"
+        ],
+        "node_1": {
+            "ID": 607,
+            "nodeName": "搜狐警法",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸罪",
+            "已致",
+            "暴乱",
+            "骚乱",
+            "亚纳邦",
+            "哈里",
+            "印度",
+            "潘切",
+            "库拉",
+            "旁遮普邦"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "重庆时报",
+            "重庆时报",
+            "解放军报",
+            "重庆时报"
+        ],
+        "node_1": {
+            "ID": 251,
+            "nodeName": "重庆时报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 251,
+            "nodeName": "重庆时报",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 186,
+            "nodeName": "解放军报",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 251,
+            "nodeName": "重庆时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "演练",
+            "编队",
+            "远航",
+            "印度洋",
+            "实弹",
+            "补给舰",
+            "防御",
+            "补给",
+            "副炮",
+            "长春"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军魂",
+            "军魂"
+        ],
+        "node_1": {
+            "ID": 1062,
+            "nodeName": "军魂",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1062,
+            "nodeName": "军魂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "奉牛",
+            "头牛",
+            "农场",
+            "腐败",
+            "关闭",
+            "万余",
+            "印度",
+            "牛是"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军事集结号",
+            "军事集结号"
+        ],
+        "node_1": {
+            "ID": 747,
+            "nodeName": "军事集结号",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 747,
+            "nodeName": "军事集结号",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美想",
+            "反造",
+            "亏了",
+            "航母",
+            "超级",
+            "聪明",
+            "小鹰号",
+            "印度",
+            "军迷",
+            "小鹰"
+        ]
+    }
+}

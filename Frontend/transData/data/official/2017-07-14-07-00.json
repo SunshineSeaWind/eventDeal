@@ -1,0 +1,255 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-07-14 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军评陈光文",
+            "军评陈光文"
+        ],
+        "node_1": {
+            "ID": 219,
+            "nodeName": "军评陈光文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 219,
+            "nodeName": "军评陈光文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "转求",
+            "威胁",
+            "俄罗斯",
+            "抛弃",
+            "印度",
+            "战机",
+            "隐身",
+            "中国",
+            "FGFA",
+            "研发"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "钛媒体"
+        ],
+        "node_1": {
+            "ID": 303,
+            "nodeName": "钛媒体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "约会",
+            "过半",
+            "网恋",
+            "网民",
+            "APP",
+            "婚恋",
+            "用户",
+            "网络",
+            "印度",
+            "网站"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "越界",
+            "执迷不悟",
+            "印军",
+            "非法",
+            "印方",
+            "印度",
+            "边界",
+            "在线",
+            "划定",
+            "撤回"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "钛媒体"
+        ],
+        "node_1": {
+            "ID": 303,
+            "nodeName": "钛媒体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "约会",
+            "过半",
+            "网恋",
+            "网民",
+            "APP",
+            "婚恋",
+            "用户",
+            "网络",
+            "印度",
+            "网站"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "钛媒体"
+        ],
+        "node_1": {
+            "ID": 303,
+            "nodeName": "钛媒体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "约会",
+            "过半",
+            "网恋",
+            "网民",
+            "APP",
+            "婚恋",
+            "用户",
+            "网络",
+            "印度",
+            "网站"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "海外网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "越界",
+            "亲绿台",
+            "妄称",
+            "不涉",
+            "疆域",
+            "印方",
+            "友邦",
+            "巴拉圭",
+            "台湾",
+            "外弯"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "大国之翼",
+            "大国之翼"
+        ],
+        "node_1": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "铁心",
+            "丢掉",
+            "幻想",
+            "两大",
+            "迹象",
+            "印度",
+            "莫迪",
+            "中国",
+            "武器弹药",
+            "采购"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "尼泊尔",
+            "接入",
+            "终结",
+            "互联网",
+            "垄断",
+            "网络"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：參考消息網"
+        ],
+        "node_1": {
+            "ID": 153,
+            "nodeName": "來源：參考消息網",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "移民",
+            "萬人",
+            "意願",
+            "德媒",
+            "強烈",
+            "中國",
+            "經濟網",
+            "計劃",
+            "國家",
+            "調查"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：新華網"
+        ],
+        "node_1": {
+            "ID": 140,
+            "nodeName": "來源：新華網",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "新華社",
+            "執迷",
+            "不悟",
+            "中國",
+            "發文",
+            "經濟網",
+            "國家",
+            "印方",
+            "越界",
+            "邊界"
+        ]
+    }
+}

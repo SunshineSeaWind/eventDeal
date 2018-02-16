@@ -1,0 +1,44 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-22 01:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网俄文"
+        ],
+        "node_1": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "事故",
+            "people",
+            "russian",
+            "china",
+            "org",
+            "cn",
+            "皮卡",
+            "受害者"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "卡车",
+            "皮卡",
+            "受害者",
+            "事故",
+            "交通事故"
+        ]
+    }
+}

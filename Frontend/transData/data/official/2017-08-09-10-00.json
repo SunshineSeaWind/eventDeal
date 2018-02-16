@@ -1,0 +1,353 @@
+{
+    "LinkedArraySize": 12,
+    "Date": "2017-08-09 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国政府网",
+            "凤凰国际智库"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 591,
+            "nodeName": "凤凰国际智库",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "Doklam",
+            "廓尔喀",
+            "印度政府",
+            "一刀",
+            "期限",
+            "霸权",
+            "核心",
+            "尼泊尔",
+            "中国"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴媒",
+            "货是",
+            "毁容",
+            "抵制",
+            "惨重",
+            "印度",
+            "中国",
+            "运动",
+            "报道",
+            "RSS"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "珠峰",
+            "登顶",
+            "造假",
+            "解雇",
+            "拉索",
+            "夫妇",
+            "登山者",
+            "尼泊尔政府",
+            "马哈拉施特拉邦",
+            "尼泊尔"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "万公里",
+            "阿甘",
+            "挑战",
+            "百日",
+            "失败",
+            "印度",
+            "萨米尔",
+            "辛赫",
+            "公里",
+            "旅程"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "荆楚网",
+            "楚天金报"
+        ],
+        "node_1": {
+            "ID": 782,
+            "nodeName": "荆楚网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 779,
+            "nodeName": "楚天金报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "劫持",
+            "印度人",
+            "女店员",
+            "谣言",
+            "潜江市",
+            "李某",
+            "微信",
+            "视频",
+            "潜江",
+            "武汉"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "万公里",
+            "阿甘",
+            "挑战",
+            "百日",
+            "失败",
+            "印度",
+            "萨米尔",
+            "辛赫",
+            "公里",
+            "旅程"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "婚礼",
+            "黄金",
+            "需求",
+            "吉祥",
+            "印度",
+            "日期",
+            "购买",
+            "服务",
+            "美元",
+            "阻力"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            " 蜂鸟网 ",
+            "兵工科技",
+            "兵工科技"
+        ],
+        "node_1": {
+            "ID": 784,
+            "nodeName": " 蜂鸟网 ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 666,
+            "nodeName": "兵工科技",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 666,
+            "nodeName": "兵工科技",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "叫嚣",
+            "生命线",
+            "中国",
+            "印度",
+            "切断",
+            "应对",
+            "尼康",
+            "50%",
+            "或成",
+            "救命稻草"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "环球网",
+            "环球网",
+            "新华社",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "反导",
+            "研发",
+            "部署",
+            "有何",
+            "玄机",
+            "中美",
+            "差距",
+            "印度",
+            "拦截",
+            "系统"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "达达谈武器",
+            "达达谈武器"
+        ],
+        "node_1": {
+            "ID": 175,
+            "nodeName": "达达谈武器",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 175,
+            "nodeName": "达达谈武器",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "AIP",
+            "潜艇",
+            "建造",
+            "先进",
+            "印度",
+            "日本",
+            "帕杰罗",
+            "重工",
+            "制造商",
+            "蒂森"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "四川日报",
+            "环球网",
+            "环球时报-环球网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自杀",
+            "陆军",
+            "印媒",
+            "百名",
+            "身亡",
+            "士兵",
+            "印度国防部",
+            "军官",
+            "自相残杀",
+            "报道"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "公然反对",
+            "Do",
+            "Disturb",
+            "上架",
+            "苹果",
+            "监管局",
+            "电信",
+            "拒绝",
+            "Trai",
+            "讨论"
+        ]
+    }
+}

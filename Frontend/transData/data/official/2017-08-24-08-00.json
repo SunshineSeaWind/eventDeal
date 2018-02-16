@@ -1,0 +1,316 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-24 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "29K",
+            "米格",
+            "航母",
+            "班公湖",
+            "俄企",
+            "报道",
+            "新路",
+            "边界",
+            "批准"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "29K",
+            "印度",
+            "米格",
+            "航母",
+            "俄企",
+            "RAC",
+            "海军",
+            "飞机",
+            "战斗机",
+            "舰载"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "29K",
+            "印度",
+            "米格",
+            "航母",
+            "俄企",
+            "RAC",
+            "海军",
+            "飞机",
+            "战斗机",
+            "舰载"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社",
+            "中国网繁体",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "列车",
+            "北方邦",
+            "莫迪",
+            "印度教",
+            "民族主义",
+            "上台",
+            "疫苗",
+            "组图",
+            "奥赖亚县"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "人民日报",
+            "人民网－人民日报",
+            "新华社",
+            "人民日报",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 74,
+            "nodeName": "人民网－人民日报",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "列车",
+            "脱轨",
+            "余人",
+            "北方邦",
+            "受伤",
+            "事故",
+            "凌晨",
+            "铁道部长",
+            "克什米尔",
+            "警察"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "人民网－《人民日报》",
+            "人民网-人民日报",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 75,
+            "nodeName": "人民网－《人民日报》",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 190,
+            "nodeName": "人民网-人民日报",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "列车",
+            "脱轨",
+            "余人",
+            "新德里",
+            "无现金",
+            "支付",
+            "模式",
+            "印度",
+            "北方邦",
+            "凌晨"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 10,
+        "AllNodeNameArray": [
+            "Global Times",
+            "中新网英文",
+            "华语军事",
+            "外交部网站",
+            "人民网国际",
+            "人民网国际",
+            "华语军事",
+            "战略观察家",
+            "战略观察家",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 57,
+            "nodeName": "华语军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 42,
+            "nodeName": "外交部网站",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 53,
+            "nodeName": "人民网国际",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 53,
+            "nodeName": "人民网国际",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 57,
+            "nodeName": "华语军事",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 370,
+            "nodeName": "战略观察家",
+            "nodeInfo": {}
+        },
+        "node_9": {
+            "ID": 370,
+            "nodeName": "战略观察家",
+            "nodeInfo": {}
+        },
+        "node_10": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边界",
+            "中国",
+            "莫迪",
+            "印度",
+            "特朗普",
+            "阿富汗",
+            "印方",
+            "增兵",
+            "修路",
+            "中印"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "军事前锋",
+            "军事前锋",
+            "军事前锋",
+            "军事前锋"
+        ],
+        "node_1": {
+            "ID": 393,
+            "nodeName": "军事前锋",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 393,
+            "nodeName": "军事前锋",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 393,
+            "nodeName": "军事前锋",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 393,
+            "nodeName": "军事前锋",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "启用",
+            "别笑",
+            "这回",
+            "印度",
+            "北京"
+        ]
+    }
+}

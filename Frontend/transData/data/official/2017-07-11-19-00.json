@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-11 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "时自",
+            "落水",
+            "划船",
+            "这盆面",
+            "学生",
+            "单车",
+            "阿富汗",
+            "非法",
+            "北极海",
+            "回收"
+        ]
+    }
+}

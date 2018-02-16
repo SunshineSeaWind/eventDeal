@@ -1,0 +1,95 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-07-31 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "战机",
+            "中国",
+            "第五代",
+            "莫迪",
+            "边界",
+            "第四代",
+            "印度人",
+            "愚蠢",
+            "战争"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "战机",
+            "第五代",
+            "中国",
+            "莫迪",
+            "边界",
+            "第四代",
+            "愚蠢",
+            "战争",
+            "巴基斯坦"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "警卫队",
+            "缴获",
+            "海洛因",
+            "印度",
+            "洋垃圾",
+            "海岸",
+            "客运站",
+            "毒品"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大吉",
+            "骚乱",
+            "最后通牒",
+            "印度",
+            "廓尔喀",
+            "示威者",
+            "警察",
+            "建邦",
+            "集会",
+            "冲突"
+        ]
+    }
+}

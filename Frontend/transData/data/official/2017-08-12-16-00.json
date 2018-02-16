@@ -1,0 +1,167 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-12 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "死亡",
+            "缺氧",
+            "医院",
+            "北方邦",
+            "液态氧",
+            "Kak",
+            "公立医院"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：新華網"
+        ],
+        "node_1": {
+            "ID": 140,
+            "nodeName": "來源：新華網",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "醫院",
+            "因供",
+            "氧中斷",
+            "而致",
+            "北方邦",
+            "死亡",
+            "名兒童"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国网俄文",
+            "军武次位面",
+            "军武次位面"
+        ],
+        "node_1": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 297,
+            "nodeName": "军武次位面",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 297,
+            "nodeName": "军武次位面",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "缺乏",
+            "自信",
+            "来源于",
+            "死亡",
+            "报纸",
+            "kisloroda",
+            "russian",
+            "china",
+            "org"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "战壕",
+            "血色年华",
+            "血色年华"
+        ],
+        "node_1": {
+            "ID": 632,
+            "nodeName": "战壕",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 850,
+            "nodeName": "血色年华",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 850,
+            "nodeName": "血色年华",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "冤大头",
+            "无人机",
+            "军购",
+            "不知情",
+            "翻倍",
+            "美军",
+            "趴窝",
+            "印度",
+            "先进",
+            "俄罗斯"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "战壕"
+        ],
+        "node_1": {
+            "ID": 632,
+            "nodeName": "战壕",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "趴窝",
+            "T90",
+            "96B",
+            "丢光",
+            "脸面",
+            "大败",
+            "坦克",
+            "t90s",
+            "印度",
+            "比赛"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "同场竞技",
+            "救援车",
+            "洞朗",
+            "不丹",
+            "抛锚",
+            "拖走",
+            "借软",
+            "下风",
+            "外相",
+            "希望"
+        ]
+    }
+}

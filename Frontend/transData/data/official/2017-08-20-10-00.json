@@ -1,0 +1,157 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-20 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球新军事"
+        ],
+        "node_1": {
+            "ID": 362,
+            "nodeName": "环球新军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "直击",
+            "一语"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "王陶陶",
+            "环球新军事",
+            "环球新军事"
+        ],
+        "node_1": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 362,
+            "nodeName": "环球新军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 362,
+            "nodeName": "环球新军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "两封信",
+            "毛主席",
+            "伊斯兰",
+            "责任编辑"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球新军事"
+        ],
+        "node_1": {
+            "ID": 362,
+            "nodeName": "环球新军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "直击",
+            "一语"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "王陶陶"
+        ],
+        "node_1": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "伊斯兰",
+            "摧毁",
+            "印度"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中新网英文",
+            "环球网",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "印度",
+            "年前",
+            "侵入",
+            "中国",
+            "边界",
+            "暗堡",
+            "小康",
+            "非法",
+            "背后"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "Global Times",
+            "人民网",
+            "海外网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "印度",
+            "列车",
+            "事故",
+            "北方邦",
+            "遇害",
+            "事故现场",
+            "升至",
+            "出轨",
+            "铁道部长"
+        ]
+    }
+}

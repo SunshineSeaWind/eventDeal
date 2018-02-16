@@ -1,0 +1,159 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-05 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度尼西亚",
+            "中国",
+            "电讯"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度尼西亚",
+            "中国",
+            "电讯"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民日报",
+            "人民日报"
+        ],
+        "node_1": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "评中印",
+            "留给",
+            "边境",
+            "军报",
+            "对峙",
+            "印度",
+            "解放军",
+            "越界",
+            "领土",
+            "印方"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报"
+        ],
+        "node_1": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "评中印",
+            "留给",
+            "边境",
+            "军报",
+            "对峙",
+            "印度",
+            "解放军",
+            "越界",
+            "领土",
+            "印方"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国军网"
+        ],
+        "node_1": {
+            "ID": 733,
+            "nodeName": "中国军网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "评中印",
+            "军报",
+            "对峙",
+            "留给",
+            "边境",
+            "印度",
+            "越界",
+            "领土",
+            "解放军",
+            "印方"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "丧生",
+            "倒塌",
+            "建筑物",
+            "北部",
+            "喜马偕尔邦"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "国际在线",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "押解",
+            "嫌疑人",
+            "电信",
+            "诈骗",
+            "组图",
+            "诈骗案",
+            "网络",
+            "日晚",
+            "许可证",
+            "华龙网"
+        ]
+    }
+}

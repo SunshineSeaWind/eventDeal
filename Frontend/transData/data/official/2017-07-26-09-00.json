@@ -1,0 +1,346 @@
+{
+    "LinkedArraySize": 13,
+    "Date": "2017-07-26 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰军事"
+        ],
+        "node_1": {
+            "ID": 165,
+            "nodeName": "凤凰军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "孙飞",
+            "声东击西",
+            "谨防",
+            "克赛钦",
+            "拉达克",
+            "印度",
+            "印军",
+            "地区",
+            "我军",
+            "亚东"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "科温德",
+            "组图",
+            "宣誓就职",
+            "总统"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：科技日報"
+        ],
+        "node_1": {
+            "ID": 564,
+            "nodeName": "來源：科技日報",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美國",
+            "中國",
+            "搬來",
+            "經濟網",
+            "南海",
+            "行動",
+            "進行",
+            "特朗普",
+            "計劃",
+            "朝鮮"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Ram",
+            "Nath",
+            "Kovind",
+            "sworn"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "美媒",
+            "高加索",
+            "进军",
+            "阻止",
+            "亚美尼亚",
+            "阿塞拜疆",
+            "埃里温",
+            "文章",
+            "对话"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "界面-天下",
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 568,
+            "nodeName": "界面-天下",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大吉",
+            "以暴制暴",
+            "茶乡",
+            "何时休",
+            "死循环",
+            "深陷",
+            "廓尔喀",
+            "西孟加拉邦",
+            "独立",
+            "政府"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "性犯罪",
+            "女警",
+            "巡逻队",
+            "印度",
+            "频发",
+            "现状",
+            "性侵",
+            "妇女",
+            "报案",
+            "警队"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "金融界",
+            "华尔街见闻网",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 572,
+            "nodeName": "华尔街见闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "驾驶",
+            "印度",
+            "自动",
+            "无人",
+            "司机",
+            "汽车",
+            "抢走",
+            "开挂",
+            "碗饭",
+            "公司"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "母女",
+            "硫酸",
+            "组图",
+            "返家",
+            "走投无路",
+            "吉塔",
+            "女儿",
+            "基特",
+            "英德",
+            "马乌"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "参考消息",
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "弹药",
+            "陆军",
+            "够用",
+            "糟糕",
+            "十天",
+            "勉强",
+            "图为",
+            "印度",
+            "自行火炮",
+            "审计长"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "调遣",
+            "隧道",
+            "缩短",
+            "印媒称",
+            "拟建",
+            "印度",
+            "达旺",
+            "道路",
+            "公路",
+            "地区"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国财经"
+        ],
+        "node_1": {
+            "ID": 429,
+            "nodeName": "中国财经",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "应诉",
+            "光伏",
+            "反倾销",
+            "印度",
+            "发起",
+            "调查",
+            "组件",
+            "吉瓦",
+            "中国",
+            "出口"
+        ]
+    },
+    "LinkedArray_13": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军之言语",
+            "军之言语"
+        ],
+        "node_1": {
+            "ID": 369,
+            "nodeName": "军之言语",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 369,
+            "nodeName": "军之言语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "过贵",
+            "C17",
+            "天价",
+            "没见",
+            "印度",
+            "卖价",
+            "运输机",
+            "收买",
+            "运送",
+            "美国"
+        ]
+    }
+}

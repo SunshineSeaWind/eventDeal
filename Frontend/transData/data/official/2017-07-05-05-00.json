@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-07-05 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "三成",
+            "后能",
+            "战力",
+            "七成",
+            "十年",
+            "承认",
+            "印度",
+            "中印",
+            "中国",
+            "边境"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "三成",
+            "后能",
+            "战力",
+            "七成",
+            "十年",
+            "承认",
+            "印度",
+            "中印",
+            "中国",
+            "边境"
+        ]
+    }
+}

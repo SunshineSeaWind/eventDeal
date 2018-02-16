@@ -1,0 +1,49 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-01 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遭雷击",
+            "身亡",
+            "沙邦",
+            "奥迪",
+            "洋垃圾",
+            "客运站",
+            "雷击",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "吴敦义",
+            "印度",
+            "访印",
+            "别忘记",
+            "学者",
+            "纳拉",
+            "帕特",
+            "国民党",
+            "党团",
+            "拜会"
+        ]
+    }
+}

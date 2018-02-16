@@ -1,0 +1,383 @@
+{
+    "LinkedArraySize": 14,
+    "Date": "2017-08-30 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "中印",
+            "较量",
+            "印度",
+            "修路",
+            "中国",
+            "对峙",
+            "莫迪",
+            "撤退",
+            "支持率"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "中印",
+            "较量",
+            "印度",
+            "修路",
+            "中国",
+            "对峙",
+            "莫迪",
+            "撤退",
+            "支持率"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "武器知识",
+            "火热生活军事",
+            "火热生活军事"
+        ],
+        "node_1": {
+            "ID": 1135,
+            "nodeName": "武器知识",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 113,
+            "nodeName": "火热生活军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 113,
+            "nodeName": "火热生活军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "巴铁",
+            "核大国",
+            "对抗",
+            "已然",
+            "武器",
+            "责任编辑",
+            "撤军",
+            "对峙",
+            "概括"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武器知识"
+        ],
+        "node_1": {
+            "ID": 1135,
+            "nodeName": "武器知识",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "撤军",
+            "对峙",
+            "概括"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "央视新闻",
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "孟买",
+            "几近",
+            "瘫痪"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "环球网",
+            "中国新闻网",
+            "海外网",
+            "新华网",
+            "环球网",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电车",
+            "回厂",
+            "失火",
+            "人员伤亡",
+            "途中",
+            "孟买",
+            "报道",
+            "脱轨",
+            "印度",
+            "强奸罪"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "萨沙"
+        ],
+        "node_1": {
+            "ID": 972,
+            "nodeName": "萨沙",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "烈火",
+            "有多强",
+            "杀手锏",
+            "印度",
+            "导弹",
+            "射程",
+            "1.2",
+            "弹头",
+            "携带",
+            "零件"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "军机图",
+            "观察眼",
+            "军机图",
+            "观察眼"
+        ],
+        "node_1": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 10,
+            "nodeName": "观察眼",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 10,
+            "nodeName": "观察眼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "单座",
+            "双座",
+            "五代",
+            "中美",
+            "俄罗斯",
+            "全套",
+            "生产线",
+            "空军",
+            "战斗机"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "武器知识",
+            "武器知识",
+            "武器知识"
+        ],
+        "node_1": {
+            "ID": 1135,
+            "nodeName": "武器知识",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1135,
+            "nodeName": "武器知识",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1135,
+            "nodeName": "武器知识",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "犯了错",
+            "中印",
+            "史学家"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "21世纪经济报道"
+        ],
+        "node_1": {
+            "ID": 327,
+            "nodeName": "21世纪经济报道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "李嘉诚",
+            "追缴",
+            "亿港元",
+            "税款",
+            "回应",
+            "印度",
+            "罚款",
+            "国际",
+            "税务局",
+            "汤宇"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸罪",
+            "匿名信",
+            "被判",
+            "起因",
+            "辛格",
+            "大师",
+            "印度",
+            "信徒",
+            "亚纳邦",
+            "哈里"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "小康",
+            "外交部",
+            "对峙",
+            "印媒",
+            "最新消息",
+            "撤军",
+            "边境",
+            "做好",
+            "规划"
+        ]
+    },
+    "LinkedArray_13": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "火车",
+            "技术落后",
+            "跟不上",
+            "十天",
+            "印度",
+            "铁路",
+            "事故",
+            "开往",
+            "列车"
+        ]
+    },
+    "LinkedArray_14": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中文",
+            "狠学",
+            "边防部队",
+            "五六十",
+            "误会",
+            "每人",
+            "印度",
+            "洞朗"
+        ]
+    }
+}

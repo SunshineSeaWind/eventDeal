@@ -1,0 +1,161 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-16 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "收高",
+            "印度",
+            "收于"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军事天地",
+            "铁血讲武堂"
+        ],
+        "node_1": {
+            "ID": 422,
+            "nodeName": "军事天地",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 300,
+            "nodeName": "铁血讲武堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴铁",
+            "出手",
+            "出访",
+            "南亚",
+            "高层",
+            "急访",
+            "求和",
+            "果断",
+            "急忙",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事天地"
+        ],
+        "node_1": {
+            "ID": 422,
+            "nodeName": "军事天地",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "先进武器",
+            "石破天惊",
+            "印度"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事天地"
+        ],
+        "node_1": {
+            "ID": 422,
+            "nodeName": "军事天地",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "先进武器",
+            "石破天惊",
+            "印度"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "克什米尔",
+            "巴基斯坦",
+            "卢卡",
+            "火灾",
+            "部队",
+            "印度",
+            "官员",
+            "一名"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军事天地",
+            "铁血讲武堂"
+        ],
+        "node_1": {
+            "ID": 422,
+            "nodeName": "军事天地",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 300,
+            "nodeName": "铁血讲武堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴铁",
+            "出手",
+            "出访",
+            "南亚",
+            "高层",
+            "急访",
+            "求和",
+            "果断",
+            "急忙",
+            "印度"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军机图",
+            "军机图"
+        ],
+        "node_1": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "海军",
+            "第四",
+            "印度",
+            "差得",
+            "第一",
+            "全球",
+            "美国",
+            "差距",
+            "舰艇",
+            "技术"
+        ]
+    }
+}

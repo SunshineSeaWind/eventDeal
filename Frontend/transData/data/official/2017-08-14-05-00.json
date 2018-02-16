@@ -1,0 +1,91 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-14 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网－人民日报"
+        ],
+        "node_1": {
+            "ID": 74,
+            "nodeName": "人民网－人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "医疗",
+            "缺失",
+            "悲剧",
+            "北方邦",
+            "供氧",
+            "医院",
+            "儿童",
+            "印度",
+            "死亡",
+            "中断"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "滑坡",
+            "救援",
+            "山体",
+            "已致",
+            "大巴",
+            "两辆",
+            "曼迪",
+            "喜马偕尔邦",
+            "死亡",
+            "泥石流"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "山西新闻网山西日报"
+        ],
+        "node_1": {
+            "ID": 246,
+            "nodeName": "山西新闻网山西日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "中断",
+            "死亡",
+            "非供",
+            "因病",
+            "山西",
+            "医院",
+            "阿迪蒂",
+            "亚纳",
+            "新闻网"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "朝日新闻"
+        ],
+        "node_1": {
+            "ID": 675,
+            "nodeName": "朝日新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴基斯坦",
+            "边框",
+            "深化",
+            "冲突"
+        ]
+    }
+}

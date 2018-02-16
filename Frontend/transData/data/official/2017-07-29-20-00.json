@@ -1,0 +1,141 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-29 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "慢旅"
+        ],
+        "node_1": {
+            "ID": 630,
+            "nodeName": "慢旅",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "空与色",
+            "之谜",
+            "印度",
+            "根杰",
+            "比尔",
+            "Pi",
+            "尼泊尔",
+            "加德满都",
+            "种姓",
+            "印度人"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "慢旅"
+        ],
+        "node_1": {
+            "ID": 630,
+            "nodeName": "慢旅",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "空与色",
+            "之谜",
+            "印度",
+            "根杰",
+            "比尔",
+            "Pi",
+            "尼泊尔",
+            "加德满都",
+            "种姓",
+            "印度人"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "超级军事迷"
+        ],
+        "node_1": {
+            "ID": 464,
+            "nodeName": "超级军事迷",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "核弹",
+            "航母",
+            "信心"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "超级军事迷"
+        ],
+        "node_1": {
+            "ID": 464,
+            "nodeName": "超级军事迷",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "核弹",
+            "航母",
+            "信心"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "遇上世界",
+            "遇上世界",
+            "遇上世界"
+        ],
+        "node_1": {
+            "ID": 634,
+            "nodeName": "遇上世界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 634,
+            "nodeName": "遇上世界",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 634,
+            "nodeName": "遇上世界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "费雯丽",
+            "影星",
+            "出生地",
+            "却成",
+            "头疼",
+            "大吉",
+            "红茶",
+            "印度",
+            "小城",
+            "避暑"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "遇上世界"
+        ],
+        "node_1": {
+            "ID": 634,
+            "nodeName": "遇上世界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "费雯丽",
+            "影星",
+            "出生地",
+            "却成",
+            "头疼",
+            "大吉",
+            "红茶",
+            "印度",
+            "小城",
+            "避暑"
+        ]
+    }
+}

@@ -1,0 +1,423 @@
+{
+    "LinkedArraySize": 12,
+    "Date": "2017-08-29 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "正确",
+            "撤军",
+            "印度",
+            "领土",
+            "Doklam",
+            "主权",
+            "中国",
+            "维护"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 8,
+        "AllNodeNameArray": [
+            "新华社",
+            "张琪军事",
+            "张琪军事",
+            "张琪军事",
+            "张琪军事",
+            "中国新闻网",
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "印方",
+            "中印",
+            "越界",
+            "洞朗",
+            "印度",
+            "对峙",
+            "中方",
+            "边界",
+            "一侧"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "凤凰国际智库",
+            "内蒙古新闻",
+            "中国新闻网",
+            " 来源：中国新闻网",
+            "央广网"
+        ],
+        "node_1": {
+            "ID": 591,
+            "nodeName": "凤凰国际智库",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 236,
+            "nodeName": "内蒙古新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 124,
+            "nodeName": " 来源：中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大师",
+            "骚乱",
+            "被判",
+            "辛格",
+            "印度",
+            "亚纳邦",
+            "信众",
+            "哈里",
+            "宗教",
+            "信徒"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "凤凰国际智库",
+            "人民网-环球时报"
+        ],
+        "node_1": {
+            "ID": 591,
+            "nodeName": "凤凰国际智库",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "对峙",
+            "印度",
+            "印方",
+            "撤出",
+            "中国",
+            "越界",
+            "主权",
+            "争议",
+            "人员"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "中国小康",
+            "国防云",
+            "国防云",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1122,
+            "nodeName": "国防云",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1122,
+            "nodeName": "国防云",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "撤军",
+            "印度",
+            "小康",
+            "揭秘",
+            "真相",
+            "洞朗",
+            "印方",
+            "越界",
+            "心虚"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "山西新闻网山西晚报",
+            "",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 234,
+            "nodeName": "山西新闻网山西晚报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 27,
+            "nodeName": "",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "认清形势",
+            "正确",
+            "印方",
+            "洞朗",
+            "中方",
+            "越界",
+            "主权",
+            "领土",
+            "非法"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "央视新闻",
+            "烽火军事",
+            "烽火军事"
+        ],
+        "node_1": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 340,
+            "nodeName": "烽火军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 340,
+            "nodeName": "烽火军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "量产",
+            "光辉",
+            "战机",
+            "终于",
+            "辛格",
+            "被判",
+            "监禁",
+            "战斗机",
+            "印度斯坦"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网综合"
+        ],
+        "node_1": {
+            "ID": 38,
+            "nodeName": "环球网综合",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "本田",
+            "日产",
+            "花落",
+            "汽车品牌",
+            "大众",
+            "女性",
+            "买家",
+            "品牌形象",
+            "售后服务",
+            "PremonAsia"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "老张侃侃谈历史",
+            "老张侃侃谈历史"
+        ],
+        "node_1": {
+            "ID": 359,
+            "nodeName": "老张侃侃谈历史",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 359,
+            "nodeName": "老张侃侃谈历史",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战斗人员",
+            "祭师",
+            "优待",
+            "军营",
+            "被俘",
+            "印度",
+            "宗教",
+            "意识形态",
+            "信奉",
+            "印军"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "澎湃新闻",
+            "澎湃新闻",
+            "易读财经",
+            "澎湃新闻",
+            "易读财经",
+            "易读财经"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1129,
+            "nodeName": "易读财经",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 1129,
+            "nodeName": "易读财经",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 1129,
+            "nodeName": "易读财经",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "李嘉诚",
+            "罚款",
+            "税务局",
+            "旗下",
+            "亿港元",
+            "追缴",
+            "印度",
+            "收益税",
+            "沃达丰",
+            "交易"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "民航资源网"
+        ],
+        "node_1": {
+            "ID": 126,
+            "nodeName": "民航资源网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "老鼠",
+            "延误",
+            "旧金山",
+            "航班"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "受害人",
+            "入狱",
+            "被判",
+            "大师",
+            "拉希姆",
+            "在线",
+            "塔克",
+            "印度",
+            "亚纳邦",
+            "ICP"
+        ]
+    }
+}

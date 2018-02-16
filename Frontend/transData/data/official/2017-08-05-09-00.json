@@ -1,0 +1,152 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-05 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中印大同网"
+        ],
+        "node_1": {
+            "ID": 731,
+            "nodeName": "中印大同网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "沉浮",
+            "考究",
+            "妇女"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "中国政府网",
+            "钛媒体TMT",
+            "海外网",
+            "环球网",
+            "中国日报德文",
+            "中国军网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 89,
+            "nodeName": "钛媒体TMT",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 706,
+            "nodeName": "中国日报德文",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 733,
+            "nodeName": "中国军网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "底线",
+            "中国",
+            "军队",
+            "克制",
+            "领土",
+            "对峙",
+            "耐心",
+            "边界",
+            "锡金"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中新网英文",
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度尼西亚",
+            "电讯",
+            "中国",
+            "四川省",
+            "中国新闻社"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中印大同网"
+        ],
+        "node_1": {
+            "ID": 731,
+            "nodeName": "中印大同网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "沉浮",
+            "考究",
+            "妇女"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "围攻",
+            "反对党",
+            "视察",
+            "古吉拉特邦",
+            "胡尔",
+            "国大党"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "围攻",
+            "反对党",
+            "视察",
+            "古吉拉特邦",
+            "胡尔",
+            "国大党"
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-03 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "观海解局"
+        ],
+        "node_1": {
+            "ID": 534,
+            "nodeName": "观海解局",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "胆儿",
+            "大校",
+            "面斥",
+            "来头",
+            "将军",
+            "周波",
+            "国防部",
+            "武官",
+            "印度",
+            "军事"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "观海解局"
+        ],
+        "node_1": {
+            "ID": 534,
+            "nodeName": "观海解局",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "胆儿",
+            "大校",
+            "面斥",
+            "来头",
+            "将军",
+            "周波",
+            "国防部",
+            "武官",
+            "军事",
+            "合作"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "小飞猪观察"
+        ],
+        "node_1": {
+            "ID": 145,
+            "nodeName": "小飞猪观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "航母",
+            "美国",
+            "一艘",
+            "厉害",
+            "武器",
+            "击沉",
+            "拼命",
+            "导弹",
+            "拉莫斯"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "小飞猪观察"
+        ],
+        "node_1": {
+            "ID": 145,
+            "nodeName": "小飞猪观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "航母",
+            "美国",
+            "一艘",
+            "厉害",
+            "武器",
+            "击沉",
+            "拼命",
+            "导弹",
+            "拉莫斯"
+        ]
+    }
+}

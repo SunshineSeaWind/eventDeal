@@ -1,0 +1,168 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-06 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "始说史话"
+        ],
+        "node_1": {
+            "ID": 212,
+            "nodeName": "始说史话",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "战败",
+            "用力",
+            "我军",
+            "印军",
+            "退军",
+            "印度人",
+            "撤退",
+            "理由",
+            "中国"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "始说史话"
+        ],
+        "node_1": {
+            "ID": 212,
+            "nodeName": "始说史话",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "战败",
+            "用力",
+            "我军",
+            "印军",
+            "退军",
+            "印度人",
+            "撤退",
+            "理由",
+            "中国"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "失联",
+            "MH17",
+            "马航",
+            "嫌犯",
+            "受审",
+            "击落",
+            "直升机",
+            "印度",
+            "残骸",
+            "阿鲁纳"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事观察号"
+        ],
+        "node_1": {
+            "ID": 218,
+            "nodeName": "军事观察号",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "军事实力",
+            "开战",
+            "不强",
+            "自信",
+            "11BS",
+            "30MKI",
+            "11B"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事观察号"
+        ],
+        "node_1": {
+            "ID": 218,
+            "nodeName": "军事观察号",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "军事实力",
+            "开战",
+            "不强",
+            "自信",
+            "11BS",
+            "30MKI",
+            "11B"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "女性",
+            "带牛",
+            "摄影师",
+            "上街",
+            "面具",
+            "呼吁",
+            "哈特",
+            "照片",
+            "在线",
+            "印度"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "今日墨尔本",
+            "今日墨尔本"
+        ],
+        "node_1": {
+            "ID": 231,
+            "nodeName": "今日墨尔本",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 231,
+            "nodeName": "今日墨尔本",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Burwood",
+            "切记",
+            "以下几点",
+            "绑架",
+            "上车",
+            "澳洲",
+            "频频",
+            "两名",
+            "男子",
+            "澳华"
+        ]
+    }
+}

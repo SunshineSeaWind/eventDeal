@@ -1,0 +1,271 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-08-13 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国政府网",
+            "新华网",
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度尼西亚",
+            "地震",
+            "6.6",
+            "新华社",
+            "苏门答腊岛",
+            "海啸",
+            "袭击",
+            "汶川",
+            "扎姆",
+            "公里"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "6.5",
+            "苏门答腊岛",
+            "印度尼西亚",
+            "地震",
+            "租房",
+            "落户",
+            "租购",
+            "同权",
+            "徐树贵",
+            "济南"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华通讯社",
+            "大众网"
+        ],
+        "node_1": {
+            "ID": 70,
+            "nodeName": "新华通讯社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "地震",
+            "6.5",
+            "苏门答腊岛",
+            "印度尼西亚",
+            "财产损失",
+            "许可证",
+            "华龙网",
+            "东方网",
+            "消息",
+            "人员伤亡"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "地震",
+            "6.5",
+            "苏门答腊岛",
+            "印度尼西亚",
+            "租房",
+            "落户",
+            "青年网",
+            "租购",
+            "同权",
+            "徐树贵"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "地震",
+            "6.5",
+            "苏门答腊岛"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "新华社",
+            "澎湃新闻",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "6.5",
+            "地震",
+            "苏门答腊岛",
+            "印度尼西亚",
+            "东方网"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "叫板",
+            "几何",
+            "实力",
+            "反复"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中新经纬",
+            "中新经纬",
+            "新京报"
+        ],
+        "node_1": {
+            "ID": 129,
+            "nodeName": "中新经纬",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 129,
+            "nodeName": "中新经纬",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 116,
+            "nodeName": "新京报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "叫板",
+            "几何",
+            "实力",
+            "反复",
+            "印度",
+            "中国",
+            "报道",
+            "领土",
+            "特朗普",
+            "秦城监狱"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "驻登",
+            "总领事",
+            "巴萨",
+            "拜会",
+            "印度教",
+            "印尼",
+            "巴厘",
+            "迪亚纳",
+            "胡银全",
+            "中国"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "海外网",
+            "海外网",
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印军",
+            "开火",
+            "据点",
+            "巴基斯坦",
+            "士兵",
+            "交火",
+            "控制线",
+            "印度",
+            "克什米尔地区",
+            "身亡"
+        ]
+    }
+}

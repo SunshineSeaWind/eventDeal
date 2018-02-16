@@ -1,0 +1,92 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-08 12:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "警告",
+            "投降",
+            "军队",
+            "新德里",
+            "入侵者",
+            "霸主",
+            "驱逐"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报-环球网"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤侨",
+            "网传",
+            "多系",
+            "消息人士",
+            "谣言",
+            "环环",
+            "中资企业",
+            "撤离",
+            "印度",
+            "微博上"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤侨",
+            "网传",
+            "消息人士",
+            "谣言",
+            "印度",
+            "ID",
+            "huanqiu",
+            "com",
+            "环环",
+            "中资企业"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "降落",
+            "航母",
+            "战机",
+            "保修",
+            "破裂",
+            "不行",
+            "维克拉玛",
+            "蒂亚"
+        ]
+    }
+}

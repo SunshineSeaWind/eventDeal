@@ -1,0 +1,168 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-20 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报海外版"
+        ],
+        "node_1": {
+            "ID": 80,
+            "nodeName": "人民日报海外版",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大国",
+            "急不可耐",
+            "推进",
+            "印度",
+            "南亚",
+            "莫迪",
+            "孙士海",
+            "缅甸",
+            "关系",
+            "东南亚"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网-国际频道"
+        ],
+        "node_1": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "红耳",
+            "摄影师"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视"
+        ],
+        "node_1": {
+            "ID": 61,
+            "nodeName": "央视",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "总领事",
+            "被歼",
+            "孟买",
+            "被俘",
+            "VARMA",
+            "杨锐",
+            "印度",
+            "嘉宾"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新浪体育"
+        ],
+        "node_1": {
+            "ID": 449,
+            "nodeName": "新浪体育",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "黄镇",
+            "阿昌",
+            "终极",
+            "塔胜",
+            "武杨",
+            "选手",
+            "比赛",
+            "联队",
+            "Falcons",
+            "TTC"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "迷彩派",
+            "迷彩派"
+        ],
+        "node_1": {
+            "ID": 441,
+            "nodeName": "迷彩派",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 441,
+            "nodeName": "迷彩派",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "咖喱",
+            "EX",
+            "撞车"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "核子猎潜艇",
+            "核子猎潜艇"
+        ],
+        "node_1": {
+            "ID": 343,
+            "nodeName": "核子猎潜艇",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 343,
+            "nodeName": "核子猎潜艇",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战机",
+            "印度",
+            "惹火",
+            "盯上",
+            "罗斯",
+            "军火",
+            "俄罗斯",
+            "战斗机",
+            "购买",
+            "中国"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军之魂魄",
+            "军之魂魄"
+        ],
+        "node_1": {
+            "ID": 90,
+            "nodeName": "军之魂魄",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 90,
+            "nodeName": "军之魂魄",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "水陆坦克",
+            "射程",
+            "万多米",
+            "纸老虎",
+            "陆军",
+            "系列",
+            "装备",
+            "坦克",
+            "装甲",
+            "毫米"
+        ]
+    }
+}

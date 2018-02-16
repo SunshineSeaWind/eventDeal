@@ -1,0 +1,192 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-10 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "解放军报"
+        ],
+        "node_1": {
+            "ID": 186,
+            "nodeName": "解放军报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "心魔",
+            "印度",
+            "解放军报",
+            "摆脱",
+            "中国",
+            "领土",
+            "修路",
+            "饮水机",
+            "万公里",
+            "主权"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "解放军报"
+        ],
+        "node_1": {
+            "ID": 186,
+            "nodeName": "解放军报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "心魔",
+            "摆脱",
+            "印度",
+            "报刊",
+            "中国",
+            "领土",
+            "修路",
+            "万公里",
+            "主权",
+            "西藏"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "澎湃新闻",
+            "央广网"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "越界",
+            "印军",
+            "印度",
+            "非法",
+            "中印关系",
+            "心魔",
+            "评估",
+            "军报",
+            "再谈",
+            "中国"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：新華網"
+        ],
+        "node_1": {
+            "ID": 140,
+            "nodeName": "來源：新華網",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "玩水",
+            "遭強",
+            "襲擊",
+            "兒童"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "东方网"
+        ],
+        "node_1": {
+            "ID": 439,
+            "nodeName": "东方网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "心魔",
+            "摆脱",
+            "印度",
+            "报刊",
+            "中国",
+            "领土",
+            "修路",
+            "万公里",
+            "主权",
+            "西藏"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "东方网"
+        ],
+        "node_1": {
+            "ID": 439,
+            "nodeName": "东方网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "心魔",
+            "摆脱",
+            "印度",
+            "报刊",
+            "中国",
+            "领土",
+            "修路",
+            "万公里",
+            "主权",
+            "西藏"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "劳动报"
+        ],
+        "node_1": {
+            "ID": 802,
+            "nodeName": "劳动报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤侨",
+            "遭行",
+            "造谣",
+            "男子",
+            "谣言",
+            "处罚",
+            "警方"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球时报",
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自拍",
+            "印度人",
+            "事故",
+            "成居",
+            "全球",
+            "首位",
+            "印度",
+            "自我",
+            "自恋",
+            "拉姆"
+        ]
+    }
+}

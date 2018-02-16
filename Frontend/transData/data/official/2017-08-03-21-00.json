@@ -1,0 +1,120 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-08-03 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "服务业",
+            "印度",
+            "跌至",
+            "最低水平",
+            "毕晓洋",
+            "亚东",
+            "公布",
+            "数据",
+            "收缩",
+            "仅为"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "学者",
+            "合作",
+            "各个领域",
+            "访问",
+            "Varaprasad",
+            "领域",
+            "教训",
+            "中国",
+            "双边贸易"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中华网日语"
+        ],
+        "node_1": {
+            "ID": 501,
+            "nodeName": "中华网日语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "武装部队",
+            "外交部",
+            "边界",
+            "评论",
+            "领土",
+            "中国",
+            "和平",
+            "非法",
+            "边境",
+            "安全部队"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "外交部网站"
+        ],
+        "node_1": {
+            "ID": 42,
+            "nodeName": "外交部网站",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "和平",
+            "印方",
+            "称要",
+            "外交部",
+            "中方",
+            "越界",
+            "边界线",
+            "非法",
+            "领土",
+            "边防部队"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "外交部网站"
+        ],
+        "node_1": {
+            "ID": 42,
+            "nodeName": "外交部网站",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "和平",
+            "印方",
+            "称要",
+            "外交部",
+            "中方",
+            "越界",
+            "边界线",
+            "非法",
+            "领土",
+            "边防部队"
+        ]
+    }
+}

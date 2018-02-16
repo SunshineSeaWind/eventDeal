@@ -1,0 +1,314 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-07-25 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "人民网-人民日报",
+            "金融界",
+            "    "
+        ],
+        "node_1": {
+            "ID": 190,
+            "nodeName": "人民网-人民日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 7,
+            "nodeName": "    ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "反倾销",
+            "致约",
+            "禽流感",
+            "组件",
+            "光伏",
+            "电池",
+            "发起",
+            "越界",
+            "王毅",
+            "印军"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国小康",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "台媒",
+            "洞朗",
+            "跳脚",
+            "无阻",
+            "强悍",
+            "斯汀",
+            "禁贾",
+            "演唱会",
+            "演出",
+            "网友"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "來源：中國新聞網",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 542,
+            "nodeName": "來源：中國新聞網",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "光伏",
+            "電池",
+            "組件",
+            "發起",
+            "反傾銷",
+            "组件",
+            "對華",
+            "印方",
+            "对华",
+            "反倾销"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰讲堂"
+        ],
+        "node_1": {
+            "ID": 180,
+            "nodeName": "凤凰讲堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "山易",
+            "霸气",
+            "解放军",
+            "回应",
+            "印度",
+            "印军",
+            "我军",
+            "尼赫鲁",
+            "边界问题",
+            "兵力"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "中国小康",
+            "中国小康",
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "洞朗",
+            "现地",
+            "解放军",
+            "台媒",
+            "跳脚",
+            "无阻",
+            "强悍",
+            "正告",
+            "紧急"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "台媒",
+            "洞朗",
+            "跳脚",
+            "无阻",
+            "强悍",
+            "南亚",
+            "中国",
+            "斯汀",
+            "禁贾",
+            "演唱会"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "熊熊讲武",
+            "熊熊讲武"
+        ],
+        "node_1": {
+            "ID": 14,
+            "nodeName": "熊熊讲武",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 14,
+            "nodeName": "熊熊讲武",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "欲力",
+            "不要脸",
+            "坦克",
+            "压中",
+            "凉了半截",
+            "夺冠",
+            "评价",
+            "T90",
+            "印度",
+            "T90S"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "网言军事",
+            "网言军事",
+            "武器先生",
+            "武器先生",
+            "武器先生"
+        ],
+        "node_1": {
+            "ID": 547,
+            "nodeName": "网言军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 547,
+            "nodeName": "网言军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "研发",
+            "以色列",
+            "防御",
+            "战机",
+            "俄罗斯",
+            "中巴",
+            "中程导弹",
+            "部署",
+            "印度",
+            "空军"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "上路",
+            "驾驶",
+            "自动",
+            "禁令",
+            "保住",
+            "印度",
+            "汽车",
+            "杂乱无序",
+            "Gadkari",
+            "工作"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "红察军武",
+            "红察军武",
+            "红察军武"
+        ],
+        "node_1": {
+            "ID": 438,
+            "nodeName": "红察军武",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 438,
+            "nodeName": "红察军武",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 438,
+            "nodeName": "红察军武",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "临阵磨枪",
+            "平戎",
+            "甩锅",
+            "全怪",
+            "惨遭"
+        ]
+    }
+}

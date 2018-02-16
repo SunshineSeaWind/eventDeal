@@ -1,0 +1,97 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-27 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "迷彩虎军事"
+        ],
+        "node_1": {
+            "ID": 955,
+            "nodeName": "迷彩虎军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "单挑",
+            "印度",
+            "解放军",
+            "吹牛",
+            "印军",
+            "自信",
+            "更是",
+            "战争",
+            "GDP",
+            "PLA"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "迷彩虎军事"
+        ],
+        "node_1": {
+            "ID": 955,
+            "nodeName": "迷彩虎军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "单挑",
+            "印度",
+            "解放军",
+            "吹牛",
+            "印军",
+            "自信",
+            "更是",
+            "战争",
+            "GDP",
+            "PLA"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸",
+            "上师",
+            "封印",
+            "辛格",
+            "Singh",
+            "追随者",
+            "哈里",
+            "准军事",
+            "亚拉",
+            "Dera"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "收监",
+            "关押",
+            "地板",
+            "大师",
+            "强奸",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "监狱",
+            "印度"
+        ]
+    }
+}

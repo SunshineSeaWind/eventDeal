@@ -1,0 +1,174 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-17 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 界面网 "
+        ],
+        "node_1": {
+            "ID": 923,
+            "nodeName": " 界面网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美味",
+            "餐厅",
+            "街头",
+            "探索",
+            "印度",
+            "香港",
+            "旁遮普",
+            "素食",
+            "Hussain",
+            "咖喱"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "牛尿能",
+            "印度人",
+            "治病",
+            "能治癌",
+            "自信",
+            "牛尿",
+            "癌症",
+            "视频",
+            "网友",
+            "脸谱"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "环游世界",
+            "组员",
+            "莫迪",
+            "INSV",
+            "印度",
+            "帆船"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 来源：中国日报网"
+        ],
+        "node_1": {
+            "ID": 119,
+            "nodeName": " 来源：中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抵制",
+            "伤害",
+            "印度",
+            "老外",
+            "中国",
+            "商品",
+            "贸易逆差",
+            "进口商品",
+            "民众",
+            "出口额"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国日报",
+            "环球网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 602,
+            "nodeName": "中国日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "孟买",
+            "蓝色",
+            "污染",
+            "流浪狗",
+            "河水",
+            "印度",
+            "动物",
+            "委员会",
+            "河流",
+            "控制"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "北京日报"
+        ],
+        "node_1": {
+            "ID": 273,
+            "nodeName": "北京日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "绳技",
+            "魔术",
+            "丝绸之路",
+            "传来",
+            "偷桃",
+            "故事",
+            "伊本",
+            "肢解",
+            "小儿",
+            "白图"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "试射",
+            "延后",
+            "榴弹炮",
+            "国产",
+            "日期",
+            "印度",
+            "丹奴什",
+            "制退器",
+            "击中",
+            "报道"
+        ]
+    }
+}

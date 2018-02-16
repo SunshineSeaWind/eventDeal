@@ -1,0 +1,106 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-07-21 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "A股备忘录"
+        ],
+        "node_1": {
+            "ID": 463,
+            "nodeName": "A股备忘录",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "升级",
+            "社评",
+            "拒绝",
+            "印度",
+            "中国",
+            "领土",
+            "解放军",
+            "边界",
+            "印方"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "超级军事迷"
+        ],
+        "node_1": {
+            "ID": 464,
+            "nodeName": "超级军事迷",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴铁",
+            "画成",
+            "乌龙"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "A股备忘录"
+        ],
+        "node_1": {
+            "ID": 463,
+            "nodeName": "A股备忘录",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "升级",
+            "社评",
+            "拒绝",
+            "印度",
+            "中国",
+            "领土",
+            "解放军",
+            "边界",
+            "印方"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "超级军事迷"
+        ],
+        "node_1": {
+            "ID": 464,
+            "nodeName": "超级军事迷",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴铁",
+            "画成",
+            "乌龙"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "石油",
+            "如意算盘",
+            "雄心勃勃",
+            "落空",
+            "强国",
+            "印度",
+            "公司",
+            "天然气",
+            "印度斯坦",
+            "一家"
+        ]
+    }
+}

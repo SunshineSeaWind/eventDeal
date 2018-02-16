@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-05 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "钧正平工作室"
+        ],
+        "node_1": {
+            "ID": 719,
+            "nodeName": "钧正平工作室",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "晨读",
+            "军报",
+            "留给",
+            "印军",
+            "副团长",
+            "我方",
+            "部队",
+            "西藏",
+            "我军"
+        ]
+    }
+}

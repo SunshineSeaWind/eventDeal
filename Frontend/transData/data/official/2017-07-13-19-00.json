@@ -1,0 +1,175 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-13 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抵制",
+            "印度",
+            "民间",
+            "仿制",
+            "解读",
+            "中国",
+            "格列卫",
+            "青鸟",
+            "亿美元",
+            "打印"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抵制",
+            "印度",
+            "民间",
+            "日期",
+            "仿制",
+            "解读",
+            "购买",
+            "服务",
+            "中国",
+            "格列卫"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "进口",
+            "翻倍",
+            "黄金",
+            "囤货",
+            "新税法",
+            "31.8",
+            "税来"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "龙凯锋瞰天下"
+        ],
+        "node_1": {
+            "ID": 277,
+            "nodeName": "龙凯锋瞰天下",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "渔翁得利",
+            "美日",
+            "唆使",
+            "挑衅",
+            "妄图",
+            "战略",
+            "印度",
+            "特朗普",
+            "中国",
+            "越境"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "龙凯锋瞰天下"
+        ],
+        "node_1": {
+            "ID": 277,
+            "nodeName": "龙凯锋瞰天下",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "渔翁得利",
+            "美日",
+            "唆使",
+            "挑衅",
+            "妄图",
+            "战略",
+            "印度",
+            "特朗普",
+            "中国",
+            "越境"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "广大军事",
+            "广大军事"
+        ],
+        "node_1": {
+            "ID": 188,
+            "nodeName": "广大军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 188,
+            "nodeName": "广大军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "新德里",
+            "火箭炮",
+            "远程",
+            "巴铁",
+            "担心",
+            "印度",
+            "火箭弹",
+            "靶心",
+            "目标",
+            "空军"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "越界",
+            "执迷不悟",
+            "印军",
+            "非法",
+            "新华社",
+            "印方",
+            "印度",
+            "边界",
+            "友好城市",
+            "安巴尔"
+        ]
+    }
+}

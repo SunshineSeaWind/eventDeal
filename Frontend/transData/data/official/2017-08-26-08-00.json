@@ -1,0 +1,226 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-26 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华语军事"
+        ],
+        "node_1": {
+            "ID": 57,
+            "nodeName": "华语军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "特朗普",
+            "反遭",
+            "闷棍",
+            "拉拢",
+            "印度",
+            "阿富汗",
+            "莫迪",
+            "美印",
+            "美国",
+            "战略"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 7,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网",
+            "金融界",
+            "新华网",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "强奸罪",
+            "已致",
+            "人伤",
+            "亚纳邦",
+            "哈里",
+            "印度",
+            "警方",
+            "旁遮普邦",
+            "新德里"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "    "
+        ],
+        "node_1": {
+            "ID": 7,
+            "nodeName": "    ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "已致",
+            "强奸罪",
+            "暴乱",
+            "骚乱",
+            "亚纳邦",
+            "潘切",
+            "库拉",
+            "哈里",
+            "精神领袖",
+            "辛格"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华语军事"
+        ],
+        "node_1": {
+            "ID": 57,
+            "nodeName": "华语军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "特朗普",
+            "反遭",
+            "闷棍",
+            "拉拢",
+            "印度",
+            "阿富汗",
+            "莫迪",
+            "美印",
+            "美国",
+            "战略"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸罪",
+            "已致",
+            "人伤",
+            "暴乱",
+            "骚乱",
+            "亚纳邦",
+            "潘切",
+            "库拉",
+            "哈里",
+            "精神领袖"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球时报",
+            "环球时报-环球网"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "出动",
+            "断网",
+            "骚乱",
+            "军队",
+            "大规模",
+            "神棍",
+            "印度",
+            "宗教",
+            "教派",
+            "信徒"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "扬子晚报"
+        ],
+        "node_1": {
+            "ID": 1061,
+            "nodeName": "扬子晚报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "实弹",
+            "演练",
+            "编队",
+            "印度洋"
+        ]
+    }
+}

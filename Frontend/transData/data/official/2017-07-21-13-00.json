@@ -1,0 +1,57 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-21 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "深圳高清"
+        ],
+        "node_1": {
+            "ID": 467,
+            "nodeName": "深圳高清",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "客车",
+            "山谷",
+            "坠入",
+            "关键词"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "深圳高清"
+        ],
+        "node_1": {
+            "ID": 467,
+            "nodeName": "深圳高清",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "客车",
+            "山谷",
+            "坠入",
+            "关键词"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "我们视频"
+        ],
+        "node_1": {
+            "ID": 102,
+            "nodeName": "我们视频",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "总统",
+            "贱民",
+            "逆袭成",
+            "最底层",
+            "第二位"
+        ]
+    }
+}

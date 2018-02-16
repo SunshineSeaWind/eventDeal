@@ -1,0 +1,114 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-07-30 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "警卫队",
+            "缴获",
+            "海洛因",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武装一姐"
+        ],
+        "node_1": {
+            "ID": 645,
+            "nodeName": "武装一姐",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "等国",
+            "陆军",
+            "望尘莫及",
+            "无可厚非",
+            "最强",
+            "实力",
+            "武器",
+            "保障",
+            "帐篷",
+            "军用"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事玲玲柒"
+        ],
+        "node_1": {
+            "ID": 646,
+            "nodeName": "军事玲玲柒",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "挂不住",
+            "抄袭",
+            "指责",
+            "面子",
+            "魔改",
+            "名机",
+            "战机",
+            "印度",
+            "中国",
+            "俄罗斯"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武装一姐"
+        ],
+        "node_1": {
+            "ID": 645,
+            "nodeName": "武装一姐",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "等国",
+            "陆军",
+            "望尘莫及",
+            "无可厚非",
+            "最强",
+            "实力",
+            "武器",
+            "保障",
+            "帐篷",
+            "军用"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事玲玲柒"
+        ],
+        "node_1": {
+            "ID": 646,
+            "nodeName": "军事玲玲柒",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "挂不住",
+            "抄袭",
+            "指责",
+            "面子",
+            "魔改",
+            "名机",
+            "战机",
+            "印度",
+            "中国",
+            "俄罗斯"
+        ]
+    }
+}

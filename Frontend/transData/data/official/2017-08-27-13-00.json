@@ -1,0 +1,128 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-27 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中华网日语"
+        ],
+        "node_1": {
+            "ID": 501,
+            "nodeName": "中华网日语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "紧张局势",
+            "局势",
+            "印度",
+            "亚纳邦",
+            "哈里"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "局势",
+            "紧张"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " |  "
+        ],
+        "node_1": {
+            "ID": 1080,
+            "nodeName": " |  ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "组图",
+            "骚乱",
+            "局势",
+            "紧张",
+            "亚纳邦",
+            "哈里",
+            "拉维斯"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "火星方阵"
+        ],
+        "node_1": {
+            "ID": 521,
+            "nodeName": "火星方阵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "营地",
+            "警察",
+            "喀什米尔",
+            "丧生",
+            "冲突",
+            "克什米尔",
+            "印度",
+            "武装",
+            "巴基斯坦",
+            "打死"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抵制",
+            "发起",
+            "印媒",
+            "不明智",
+            "幼稚",
+            "印度",
+            "中国",
+            "环球时报",
+            "商品",
+            "公司"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "火星方阵"
+        ],
+        "node_1": {
+            "ID": 521,
+            "nodeName": "火星方阵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "营地",
+            "警察",
+            "喀什米尔",
+            "丧生",
+            "冲突",
+            "克什米尔",
+            "印度",
+            "武装",
+            "巴基斯坦",
+            "打死"
+        ]
+    }
+}

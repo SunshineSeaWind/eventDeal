@@ -1,0 +1,302 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-08-14 15:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国网法文",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 558,
+            "nodeName": "中国网法文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "抵制",
+            "有害",
+            "中国",
+            "产品",
+            "进口",
+            "喊话",
+            "出手",
+            "大国",
+            "周一"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "滑坡",
+            "山体",
+            "人数",
+            "巴士",
+            "喜马偕尔邦",
+            "救援",
+            "印度",
+            "现场",
+            "死难者",
+            "服务站"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "进口关税",
+            "植物油",
+            "印度",
+            "农户",
+            "利益",
+            "油籽",
+            "调高到",
+            "精炼"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "新华社",
+            "四川日报",
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "尸检",
+            "真相",
+            "家长",
+            "氧气",
+            "儿童",
+            "断氧门",
+            "病婴",
+            "医院",
+            "勒克",
+            "布尔"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "蓝色",
+            "惊现",
+            "排入",
+            "污水",
+            "河流",
+            "污染",
+            "MPCB",
+            "动物",
+            "工厂",
+            "地区"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "滑坡",
+            "山体",
+            "人数",
+            "巴士",
+            "喜马偕尔邦",
+            "救援",
+            "印度",
+            "现场",
+            "死难者",
+            "服务站"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "森林狼",
+            "两机动力控制",
+            "森林狼",
+            "两机动力控制",
+            "森林狼",
+            "森林狼"
+        ],
+        "node_1": {
+            "ID": 749,
+            "nodeName": "森林狼",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 508,
+            "nodeName": "两机动力控制",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 749,
+            "nodeName": "森林狼",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 508,
+            "nodeName": "两机动力控制",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 749,
+            "nodeName": "森林狼",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 749,
+            "nodeName": "森林狼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴铁",
+            "印度",
+            "战斗机",
+            "洛克希德",
+            "否认",
+            "协商",
+            "战机",
+            "先进",
+            "火控",
+            "雷达"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "金融界",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "33%",
+            "对峙",
+            "印媒",
+            "做生意",
+            "边境",
+            "进口",
+            "印度"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "战壕",
+            "战壕"
+        ],
+        "node_1": {
+            "ID": 632,
+            "nodeName": "战壕",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 632,
+            "nodeName": "战壕",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "榴弹炮",
+            "美军",
+            "山地",
+            "改装",
+            "信息化",
+            "M777",
+            "印度",
+            "作战",
+            "青睐",
+            "照片"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "小康",
+            "对峙",
+            "印会",
+            "越界",
+            "最新消息",
+            "开战",
+            "会谈",
+            "国旗",
+            "印军",
+            "报道"
+        ]
+    }
+}

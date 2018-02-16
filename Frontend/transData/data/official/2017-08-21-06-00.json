@@ -1,0 +1,138 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-21 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美媒",
+            "妄称",
+            "印方",
+            "中印",
+            "获胜",
+            "印度",
+            "印度洋",
+            "航空母舰",
+            "海军",
+            "监视"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美媒",
+            "妄称",
+            "印方",
+            "中印",
+            "获胜",
+            "印度",
+            "印度洋",
+            "航空母舰",
+            "海军",
+            "监视"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "快科技"
+        ],
+        "node_1": {
+            "ID": 969,
+            "nodeName": "快科技",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "32GB",
+            "iPhone",
+            "卢比",
+            "上架",
+            "金色",
+            "印度"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "山西新闻网山西日报"
+        ],
+        "node_1": {
+            "ID": 246,
+            "nodeName": "山西新闻网山西日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "列车",
+            "脱轨",
+            "北方邦",
+            "山西",
+            "新闻网",
+            "许可证",
+            "转载",
+            "日报",
+            "授权",
+            "事故"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国经济网"
+        ],
+        "node_1": {
+            "ID": 94,
+            "nodeName": "中国经济网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "小老虎",
+            "海外投资",
+            "东盟",
+            "指向",
+            "大户",
+            "海外",
+            "五国",
+            "投资",
+            "野村",
+            "亿美元"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "BWC中文网",
+            "BWC中文网"
+        ],
+        "node_1": {
+            "ID": 834,
+            "nodeName": "BWC中文网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 834,
+            "nodeName": "BWC中文网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "黑洞",
+            "孤单",
+            "加油"
+        ]
+    }
+}

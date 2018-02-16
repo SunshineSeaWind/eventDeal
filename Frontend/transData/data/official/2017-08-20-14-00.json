@@ -1,0 +1,172 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-20 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民网国际频道",
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 281,
+            "nodeName": "人民网国际频道",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "火车",
+            "疏忽",
+            "印度",
+            "事故",
+            "事发",
+            "公里",
+            "列车",
+            "已致",
+            "人死"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网"
+        ],
+        "node_1": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "火车",
+            "疏忽",
+            "印度",
+            "事故",
+            "事发",
+            "保养",
+            "公里",
+            "铁道",
+            "录取"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网"
+        ],
+        "node_1": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "火车",
+            "疏忽",
+            "印度",
+            "事故",
+            "事发",
+            "保养",
+            "公里",
+            "铁道",
+            "路轨"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网国际频道"
+        ],
+        "node_1": {
+            "ID": 281,
+            "nodeName": "人民网国际频道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "火车",
+            "疏忽",
+            "印度",
+            "事故",
+            "事发",
+            "保养",
+            "公里",
+            "铁道",
+            "路轨"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民网-国际频道",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "火车",
+            "班公湖",
+            "小康",
+            "对峙",
+            "士兵",
+            "疏忽",
+            "印度",
+            "时报",
+            "互掷"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网"
+        ],
+        "node_1": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "火车",
+            "疏忽",
+            "印度",
+            "事故",
+            "事发",
+            "保养",
+            "公里",
+            "铁道",
+            "路轨"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "千龙网"
+        ],
+        "node_1": {
+            "ID": 705,
+            "nodeName": "千龙网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "出轨",
+            "上百人",
+            "节车厢",
+            "交叠"
+        ]
+    }
+}

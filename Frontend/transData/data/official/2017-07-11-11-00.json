@@ -1,0 +1,144 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-11 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "NSE",
+            "0.28%",
+            "触及",
+            "高位"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "天下军武"
+        ],
+        "node_1": {
+            "ID": 276,
+            "nodeName": "天下军武",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "坦克",
+            "揭秘",
+            "沉痛",
+            "消灭",
+            "印度",
+            "武器",
+            "阿琼",
+            "INSAS",
+            "导弹",
+            "核潜艇"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "开枪",
+            "晚饭",
+            "打死",
+            "男子",
+            "妮娜",
+            "印度",
+            "罗帕什",
+            "妻子",
+            "警官",
+            "阿苏"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亚马逊",
+            "批准",
+            "网络",
+            "零售",
+            "杂货"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "天下军武"
+        ],
+        "node_1": {
+            "ID": 276,
+            "nodeName": "天下军武",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "坦克",
+            "揭秘",
+            "沉痛",
+            "消灭",
+            "印度",
+            "武器",
+            "阿琼",
+            "INSAS",
+            "导弹",
+            "核潜艇"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "熊熊讲武",
+            "熊熊讲武",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 14,
+            "nodeName": "熊熊讲武",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 14,
+            "nodeName": "熊熊讲武",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "炮兵",
+            "铁哥们",
+            "巴铁",
+            "PK",
+            "可助",
+            "印度",
+            "扭转乾坤",
+            "中国",
+            "创新",
+            "榴弹炮"
+        ]
+    }
+}

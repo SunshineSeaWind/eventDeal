@@ -1,0 +1,161 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-21 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球时报-环球网",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "压价",
+            "抵制",
+            "商人",
+            "购买力",
+            "中国",
+            "网友",
+            "港媒",
+            "垃圾",
+            "素质"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球时报",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中国",
+            "抵制",
+            "商人",
+            "外长",
+            "对峙",
+            "中方",
+            "吐槽",
+            "印度",
+            "环球时报",
+            "声称"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "來源：新華網",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 140,
+            "nodeName": "來源：新華網",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "新一任",
+            "納特",
+            "總統",
+            "拉姆",
+            "纳特",
+            "當選",
+            "新闻人物",
+            "印度",
+            "印度人民党"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "吐槽",
+            "抵制",
+            "商人",
+            "可笑",
+            "印度",
+            "中国",
+            "外贸",
+            "印度人",
+            "环球时报",
+            "尾款"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "点兵e"
+        ],
+        "node_1": {
+            "ID": 471,
+            "nodeName": "点兵e",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "悔悟",
+            "刻不容缓",
+            "帮忙",
+            "请求",
+            "此事",
+            "航母",
+            "维克拉玛",
+            "蒂亚",
+            "印度",
+            "海军"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "点兵e"
+        ],
+        "node_1": {
+            "ID": 471,
+            "nodeName": "点兵e",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "悔悟",
+            "刻不容缓",
+            "帮忙",
+            "请求",
+            "此事",
+            "航母",
+            "维克拉玛",
+            "蒂亚",
+            "印度",
+            "海军"
+        ]
+    }
+}

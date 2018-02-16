@@ -1,0 +1,207 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-04 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "环球网",
+            "凤凰国际智库",
+            "凤凰网浙江",
+            "凤凰财经"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 591,
+            "nodeName": "凤凰国际智库",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 520,
+            "nodeName": "凤凰网浙江",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 724,
+            "nodeName": "凤凰财经",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "美人计",
+            "军官",
+            "特朗普",
+            "南亚",
+            "巴基斯坦",
+            "中国",
+            "英语",
+            "外国",
+            "声称"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "南方日报",
+            "中国网繁体",
+            "央视",
+            "中新网英文",
+            "人民网国际频道 "
+        ],
+        "node_1": {
+            "ID": 700,
+            "nodeName": "南方日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 61,
+            "nodeName": "央视",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 728,
+            "nodeName": "人民网国际频道 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "中国",
+            "非法",
+            "越界",
+            "纠错",
+            "外交部",
+            "领土",
+            "边防部队",
+            "印方",
+            "锡金"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "喷发",
+            "砧木",
+            "印度尼西亚",
+            "4.2",
+            "YT",
+            "Haryono",
+            "卡罗"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网-环球时报"
+        ],
+        "node_1": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中方",
+            "和平",
+            "珍视",
+            "撤军",
+            "印方",
+            "印度",
+            "边界线",
+            "搁置",
+            "越界",
+            "技术性"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国网繁体",
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "使馆",
+            "中方",
+            "立场",
+            "中国国防部",
+            "印媒",
+            "印度",
+            "领土",
+            "边防部队",
+            "中国",
+            "发表"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "珍视",
+            "中方",
+            "和平",
+            "撤军",
+            "印方",
+            "印度",
+            "边界线",
+            "搁置",
+            "越界",
+            "技术性"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电讯",
+            "欺诈",
+            "带回",
+            "诈骗案",
+            "嫌疑人",
+            "印度尼西亚"
+        ]
+    }
+}

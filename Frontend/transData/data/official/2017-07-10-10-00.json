@@ -1,0 +1,145 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-10 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "税改",
+            "奢侈品",
+            "归入",
+            "行列",
+            "印度",
+            "GST",
+            "税率",
+            "税制",
+            "出口",
+            "家电产品"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新浪财经"
+        ],
+        "node_1": {
+            "ID": 260,
+            "nodeName": "新浪财经",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "税改",
+            "奢侈品",
+            "归入",
+            "行列",
+            "印度",
+            "GST",
+            "税率",
+            "税制",
+            "美的",
+            "出口"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴基斯坦",
+            "交火",
+            "外交官",
+            "召见",
+            "停火协议",
+            "印度",
+            "巴方",
+            "控制线",
+            "开火"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "交火",
+            "外交官"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "内蒙古新闻"
+        ],
+        "node_1": {
+            "ID": 236,
+            "nodeName": "内蒙古新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴基斯坦",
+            "交火",
+            "外交官",
+            "召见",
+            "停火协议",
+            "印度",
+            "巴方",
+            "控制线",
+            "开火"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "光明网",
+            "巴基斯坦",
+            "交火",
+            "外交官",
+            "召见",
+            "国际要闻",
+            "停火协议",
+            "印度",
+            "巴方",
+            "控制线"
+        ]
+    }
+}

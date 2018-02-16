@@ -1,0 +1,233 @@
+{
+    "LinkedArraySize": 9,
+    "Date": "2017-08-01 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边界",
+            "透视",
+            "印度",
+            "中国",
+            "领土",
+            "带带",
+            "倡议",
+            "道路",
+            "动机",
+            "战略"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "海外网　",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 668,
+            "nodeName": "海外网　",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "竞赛",
+            "青天白日",
+            "参赛",
+            "台湾队",
+            "数学",
+            "勇夺",
+            "总冠军",
+            "小学生",
+            "全场"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华尔街见闻"
+        ],
+        "node_1": {
+            "ID": 548,
+            "nodeName": "华尔街见闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "收购案",
+            "印度",
+            "复星",
+            "Gland",
+            "医药",
+            "Pharma",
+            "交易",
+            "收购",
+            "药企",
+            "中国"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "中国驻印度大使馆"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 206,
+            "nodeName": "中国驻印度大使馆",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "中方",
+            "不丹",
+            "解放军",
+            "中印",
+            "使馆",
+            "坚定",
+            "汇聚",
+            "印度",
+            "招待会"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "华尔街见闻",
+            "华尔街见闻"
+        ],
+        "node_1": {
+            "ID": 548,
+            "nodeName": "华尔街见闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 548,
+            "nodeName": "华尔街见闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "收购案",
+            "印度",
+            "复星",
+            "Gland",
+            "医药",
+            "Pharma",
+            "交易",
+            "收购",
+            "药企",
+            "中国"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "民航资源网"
+        ],
+        "node_1": {
+            "ID": 126,
+            "nodeName": "民航资源网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "波音",
+            "飞机",
+            "预测",
+            "印度",
+            "单通道",
+            "航企",
+            "客流量",
+            "航空"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "毓御",
+            "毓御"
+        ],
+        "node_1": {
+            "ID": 425,
+            "nodeName": "毓御",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 425,
+            "nodeName": "毓御",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "基洛",
+            "船员",
+            "反舰导弹",
+            "一枚",
+            "多项",
+            "潜艇",
+            "可破",
+            "纪录",
+            "无人"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "勇夺",
+            "总冠军",
+            "小学生",
+            "全场",
+            "竞赛",
+            "奥数",
+            "姚太",
+            "特训",
+            "印度"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印军",
+            "老兵",
+            "回忆",
+            "眼界",
+            "印度",
+            "宏亮",
+            "陈群",
+            "战争",
+            "那场",
+            "韩学润"
+        ]
+    }
+}

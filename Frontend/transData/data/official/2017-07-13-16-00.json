@@ -1,0 +1,64 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-13 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "CPI",
+            "1.54%",
+            "印度",
+            "同比",
+            "国家统计局"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "1.7%",
+            "产出",
+            "印度",
+            "同比",
+            "国家统计局"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "重演",
+            "罗援",
+            "兵戎相见",
+            "输得",
+            "更惨",
+            "印军",
+            "印度",
+            "边防部队",
+            "印度政府",
+            "中国"
+        ]
+    }
+}

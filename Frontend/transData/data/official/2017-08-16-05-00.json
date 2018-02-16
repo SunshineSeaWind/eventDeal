@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-16 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "2.5",
+            "印度",
+            "叫嚣",
+            "战争",
+            "巴基斯坦",
+            "开火",
+            "资料",
+            "中国",
+            "承受",
+            "后果"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "2.5",
+            "印度",
+            "叫嚣",
+            "战争",
+            "巴基斯坦",
+            "开火",
+            "资料",
+            "中国",
+            "承受",
+            "后果"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "断氧致",
+            "莫迪称",
+            "自然灾害",
+            "儿童",
+            "莫迪",
+            "印度",
+            "北方邦",
+            "医院",
+            "死亡",
+            "总理"
+        ]
+    }
+}

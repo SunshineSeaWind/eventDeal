@@ -1,0 +1,69 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-12 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "仇恨",
+            "印度",
+            "狂野",
+            "野兽",
+            "交叉"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武器大国"
+        ],
+        "node_1": {
+            "ID": 760,
+            "nodeName": "武器大国",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "纸面",
+            "印度",
+            "永远",
+            "证明",
+            "坦克",
+            "96B",
+            "90s",
+            "比赛",
+            "主战",
+            "90S"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武器大国"
+        ],
+        "node_1": {
+            "ID": 760,
+            "nodeName": "武器大国",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "纸面",
+            "印度",
+            "永远",
+            "证明",
+            "坦克",
+            "96B",
+            "90s",
+            "比赛",
+            "主战",
+            "90S"
+        ]
+    }
+}

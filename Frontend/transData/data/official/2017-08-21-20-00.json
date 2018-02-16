@@ -1,0 +1,127 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-21 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "外事儿"
+        ],
+        "node_1": {
+            "ID": 562,
+            "nodeName": "外事儿",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "如厕",
+            "印度",
+            "难事",
+            "天大",
+            "厕所",
+            "野外",
+            "种姓",
+            "离婚",
+            "妇女",
+            "公共厕所"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "外事儿"
+        ],
+        "node_1": {
+            "ID": 562,
+            "nodeName": "外事儿",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "如厕",
+            "印度",
+            "难事",
+            "天大",
+            "厕所",
+            "野外",
+            "种姓",
+            "离婚",
+            "妇女",
+            "公共厕所"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "超级军事迷"
+        ],
+        "node_1": {
+            "ID": 464,
+            "nodeName": "超级军事迷",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边境",
+            "道路",
+            "加快",
+            "印度",
+            "搞事",
+            "印实",
+            "控线",
+            "BRO"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新环球军事"
+        ],
+        "node_1": {
+            "ID": 405,
+            "nodeName": "新环球军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "惊爆",
+            "大校",
+            "加紧",
+            "警惕"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "超级军事迷"
+        ],
+        "node_1": {
+            "ID": 464,
+            "nodeName": "超级军事迷",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边境",
+            "道路",
+            "加快",
+            "印度",
+            "搞事",
+            "印实",
+            "控线",
+            "BRO"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新环球军事"
+        ],
+        "node_1": {
+            "ID": 405,
+            "nodeName": "新环球军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "惊爆",
+            "大校",
+            "加紧",
+            "警惕"
+        ]
+    }
+}

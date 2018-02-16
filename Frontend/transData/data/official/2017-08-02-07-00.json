@@ -1,0 +1,253 @@
+{
+    "LinkedArraySize": 9,
+    "Date": "2017-08-02 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国网繁体",
+            "参考消息网",
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "租给",
+            "猜忌",
+            "小国",
+            "南亚",
+            "如愿",
+            "斯里兰卡",
+            "托塔",
+            "汉班",
+            "协议",
+            "港口"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "旗杆",
+            "光棍",
+            "风力",
+            "国旗",
+            "这根",
+            "印度",
+            "英尺",
+            "阿姆利",
+            "爱国主义",
+            "两根"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "瞭望智库"
+        ],
+        "node_1": {
+            "ID": 261,
+            "nodeName": "瞭望智库",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "地缘",
+            "印度",
+            "中国",
+            "东北地区",
+            "不丹",
+            "孟加拉国",
+            "核心区",
+            "巴基斯坦",
+            "缅甸",
+            "地区"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：參考消息網"
+        ],
+        "node_1": {
+            "ID": 153,
+            "nodeName": "來源：參考消息網",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中國",
+            "這個",
+            "南亞小國終",
+            "如願將",
+            "租給",
+            "斯里蘭卡",
+            "協議",
+            "印度",
+            "擔憂",
+            "中斯"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "东方战略",
+            "东方战略"
+        ],
+        "node_1": {
+            "ID": 687,
+            "nodeName": "东方战略",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 687,
+            "nodeName": "东方战略",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "最后通牒",
+            "邻国",
+            "当局",
+            "收到",
+            "印度",
+            "廓尔喀",
+            "中国",
+            "印军",
+            "中印",
+            "我军"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "张琪军事",
+            "张琪军事",
+            "张琪军事",
+            "张琪军事",
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "多国",
+            "撤军",
+            "印称",
+            "正等待",
+            "使馆",
+            "中方",
+            "印度",
+            "驻华",
+            "中国外交部",
+            "外交官"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 新华社 "
+        ],
+        "node_1": {
+            "ID": 269,
+            "nodeName": " 新华社 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "英文",
+            "新华社",
+            "炸开",
+            "点评",
+            "四大",
+            "不丹",
+            "印度",
+            "网友",
+            "小哥",
+            "中国"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "古吉拉特邦",
+            "洪灾",
+            "人数",
+            "伯纳斯",
+            "卢比",
+            "洪水",
+            "灾情",
+            "印度",
+            "甘塔县"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 海外网 "
+        ],
+        "node_1": {
+            "ID": 694,
+            "nodeName": " 海外网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "胎中胎",
+            "男婴",
+            "双胞胎",
+            "惊现",
+            "竟怀",
+            "婴儿",
+            "医生",
+            "胚胎",
+            "检查",
+            "寄生"
+        ]
+    }
+}

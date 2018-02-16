@@ -1,0 +1,118 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-08-18 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军事演习",
+            "俄罗斯",
+            "印度",
+            "对抗",
+            "演习",
+            "Indra",
+            "哈罗",
+            "紧张局势"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网综合"
+        ],
+        "node_1": {
+            "ID": 38,
+            "nodeName": "环球网综合",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电动汽车",
+            "招标",
+            "万辆",
+            "购买",
+            "印度政府",
+            "印度",
+            "环球网",
+            "报道",
+            "续航",
+            "充电"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：經濟日報-中國經濟網"
+        ],
+        "node_1": {
+            "ID": 945,
+            "nodeName": "來源：經濟日報-中國經濟網",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "趕超",
+            "中國",
+            "財經",
+            "劉艷",
+            "體量",
+            "一個",
+            "層級",
+            "經濟",
+            "印度",
+            "增長"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "拟花",
+            "直升机",
+            "现代化",
+            "数百亿",
+            "购买",
+            "阿帕奇",
+            "印度",
+            "六架",
+            "报道",
+            "采购"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "直升机",
+            "现代化",
+            "拟花",
+            "数百亿",
+            "购买",
+            "阿帕奇",
+            "印度",
+            "六架",
+            "AH",
+            "报道"
+        ]
+    }
+}

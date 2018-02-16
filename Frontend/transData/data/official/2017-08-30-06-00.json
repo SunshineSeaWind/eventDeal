@@ -1,0 +1,162 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-30 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "功夫财经"
+        ],
+        "node_1": {
+            "ID": 1136,
+            "nodeName": "功夫财经",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "王福重",
+            "计划经济",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "  "
+        ],
+        "node_1": {
+            "ID": 598,
+            "nodeName": "  ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "十日",
+            "三起",
+            "惨烈",
+            "印度",
+            "扬子晚报",
+            "一篇",
+            "火车",
+            "批评",
+            "事故"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "功夫财经"
+        ],
+        "node_1": {
+            "ID": 1136,
+            "nodeName": "功夫财经",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "王福重",
+            "计划经济",
+            "印度"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 中国新闻网 "
+        ],
+        "node_1": {
+            "ID": 337,
+            "nodeName": " 中国新闻网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "三起",
+            "十日",
+            "印度",
+            "火车",
+            "扬子晚报",
+            "发生"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "墨者善狩",
+            "墨者善狩"
+        ],
+        "node_1": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "两茬",
+            "研发",
+            "导弹",
+            "同类",
+            "防空",
+            "印度",
+            "红旗",
+            "阿卡什",
+            "系统",
+            "SA"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "墨者善狩",
+            "墨者善狩",
+            "环球时报-环球网",
+            "墨者善狩",
+            "墨者善狩",
+            "墨者善狩"
+        ],
+        "node_1": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "撤军",
+            "这才",
+            "洞朗",
+            "威慑",
+            "中国",
+            "外交",
+            "肯定",
+            "中印",
+            "强硬"
+        ]
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "LinkedArraySize": 13,
+    "Date": "2017-08-25 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "印度",
+            "红察军武",
+            "照理说事",
+            "照理说事"
+        ],
+        "node_1": {
+            "ID": 318,
+            "nodeName": "印度",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 438,
+            "nodeName": "红察军武",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 943,
+            "nodeName": "照理说事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 943,
+            "nodeName": "照理说事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自由选择",
+            "印度",
+            "孟加拉国",
+            "国籍",
+            "为啥",
+            "领土",
+            "交换",
+            "责任编辑",
+            "货船",
+            "拦截"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "印度"
+        ],
+        "node_1": {
+            "ID": 318,
+            "nodeName": "印度",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "解放军",
+            "功夫"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "出鞘军事"
+        ],
+        "node_1": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "解放军",
+            "频繁",
+            "部署",
+            "类似",
+            "战区",
+            "集结"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "Global Times",
+            "蒋校长"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 699,
+            "nodeName": "蒋校长",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "数字",
+            "大国",
+            "周边",
+            "希望",
+            "印度人",
+            "有助于",
+            "中国",
+            "水平",
+            "Paytm"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "环球网",
+            "环球网",
+            "央广网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "残疾",
+            "编队",
+            "芊芊",
+            "咖啡",
+            "品鉴",
+            "刻字",
+            "校门",
+            "爆料",
+            "品尝",
+            "清华"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "出鞘军事"
+        ],
+        "node_1": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "解放军",
+            "频繁",
+            "部署",
+            "类似",
+            "战区",
+            "集结"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "海外网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "友好邻邦",
+            "印媒",
+            "全力支持",
+            "尼泊尔",
+            "总理",
+            "莫迪",
+            "印度",
+            "德乌帕",
+            "合作",
+            "苏杰生"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "戴旭观点",
+            "戴旭观点"
+        ],
+        "node_1": {
+            "ID": 345,
+            "nodeName": "戴旭观点",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 345,
+            "nodeName": "戴旭观点",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "戴旭",
+            "微评",
+            "举手"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "金融界",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "反倾销",
+            "中印",
+            "西段",
+            "边界",
+            "趋紧",
+            "应诉",
+            "制裁",
+            "商务部",
+            "印方"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "蒋校长"
+        ],
+        "node_1": {
+            "ID": 699,
+            "nodeName": "蒋校长",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大国",
+            "周边",
+            "印度",
+            "希望",
+            "水平",
+            "孟加拉",
+            "中国",
+            "西藏",
+            "越南",
+            "藏南"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "红察军武"
+        ],
+        "node_1": {
+            "ID": 438,
+            "nodeName": "红察军武",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "货船",
+            "拦截",
+            "龙大",
+            "油船",
+            "谈话",
+            "印度",
+            "中国",
+            "中东",
+            "欧美",
+            "欧洲"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "沉默的鹦鹉",
+            "沉默的鹦鹉"
+        ],
+        "node_1": {
+            "ID": 1056,
+            "nodeName": "沉默的鹦鹉",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1056,
+            "nodeName": "沉默的鹦鹉",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军购",
+            "百亿美元",
+            "海陆空",
+            "攀比",
+            "竞赛",
+            "三军",
+            "直升机",
+            "印度国防部",
+            "印度",
+            "海军"
+        ]
+    },
+    "LinkedArray_13": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印",
+            "小康",
+            "对峙",
+            "最新消息",
+            "外交部",
+            "措辞",
+            "事态",
+            "视频",
+            "回顾",
+            "边境"
+        ]
+    }
+}

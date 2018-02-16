@@ -1,0 +1,71 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-20 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "当选",
+            "选举",
+            "总统",
+            "印度",
+            "计票",
+            "议员",
+            "印度人民党",
+            "民主联盟",
+            "选票"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "当选",
+            "总统",
+            "选举",
+            "印度",
+            "计票",
+            "议员",
+            "印度人民党",
+            "民主联盟",
+            "选票"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "新一任",
+            "考文德",
+            "计票",
+            "纳特",
+            "拉姆",
+            "在线",
+            "ICP"
+        ]
+    }
+}

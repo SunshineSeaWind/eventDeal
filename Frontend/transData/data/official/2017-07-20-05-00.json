@@ -1,0 +1,95 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-07-20 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网－人民日报海外版"
+        ],
+        "node_1": {
+            "ID": 52,
+            "nodeName": "人民网－人民日报海外版",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大国",
+            "急不可耐",
+            "环球",
+            "热点",
+            "印度",
+            "南亚",
+            "莫迪",
+            "孙士海",
+            "缅甸",
+            "关系"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网－人民日报"
+        ],
+        "node_1": {
+            "ID": 74,
+            "nodeName": "人民网－人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "停火协议",
+            "印方",
+            "外交官",
+            "抗议",
+            "巴基斯坦",
+            "巴方",
+            "控制线",
+            "违反"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报海外版"
+        ],
+        "node_1": {
+            "ID": 80,
+            "nodeName": "人民日报海外版",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大国",
+            "海外版",
+            "急不可耐",
+            "人民日报",
+            "推进",
+            "印度",
+            "南亚",
+            "莫迪",
+            "孙士海",
+            "缅甸"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "停火协议",
+            "印方",
+            "巴基斯坦",
+            "外交官",
+            "抗议",
+            "控制线",
+            "巴方",
+            "克什米尔地区",
+            "违反",
+            "在线"
+        ]
+    }
+}

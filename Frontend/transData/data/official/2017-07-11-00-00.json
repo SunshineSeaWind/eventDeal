@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-11 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "下一代",
+            "赶上",
+            "印度",
+            "印媒",
+            "领军者",
+            "杜塔",
+            "TCS",
+            "阿里巴巴",
+            "信息技术",
+            "创新"
+        ]
+    }
+}

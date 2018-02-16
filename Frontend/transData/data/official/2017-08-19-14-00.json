@@ -1,0 +1,173 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-19 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武装一姐"
+        ],
+        "node_1": {
+            "ID": 645,
+            "nodeName": "武装一姐",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "坦克",
+            "印度",
+            "俄罗斯",
+            "完胜",
+            "研发",
+            "自主",
+            "T90",
+            "火力",
+            "炮塔",
+            "装甲"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武装一姐"
+        ],
+        "node_1": {
+            "ID": 645,
+            "nodeName": "武装一姐",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "坦克",
+            "印度",
+            "俄罗斯",
+            "完胜",
+            "研发",
+            "自主",
+            "T90",
+            "火力",
+            "炮塔",
+            "装甲"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "海外网",
+            "海外网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "内政部长",
+            "克什米尔",
+            "争端",
+            "印度",
+            "控制线",
+            "巴基斯坦",
+            "恐怖主义",
+            "交火",
+            "克什米尔地区",
+            "辛格"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "红星新闻",
+            "红星新闻",
+            "红星新闻"
+        ],
+        "node_1": {
+            "ID": 952,
+            "nodeName": "红星新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 952,
+            "nodeName": "红星新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 952,
+            "nodeName": "红星新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "而战",
+            "假扮",
+            "种族歧视",
+            "入学",
+            "红星",
+            "黑人",
+            "专访",
+            "维贾伊",
+            "美国",
+            "亚裔"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "内政部长",
+            "克什米尔",
+            "争端",
+            "印度",
+            "控制线",
+            "巴基斯坦",
+            "恐怖主义",
+            "交火",
+            "克什米尔地区",
+            "辛格"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "海外网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "内政部长",
+            "克什米尔",
+            "争端",
+            "印度",
+            "控制线",
+            "巴基斯坦",
+            "恐怖主义",
+            "交火",
+            "克什米尔地区",
+            "辛格"
+        ]
+    }
+}

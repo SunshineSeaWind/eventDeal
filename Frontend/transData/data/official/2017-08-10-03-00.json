@@ -1,0 +1,25 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-10 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网法文"
+        ],
+        "node_1": {
+            "ID": 558,
+            "nodeName": "中国网法文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "埃塞俄比亚",
+            "机翼",
+            "航空公司",
+            "末端",
+            "碰撞",
+            "飞机",
+            "IIG"
+        ]
+    }
+}

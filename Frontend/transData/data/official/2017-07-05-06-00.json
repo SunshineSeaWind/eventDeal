@@ -1,0 +1,39 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-07-05 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华星法援"
+        ],
+        "node_1": {
+            "ID": 207,
+            "nodeName": "华星法援",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "赖着",
+            "军队",
+            "印度",
+            "原因"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华星法援"
+        ],
+        "node_1": {
+            "ID": 207,
+            "nodeName": "华星法援",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "赖着",
+            "军队",
+            "印度",
+            "原因"
+        ]
+    }
+}

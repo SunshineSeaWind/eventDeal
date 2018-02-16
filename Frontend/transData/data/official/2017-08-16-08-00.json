@@ -1,0 +1,205 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-16 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "女孩",
+            "上学",
+            "印度",
+            "性侵犯",
+            "警方",
+            "一名"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军事前锋",
+            "军事前锋"
+        ],
+        "node_1": {
+            "ID": 393,
+            "nodeName": "军事前锋",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 393,
+            "nodeName": "军事前锋",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遭猪",
+            "七寸",
+            "队友"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洪灾",
+            "尼泊尔",
+            "丧生",
+            "遇难",
+            "无家可归",
+            "三国",
+            "至少",
+            "死亡",
+            "短缺",
+            "孟加拉国"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "屠杀",
+            "惨剧",
+            "撕裂",
+            "无辜",
+            "印度",
+            "医院",
+            "死亡",
+            "医生",
+            "北方邦",
+            "生命"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "屠杀",
+            "惨剧",
+            "撕裂",
+            "无辜",
+            "印度",
+            "医院",
+            "死亡",
+            "医生",
+            "北方邦",
+            "生命"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 北京电视台 "
+        ],
+        "node_1": {
+            "ID": 910,
+            "nodeName": " 北京电视台 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "靶子",
+            "周边",
+            "机场",
+            "部署",
+            "群雕",
+            "福美来",
+            "强对流"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "Global Times",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "演习",
+            "俄罗斯",
+            "对峙",
+            "小康",
+            "第三国",
+            "到来",
+            "印度",
+            "朗洞",
+            "最新消息",
+            "始末"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "金融界",
+            "金融界",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亿美元",
+            "减毒",
+            "水痘",
+            "活疫苗",
+            "印度尼西亚",
+            "经营权",
+            "小康",
+            "港口",
+            "担忧",
+            "进口量"
+        ]
+    }
+}

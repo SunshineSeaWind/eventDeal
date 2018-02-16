@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-08 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "支付宝",
+            "马云",
+            "抵制",
+            "号召",
+            "Paytm",
+            "SJM",
+            "呼吁",
+            "禁止",
+            "洞朗"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报-环球网"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤侨",
+            "网传",
+            "多系",
+            "消息人士",
+            "谣言",
+            "环环",
+            "中资企业",
+            "撤离",
+            "印度",
+            "人员"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "京华网"
+        ],
+        "node_1": {
+            "ID": 395,
+            "nodeName": "京华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "酷派",
+            "线下",
+            "全印",
+            "数千家",
+            "首推",
+            "专属",
+            "Note",
+            "Lite",
+            "印度",
+            "产品"
+        ]
+    }
+}

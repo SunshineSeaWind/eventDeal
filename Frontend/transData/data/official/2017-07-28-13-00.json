@@ -1,0 +1,120 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-07-28 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美媒",
+            "对峙",
+            "激进",
+            "冒险",
+            "脖子",
+            "印度",
+            "王心凌",
+            "前男友",
+            "台媒",
+            "私密"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "美媒",
+            "激进",
+            "冒险",
+            "脖子",
+            "王心凌",
+            "前男友",
+            "台媒",
+            "私密",
+            "史密斯"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "热火武器"
+        ],
+        "node_1": {
+            "ID": 617,
+            "nodeName": "热火武器",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印媒称",
+            "战机",
+            "光辉",
+            "磨一剑",
+            "战斗机",
+            "LCA",
+            "发动机",
+            "自主",
+            "印度",
+            "研制"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美媒",
+            "对峙",
+            "激进",
+            "冒险",
+            "脖子",
+            "王心凌",
+            "边界",
+            "前男友",
+            "台媒",
+            "印度"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "热火武器"
+        ],
+        "node_1": {
+            "ID": 617,
+            "nodeName": "热火武器",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印媒称",
+            "战机",
+            "光辉",
+            "磨一剑",
+            "战斗机",
+            "LCA",
+            "发动机",
+            "自主",
+            "印度",
+            "研制"
+        ]
+    }
+}

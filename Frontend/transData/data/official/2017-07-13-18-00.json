@@ -1,0 +1,157 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-13 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "通胀率",
+            "创新",
+            "印度",
+            "印度政府",
+            "央行",
+            "通胀"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "精锐部队",
+            "到来",
+            "应对",
+            "印度",
+            "中国",
+            "修路",
+            "印度洋",
+            "亚东",
+            "谈判",
+            "博弈"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "精锐部队",
+            "到来",
+            "应对",
+            "印度",
+            "中国",
+            "修路",
+            "印度洋",
+            "亚东",
+            "谈判",
+            "博弈"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "央视军事",
+            "央视军事"
+        ],
+        "node_1": {
+            "ID": 278,
+            "nodeName": "央视军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 278,
+            "nodeName": "央视军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边界问题",
+            "不利于",
+            "印度",
+            "动作",
+            "专家",
+            "演习",
+            "军演",
+            "马拉巴尔",
+            "印度洋",
+            "日本"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "越界",
+            "执迷不悟",
+            "印军",
+            "非法",
+            "印方",
+            "印度",
+            "边界",
+            "划定",
+            "撤回",
+            "外交"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "强国军事",
+            "强国军事"
+        ],
+        "node_1": {
+            "ID": 179,
+            "nodeName": "强国军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 179,
+            "nodeName": "强国军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴基斯坦",
+            "援助",
+            "出手",
+            "恶气",
+            "教训",
+            "印度",
+            "美日",
+            "战略",
+            "中国",
+            "支持"
+        ]
+    }
+}

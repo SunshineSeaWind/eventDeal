@@ -1,0 +1,420 @@
+{
+    "LinkedArraySize": 14,
+    "Date": "2017-08-16 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "张琪军事",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "对峙",
+            "印媒",
+            "军舰",
+            "印度洋",
+            "警告",
+            "军演",
+            "小康",
+            "中国",
+            "中方"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印媒",
+            "军舰",
+            "印度洋",
+            "警告",
+            "印度",
+            "潜艇",
+            "香客",
+            "中国",
+            "军演",
+            "朝圣"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印媒",
+            "军舰",
+            "印度洋",
+            "警告",
+            "印度",
+            "潜艇",
+            "香客",
+            "中国",
+            "军演",
+            "朝圣"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "凤凰国际智库",
+            "人民网",
+            "金融界",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 591,
+            "nodeName": "凤凰国际智库",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "人口",
+            "何方",
+            "屠杀",
+            "软银",
+            "孙正义",
+            "大国",
+            "国家",
+            "世界",
+            "预计"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中新网英文",
+            "张琪军事",
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "精锐部队",
+            "到来",
+            "应对",
+            "抵制",
+            "货物",
+            "伤害",
+            "印度",
+            "中国",
+            "巴基斯坦",
+            "边界"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "中新网",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网",
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "丧生",
+            "洪灾",
+            "无家可归",
+            "三国",
+            "孟加拉国",
+            "尼泊尔",
+            "至少",
+            "灾害",
+            "该国",
+            "死亡"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网"
+        ],
+        "node_1": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "惨剧",
+            "撕裂",
+            "无辜",
+            "屠杀",
+            "样本",
+            "星巴克",
+            "二恶烷",
+            "猥亵",
+            "女童",
+            "含有"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "海外网",
+            "新华网",
+            "新华网",
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "惨剧",
+            "屠杀",
+            "医疗",
+            "儿童",
+            "印度",
+            "医院",
+            "供应",
+            "氧气",
+            "撕裂",
+            "无辜"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 新华社 "
+        ],
+        "node_1": {
+            "ID": 269,
+            "nodeName": " 新华社 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "特朗普",
+            "外交官",
+            "沙特",
+            "讽刺",
+            "伊万",
+            "印度",
+            "莫迪",
+            "美国",
+            "推特上",
+            "代表团"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "雷诺",
+            "日产",
+            "印度",
+            "汽车资讯",
+            "10%",
+            "市场占有率",
+            "汽车行业",
+            "LIBA",
+            "工商管理"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "爱囧君",
+            "爱囧君"
+        ],
+        "node_1": {
+            "ID": 915,
+            "nodeName": "爱囧君",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 915,
+            "nodeName": "爱囧君",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电器",
+            "段子",
+            "费用",
+            "四个",
+            "妹纸",
+            "女友",
+            "空调",
+            "公园"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民网-环球时报",
+            "人民网-环球时报"
+        ],
+        "node_1": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "智能手机",
+            "此消彼长",
+            "半壁江山",
+            "拿下",
+            "印度",
+            "vivo",
+            "OPPO",
+            "小米",
+            "手机",
+            "品牌"
+        ]
+    },
+    "LinkedArray_13": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大校",
+            "输掉",
+            "解放军",
+            "面子",
+            "印度",
+            "不丹",
+            "条约",
+            "领土",
+            "撤军",
+            "声明"
+        ]
+    },
+    "LinkedArray_14": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "小康",
+            "印会",
+            "越界",
+            "最新消息",
+            "始末",
+            "开战",
+            "边境",
+            "动作",
+            "洞朗"
+        ]
+    }
+}

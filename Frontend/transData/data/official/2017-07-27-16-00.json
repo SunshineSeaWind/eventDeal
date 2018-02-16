@@ -1,0 +1,196 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-07-27 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "环球网",
+            "环球网",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "坠亡",
+            "失足",
+            "视频",
+            "一幕",
+            "学生",
+            "瑜伽",
+            "昆明",
+            "老师",
+            "阿迪蒂",
+            "飞索"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边弹",
+            "吉他"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边弹",
+            "吉他"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边弹",
+            "吉他"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边弹",
+            "吉他"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "吉他",
+            "手术",
+            "边弹",
+            "厉害",
+            "阿比",
+            "手指",
+            "音乐家"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "    ",
+            "朝鲜半岛论坛",
+            "央视网",
+            "朝鲜半岛论坛",
+            "中国小康",
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 7,
+            "nodeName": "    ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 601,
+            "nodeName": "朝鲜半岛论坛",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 601,
+            "nodeName": "朝鲜半岛论坛",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外交部",
+            "版图",
+            "回应",
+            "拉马",
+            "对朝",
+            "塞缪尔",
+            "印度",
+            "抹掉",
+            "陆慷",
+            "发言人"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰科技"
+        ],
+        "node_1": {
+            "ID": 58,
+            "nodeName": "凤凰科技",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电商",
+            "Snapdeal",
+            "出价",
+            "创始人",
+            "合并",
+            "遇阻",
+            "Flipkart",
+            "软银",
+            "董事",
+            "投资者"
+        ]
+    }
+}

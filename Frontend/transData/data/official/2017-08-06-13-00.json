@@ -1,0 +1,155 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-06 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "仇恨",
+            "印度",
+            "台湾",
+            "中华民国",
+            "中国",
+            "马祖",
+            "福建省",
+            "将军",
+            "日本",
+            "台军"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "仇恨",
+            "印度",
+            "台湾",
+            "中华民国",
+            "中国",
+            "马祖",
+            "福建省",
+            "将军",
+            "日本",
+            "台军"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "半月谈"
+        ],
+        "node_1": {
+            "ID": 746,
+            "nodeName": "半月谈",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "仁至义尽",
+            "撤军",
+            "留给",
+            "中方",
+            "越界",
+            "印度",
+            "印方",
+            "印军",
+            "非法",
+            "善意"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "项里",
+            "碾压",
+            "占优",
+            "军力",
+            "文章",
+            "安倍",
+            "客运站",
+            "中印",
+            "发声",
+            "印度"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "杭州交通91.8"
+        ],
+        "node_1": {
+            "ID": 750,
+            "nodeName": "杭州交通91.8",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "是可忍",
+            "孰不可忍",
+            "黑话",
+            "外交部",
+            "大全",
+            "越界",
+            "印方",
+            "印度",
+            "非法",
+            "领土"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国网繁体",
+            "海外网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "金腰带",
+            "拳王",
+            "拳手",
+            "拳击赛",
+            "一幕",
+            "祖力",
+            "皮卡尔",
+            "辛格",
+            "印度",
+            "领土"
+        ]
+    }
+}

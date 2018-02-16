@@ -1,0 +1,27 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-19 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 新华社 "
+        ],
+        "node_1": {
+            "ID": 269,
+            "nodeName": " 新华社 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "比哈尔邦",
+            "洪灾",
+            "受灾",
+            "受灾地区",
+            "救援",
+            "扬子晚报",
+            "灾民",
+            "灾害",
+            "一篇"
+        ]
+    }
+}

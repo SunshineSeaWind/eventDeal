@@ -1,0 +1,277 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-08-29 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "战壕"
+        ],
+        "node_1": {
+            "ID": 632,
+            "nodeName": "战壕",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "白费力气",
+            "直称",
+            "印度",
+            "生产线",
+            "此举",
+            "战斗机",
+            "引进",
+            "老化",
+            "真的",
+            "美国"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "战壕"
+        ],
+        "node_1": {
+            "ID": 632,
+            "nodeName": "战壕",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "白费力气",
+            "直称",
+            "印度",
+            "生产线",
+            "此举",
+            "战斗机",
+            "引进",
+            "老化",
+            "真的",
+            "美国"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国经济学人"
+        ],
+        "node_1": {
+            "ID": 1118,
+            "nodeName": "中国经济学人",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "敲竹杠",
+            "索要",
+            "中国",
+            "亿美元",
+            "沃达丰",
+            "Paytm",
+            "印度政府",
+            "电商",
+            "李嘉诚"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国经济学人"
+        ],
+        "node_1": {
+            "ID": 1118,
+            "nodeName": "中国经济学人",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "敲竹杠",
+            "索要",
+            "中国",
+            "亿美元",
+            "沃达丰",
+            "Paytm",
+            "印度政府",
+            "电商",
+            "李嘉诚"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国经济学人"
+        ],
+        "node_1": {
+            "ID": 1118,
+            "nodeName": "中国经济学人",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "敲竹杠",
+            "索要",
+            "中国",
+            "亿美元",
+            "沃达丰",
+            "Paytm",
+            "印度政府",
+            "电商",
+            "李嘉诚"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "军工圈",
+            "军工圈",
+            "军工圈"
+        ],
+        "node_1": {
+            "ID": 478,
+            "nodeName": "军工圈",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 478,
+            "nodeName": "军工圈",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 478,
+            "nodeName": "军工圈",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "中国",
+            "开打",
+            "舆论",
+            "印度",
+            "美国",
+            "主要矛盾",
+            "矛盾",
+            "战略",
+            "战争"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "星海武器观察",
+            "星海武器观察"
+        ],
+        "node_1": {
+            "ID": 1123,
+            "nodeName": "星海武器观察",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1123,
+            "nodeName": "星海武器观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战舰",
+            "难产",
+            "太久",
+            "多只",
+            "起点",
+            "加尔各答",
+            "052D",
+            "印度",
+            "驱逐舰",
+            "装备"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "森林狼",
+            "森林狼"
+        ],
+        "node_1": {
+            "ID": 749,
+            "nodeName": "森林狼",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 749,
+            "nodeName": "森林狼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "燃油箱",
+            "坠毁",
+            "直升机",
+            "订单",
+            "俄军",
+            "赶紧",
+            "飞行员",
+            "小编",
+            "人身安全",
+            "伤亡"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "战术忽悠局",
+            "愤怒的子弹",
+            "愤怒的子弹",
+            "战术忽悠局"
+        ],
+        "node_1": {
+            "ID": 545,
+            "nodeName": "战术忽悠局",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 812,
+            "nodeName": "愤怒的子弹",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 812,
+            "nodeName": "愤怒的子弹",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 545,
+            "nodeName": "战术忽悠局",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "射程",
+            "导弹",
+            "1.2",
+            "万公里",
+            "巴铁",
+            "美煤",
+            "惊呼",
+            "印度",
+            "公里",
+            "弹道导弹"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "洞朗",
+            "小康",
+            "缺一不可",
+            "最新消息",
+            "撤军",
+            "外交部",
+            "梳理",
+            "聚焦",
+            "回应"
+        ]
+    }
+}

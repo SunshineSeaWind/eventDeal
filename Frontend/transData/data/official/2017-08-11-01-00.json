@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-11 01:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国之声"
+        ],
+        "node_1": {
+            "ID": 539,
+            "nodeName": "中国之声",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印关系",
+            "最低谷",
+            "越界",
+            "陷入",
+            "印度",
+            "不丹",
+            "洞朗",
+            "中国",
+            "事件",
+            "中方"
+        ]
+    }
+}

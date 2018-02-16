@@ -1,0 +1,213 @@
+{
+    "LinkedArraySize": 9,
+    "Date": "2017-08-22 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "枪战",
+            "克什米尔",
+            "爆发",
+            "Handwara",
+            "警方"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "界面微信公号"
+        ],
+        "node_1": {
+            "ID": 994,
+            "nodeName": "界面微信公号",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "厕所",
+            "火箭",
+            "一座",
+            "上天",
+            "不好",
+            "印度",
+            "随地",
+            "大小便",
+            "凯沙夫",
+            "民众"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰讲堂"
+        ],
+        "node_1": {
+            "ID": 180,
+            "nodeName": "凤凰讲堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "挑衅",
+            "三次",
+            "以北",
+            "印军",
+            "我军",
+            "山口",
+            "还击",
+            "炮兵",
+            "乃堆拉"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "上天",
+            "厕所",
+            "火箭"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国政府网",
+            "中国网日文"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 590,
+            "nodeName": "中国网日文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强烈不满",
+            "中方",
+            "边防部队",
+            "暴力",
+            "表态",
+            "中国",
+            "边境",
+            "印度",
+            "控制线",
+            "班公错"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "六子看军事",
+            "六子看军事",
+            "六子看军事",
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印军",
+            "不堪一击",
+            "美称",
+            "交战",
+            "恐惧",
+            "何任",
+            "越界",
+            "撤回",
+            "余地",
+            "中方"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "能源部长",
+            "照明",
+            "照片",
+            "错用",
+            "炫耀",
+            "社交",
+            "推特",
+            "网站",
+            "印度",
+            "在线"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "最高法院",
+            "裁决",
+            "即时",
+            "离婚",
+            "穆斯林"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "扯皮",
+            "麦当劳",
+            "没完没了",
+            "小康"
+        ]
+    }
+}

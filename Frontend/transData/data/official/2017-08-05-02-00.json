@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-05 02:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "说话",
+            "散布",
+            "印度",
+            "压力",
+            "恐怖主义",
+            "Joe",
+            "垃圾邮件",
+            "培育",
+            "恐怖分子",
+            "列表"
+        ]
+    }
+}

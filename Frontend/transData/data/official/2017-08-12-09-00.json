@@ -1,0 +1,232 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-12 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报海外版"
+        ],
+        "node_1": {
+            "ID": 80,
+            "nodeName": "人民日报海外版",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "别太",
+            "海外版",
+            "当回事",
+            "人民日报",
+            "印度",
+            "美国",
+            "美印",
+            "姜景奎",
+            "航母",
+            "联合"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "看看新闻Knews综合"
+        ],
+        "node_1": {
+            "ID": 839,
+            "nodeName": "看看新闻Knews综合",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "多厘米",
+            "魔鬼",
+            "男孩",
+            "村民",
+            "里克",
+            "医生",
+            "曾带",
+            "医院",
+            "怪手",
+            "北方邦"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报海外版"
+        ],
+        "node_1": {
+            "ID": 80,
+            "nodeName": "人民日报海外版",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "当回事",
+            "别太",
+            "海外版",
+            "人民日报",
+            "印度",
+            "美国",
+            "美印",
+            "姜景奎",
+            "航母",
+            "联合"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "小李说篮球mp"
+        ],
+        "node_1": {
+            "ID": 843,
+            "nodeName": "小李说篮球mp",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "杜兰特",
+            "人太",
+            "霸道",
+            "球迷",
+            "发泄",
+            "联盟",
+            "挑战",
+            "夺冠",
+            "詹姆斯",
+            "印度"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "军机图",
+            "军机图",
+            "军机图"
+        ],
+        "node_1": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "30MKI",
+            "被歼",
+            "锁定",
+            "先进",
+            "印度",
+            "矢量",
+            "空军",
+            "喷管",
+            "推力",
+            "发动机"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 8,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "四川日报",
+            "中国新闻网",
+            "中国新闻网",
+            "四川日报",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "供氧",
+            "中断",
+            "外媒",
+            "印度",
+            "医院",
+            "院方",
+            "消息人士",
+            "死亡",
+            "电视台"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "海外网",
+            "海外网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "狙击手",
+            "无人机",
+            "庆祝",
+            "出动",
+            "印度",
+            "新德里",
+            "警方",
+            "市内",
+            "调派"
+        ]
+    }
+}

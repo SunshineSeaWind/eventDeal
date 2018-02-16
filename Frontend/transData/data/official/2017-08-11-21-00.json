@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-11 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "反倾销税",
+            "印度",
+            "反倾销",
+            "对峙",
+            "蓝建学",
+            "产品",
+            "措施",
+            "中国",
+            "发起",
+            "子午线"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事迷"
+        ],
+        "node_1": {
+            "ID": 561,
+            "nodeName": "军事迷",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "米格",
+            "战机",
+            "两种",
+            "更大",
+            "航母",
+            "29K",
+            "舰载机",
+            "加挂",
+            "苏式",
+            "起飞"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事迷"
+        ],
+        "node_1": {
+            "ID": 561,
+            "nodeName": "军事迷",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "米格",
+            "战机",
+            "两种",
+            "更大",
+            "航母",
+            "29K",
+            "舰载机",
+            "加挂",
+            "苏式",
+            "起飞"
+        ]
+    }
+}

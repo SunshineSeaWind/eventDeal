@@ -1,0 +1,171 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-05 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "seneca",
+            "印度人",
+            "肮脏",
+            "精神药物",
+            "酸葡萄",
+            "太空飞行"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴基斯坦政府",
+            "官网",
+            "黑客",
+            "国歌",
+            "印度",
+            "在线",
+            "ICP",
+            "网站",
+            "页面",
+            "留言"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "国民",
+            "西班牙",
+            "遇害",
+            "交通事故",
+            "道路",
+            "安得拉邦"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "央视新闻客户端",
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 101,
+            "nodeName": "央视新闻客户端",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "仁至义尽",
+            "撤军",
+            "央视",
+            "中方",
+            "留给",
+            "越界",
+            "印度",
+            "印方",
+            "印军",
+            "非法"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球时报-环球网",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "留给",
+            "中方",
+            "好自为之",
+            "军力",
+            "小康",
+            "提醒",
+            "印度",
+            "越界",
+            "印方",
+            "领土"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "SU30MKI",
+            "舰队",
+            "边界",
+            "赶到",
+            "manoj10",
+            "特朗普",
+            "顶尖",
+            "人才",
+            "莫迪"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "西红柿",
+            "疯涨",
+            "荷枪实弹",
+            "万象",
+            "警卫",
+            "保卫",
+            "现场",
+            "印度",
+            "洋葱",
+            "卢比"
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-14 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中断",
+            "非供",
+            "因病",
+            "北方邦",
+            "液态氧",
+            "儿童",
+            "死亡",
+            "医院",
+            "在线",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "缺氧",
+            "否认",
+            "众怒",
+            "官方",
+            "死亡",
+            "儿童",
+            "氧气",
+            "医院",
+            "BRD",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外长",
+            "尼泊尔",
+            "力挺",
+            "发声",
+            "印度",
+            "中国",
+            "夏玛",
+            "洞朗",
+            "边境",
+            "对峙"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "微风阁"
+        ],
+        "node_1": {
+            "ID": 836,
+            "nodeName": "微风阁",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "研发",
+            "玩具枪",
+            "造了",
+            "子弹"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "微风阁"
+        ],
+        "node_1": {
+            "ID": 836,
+            "nodeName": "微风阁",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "研发",
+            "玩具枪",
+            "造了",
+            "子弹"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "蓝色",
+            "惊现",
+            "疑因",
+            "吓坏",
+            "河水",
+            "MPCB",
+            "在线",
+            "动物",
+            "污染",
+            "工厂"
+        ]
+    }
+}

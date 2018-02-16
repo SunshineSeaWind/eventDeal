@@ -1,0 +1,203 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-20 12:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "列车",
+            "升至",
+            "事故",
+            "印度",
+            "北方邦",
+            "火车",
+            "穆扎法尔",
+            "一列",
+            "事发"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火车",
+            "人数",
+            "死亡",
+            "北方邦",
+            "受伤",
+            "现场"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "战舰世界"
+        ],
+        "node_1": {
+            "ID": 381,
+            "nodeName": "战舰世界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "喜当",
+            "烦心",
+            "双赢",
+            "甩掉",
+            "接盘",
+            "护卫舰",
+            "塔尔瓦",
+            "尔级",
+            "印度",
+            "11356M"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "战舰世界"
+        ],
+        "node_1": {
+            "ID": 381,
+            "nodeName": "战舰世界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "喜当",
+            "烦心",
+            "双赢",
+            "甩掉",
+            "接盘",
+            "护卫舰",
+            "塔尔瓦",
+            "尔级",
+            "印度",
+            "11356M"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国日报BBS",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "洞朗",
+            "核武",
+            "寻求",
+            "中国",
+            "年前",
+            "马诺吉",
+            "Doklam",
+            "Manoji",
+            "数字"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "战舰世界",
+            "战舰世界"
+        ],
+        "node_1": {
+            "ID": 381,
+            "nodeName": "战舰世界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 381,
+            "nodeName": "战舰世界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "出动",
+            "战时",
+            "潜艇",
+            "贫弱",
+            "战力",
+            "仅能",
+            "印度",
+            "海军",
+            "建造",
+            "常规"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "36氪",
+            "36氪"
+        ],
+        "node_1": {
+            "ID": 97,
+            "nodeName": "36氪",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 97,
+            "nodeName": "36氪",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "创企",
+            "Quantta",
+            "Analytics",
+            "已移",
+            "暗网",
+            "表层",
+            "网络",
+            "印度",
+            "目光",
+            "数据"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外交部",
+            "水文",
+            "资料",
+            "找事",
+            "雅鲁藏布江",
+            "中方",
+            "印度",
+            "布拉马普特拉河",
+            "对峙",
+            "邮报"
+        ]
+    }
+}

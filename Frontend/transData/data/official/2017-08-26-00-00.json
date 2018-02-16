@@ -1,0 +1,166 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-26 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "后院",
+            "印度洋",
+            "对抗",
+            "悄悄",
+            "收紧",
+            "印度",
+            "海军",
+            "印方",
+            "印度国防部",
+            "孟加拉"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰网广东"
+        ],
+        "node_1": {
+            "ID": 479,
+            "nodeName": "凤凰网广东",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火车",
+            "印度",
+            "脱轨",
+            "满嘴",
+            "专家",
+            "中方",
+            "印方",
+            "功夫",
+            "边境",
+            "班公湖"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸罪",
+            "暴乱",
+            "审判",
+            "动荡",
+            "辛格",
+            "印度",
+            "亚纳邦",
+            "大师",
+            "哈里",
+            "报道"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "精神领袖",
+            "强奸罪",
+            "暴力",
+            "人数",
+            "死亡",
+            "哈里",
+            "亚纳邦",
+            "辛格",
+            "旁遮普邦",
+            "新德里"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "数百人",
+            "两邦",
+            "受伤",
+            "亚纳邦",
+            "哈里",
+            "印度",
+            "旁遮普邦",
+            "暴力事件",
+            "暴乱"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            ""
+        ],
+        "node_1": {
+            "ID": 27,
+            "nodeName": "",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸罪",
+            "骚乱",
+            "多地",
+            "宵禁",
+            "被判",
+            "印度",
+            "亚纳邦",
+            "德里",
+            "DSS",
+            "哈里"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "上官云世界"
+        ],
+        "node_1": {
+            "ID": 1071,
+            "nodeName": "上官云世界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "一姐",
+            "张宁",
+            "吊打",
+            "分看",
+            "孙瑜",
+            "比赛",
+            "女单",
+            "辛杜",
+            "二王",
+            "球迷"
+        ]
+    }
+}

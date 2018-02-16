@@ -1,0 +1,179 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-14 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "斯里兰卡",
+            "渔民",
+            "水域",
+            "逮捕",
+            "拖网渔船"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "健康界",
+            "健康界",
+            "海外网",
+            "健康界"
+        ],
+        "node_1": {
+            "ID": 633,
+            "nodeName": "健康界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 633,
+            "nodeName": "健康界",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 633,
+            "nodeName": "健康界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "断氧门",
+            "真凶",
+            "害死",
+            "反转",
+            "儿童",
+            "医院",
+            "医生",
+            "氧气瓶",
+            "印度",
+            "北方邦"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "羽毛球",
+            "锦标赛",
+            "印度尼西亚",
+            "标题",
+            "眼睛",
+            "金牌"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洪灾",
+            "阿萨姆",
+            "肆虐",
+            "升至",
+            "印度",
+            "许可证",
+            "华龙网",
+            "煤气罐",
+            "筏子",
+            "划着"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "印度",
+            "印度"
+        ],
+        "node_1": {
+            "ID": 318,
+            "nodeName": "印度",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 318,
+            "nodeName": "印度",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "驱逐舰",
+            "南海",
+            "利益",
+            "侵犯",
+            "评论",
+            "网友",
+            "China",
+            "they",
+            "china",
+            "中国"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "阿萨姆",
+            "洪灾",
+            "肆虐",
+            "在线",
+            "ICP",
+            "国际",
+            "印度",
+            "监督"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网俄文"
+        ],
+        "node_1": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "滑坡",
+            "chelovek",
+            "russian",
+            "china",
+            "org",
+            "cn",
+            "山体",
+            "打死",
+            "北部",
+            "喜马偕尔邦"
+        ]
+    }
+}

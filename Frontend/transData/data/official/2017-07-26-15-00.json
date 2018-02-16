@@ -1,0 +1,244 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-07-26 15:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网法文"
+        ],
+        "node_1": {
+            "ID": 558,
+            "nodeName": "中国网法文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Inde",
+            "morts",
+            "dans"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "张琪军事",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外长",
+            "威胁",
+            "导弹",
+            "美国",
+            "嘴硬",
+            "要用",
+            "印度",
+            "中国",
+            "撤军",
+            "对峙"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "千里眼2017"
+        ],
+        "node_1": {
+            "ID": 321,
+            "nodeName": "千里眼2017",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "轻视",
+            "危险",
+            "印度人",
+            "文化",
+            "孟买",
+            "苦感",
+            "免费",
+            "地方",
+            "语言"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰科技"
+        ],
+        "node_1": {
+            "ID": 58,
+            "nodeName": "凤凰科技",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电商",
+            "Snapdeal",
+            "9.5",
+            "报价",
+            "合并",
+            "两大",
+            "Flipkart"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "千里眼2017"
+        ],
+        "node_1": {
+            "ID": 321,
+            "nodeName": "千里眼2017",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "轻视",
+            "危险",
+            "印度人",
+            "文化",
+            "孟买",
+            "苦感",
+            "免费",
+            "地方",
+            "语言"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "威胁",
+            "导弹",
+            "嘴硬",
+            "外长",
+            "要用",
+            "印度",
+            "弹道导弹",
+            "烈火",
+            "斯瓦拉",
+            "大地"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "东北新闻网",
+            "央视网",
+            "央视新闻客户端"
+        ],
+        "node_1": {
+            "ID": 574,
+            "nodeName": "东北新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 101,
+            "nodeName": "央视新闻客户端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "H1N1",
+            "流感病毒",
+            "甲型",
+            "数百人",
+            "万余",
+            "印度",
+            "阿图尔",
+            "感染",
+            "流感",
+            "马哈拉施特拉邦"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "垮塌",
+            "居民楼",
+            "孟买",
+            "BYJU",
+            "升至",
+            "印度",
+            "腾讯",
+            "创业",
+            "亿美元",
+            "教育"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国国际问题研究院",
+            "中国国际问题研究院"
+        ],
+        "node_1": {
+            "ID": 576,
+            "nodeName": "中国国际问题研究院",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 576,
+            "nodeName": "中国国际问题研究院",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "正告",
+            "阮宗泽",
+            "不惜代价",
+            "解放军"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 中国新闻网 "
+        ],
+        "node_1": {
+            "ID": 337,
+            "nodeName": " 中国新闻网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "已致",
+            "人死",
+            "获救",
+            "扬子晚报",
+            "一篇"
+        ]
+    }
+}

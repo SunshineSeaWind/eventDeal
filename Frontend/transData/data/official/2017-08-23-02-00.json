@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-23 02:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新京报"
+        ],
+        "node_1": {
+            "ID": 116,
+            "nodeName": "新京报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "盟友",
+            "印度",
+            "美国",
+            "死心塌地",
+            "莫迪",
+            "印美",
+            "防务",
+            "特朗普",
+            "中印",
+            "美印"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "关门歇业",
+            "罢工",
+            "国立",
+            "百万",
+            "职员",
+            "日期",
+            "购买",
+            "服务",
+            "银行",
+            "印度"
+        ]
+    }
+}

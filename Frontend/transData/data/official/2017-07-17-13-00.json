@@ -1,0 +1,184 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-17 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "碧海青云"
+        ],
+        "node_1": {
+            "ID": 358,
+            "nodeName": "碧海青云",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "开造",
+            "巴铁",
+            "一无所获",
+            "满满",
+            "一款",
+            "收获",
+            "巡航导弹",
+            "巴基斯坦",
+            "试射",
+            "巴布尔"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "武器先生",
+            "武器先生"
+        ],
+        "node_1": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "首座",
+            "原型",
+            "增殖",
+            "年底",
+            "裂变",
+            "燃料",
+            "反应堆",
+            "快堆",
+            "快中子",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "碧海青云"
+        ],
+        "node_1": {
+            "ID": 358,
+            "nodeName": "碧海青云",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "开造",
+            "巴铁",
+            "一无所获",
+            "满满",
+            "一款",
+            "收获",
+            "巡航导弹",
+            "巴基斯坦",
+            "试射",
+            "巴布尔"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "南韩",
+            "0.6%",
+            "反覆",
+            "创纪录",
+            "续升",
+            "日期",
+            "购买",
+            "服务",
+            "沽空",
+            "现造"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "参考消息",
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军方",
+            "谴责",
+            "袭击",
+            "赞巴",
+            "军车",
+            "巴基斯坦",
+            "交火",
+            "克什米尔地区",
+            "勒姆",
+            "印度"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "大国之翼",
+            "大国之翼"
+        ],
+        "node_1": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "直击",
+            "软肋",
+            "重拳",
+            "反制",
+            "使出",
+            "担心",
+            "印度",
+            "克什米尔",
+            "洞朗",
+            "中国"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "上海东方高清"
+        ],
+        "node_1": {
+            "ID": 408,
+            "nodeName": "上海东方高清",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "列车",
+            "眼球",
+            "空调",
+            "猎奇"
+        ]
+    }
+}

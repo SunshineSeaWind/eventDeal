@@ -1,0 +1,289 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-07-25 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "科温德",
+            "总统",
+            "宣誓就职",
+            "印度",
+            "新德里",
+            "总理",
+            "齐鲁",
+            "登录",
+            "议员",
+            "有权"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "伊蚊",
+            "斯里兰卡",
+            "疫情",
+            "严峻",
+            "登革热",
+            "新德里",
+            "肯雅热",
+            "基孔",
+            "病例",
+            "红十字会"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网"
+        ],
+        "node_1": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "伊蚊",
+            "斯里兰卡",
+            "疫情",
+            "严峻",
+            "登革热",
+            "新德里",
+            "肯雅热",
+            "基孔",
+            "传播",
+            "病例"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国军事"
+        ],
+        "node_1": {
+            "ID": 461,
+            "nodeName": "中国军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美媒",
+            "高加索",
+            "印度",
+            "进军",
+            "阻止",
+            "亚美尼亚",
+            "阿塞拜疆",
+            "埃里温",
+            "文章",
+            "日本"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华网",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "伊蚊",
+            "斯里兰卡",
+            "疫情",
+            "严峻",
+            "登革热",
+            "新德里",
+            "肯雅热",
+            "基孔",
+            "病例",
+            "红十字会"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国军事"
+        ],
+        "node_1": {
+            "ID": 461,
+            "nodeName": "中国军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美媒",
+            "高加索",
+            "印度",
+            "进军",
+            "阻止",
+            "亚美尼亚",
+            "阿塞拜疆",
+            "埃里温",
+            "文章",
+            "日本"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国之声",
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 539,
+            "nodeName": "中国之声",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美国",
+            "喊话",
+            "印度人",
+            "甘心",
+            "参考",
+            "退出",
+            "王毅",
+            "国防部",
+            "印度",
+            "领土"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "华尔街见闻",
+            "华尔街见闻"
+        ],
+        "node_1": {
+            "ID": 548,
+            "nodeName": "华尔街见闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 548,
+            "nodeName": "华尔街见闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "漂亮",
+            "核心",
+            "印度",
+            "资产",
+            "创纪录",
+            "拥抱",
+            "全球",
+            "创下",
+            "新高",
+            "配置"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "军事政治解码",
+            "军事政治解码",
+            "鹰眼图说军事",
+            "鹰眼图说军事"
+        ],
+        "node_1": {
+            "ID": 491,
+            "nodeName": "军事政治解码",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 491,
+            "nodeName": "军事政治解码",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 457,
+            "nodeName": "鹰眼图说军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 457,
+            "nodeName": "鹰眼图说军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "整合",
+            "大获全胜",
+            "命脉",
+            "印军",
+            "美称",
+            "东亚",
+            "一大",
+            "印度",
+            "海军",
+            "印度洋"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "白虎堂",
+            "白虎堂"
+        ],
+        "node_1": {
+            "ID": 296,
+            "nodeName": "白虎堂",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 296,
+            "nodeName": "白虎堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "受欢迎",
+            "生产线",
+            "战斗机",
+            "美军",
+            "四五千",
+            "超级",
+            "转让",
+            "机型",
+            "印度",
+            "洛克希德"
+        ]
+    }
+}

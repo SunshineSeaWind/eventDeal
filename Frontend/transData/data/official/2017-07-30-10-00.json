@@ -1,0 +1,91 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-07-30 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网综合"
+        ],
+        "node_1": {
+            "ID": 38,
+            "nodeName": "环球网综合",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "起亚",
+            "分部",
+            "亿美元",
+            "6.5",
+            "设立",
+            "汽车",
+            "韩联社",
+            "下降",
+            "印度",
+            "安得拉邦"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "don",
+            "Now",
+            "India",
+            "wants"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "谷火平"
+        ],
+        "node_1": {
+            "ID": 647,
+            "nodeName": "谷火平",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "F35",
+            "围堵",
+            "煞费苦心",
+            "盟友",
+            "拉拢",
+            "南亚",
+            "强国",
+            "可谓",
+            "战机",
+            "印度"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "谷火平"
+        ],
+        "node_1": {
+            "ID": 647,
+            "nodeName": "谷火平",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "F35",
+            "围堵",
+            "煞费苦心",
+            "盟友",
+            "拉拢",
+            "南亚",
+            "强国",
+            "可谓",
+            "战机",
+            "印度"
+        ]
+    }
+}

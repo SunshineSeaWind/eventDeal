@@ -1,0 +1,267 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-29 12:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国政府网",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "沃达丰",
+            "李嘉诚",
+            "税金",
+            "走低",
+            "开盘",
+            "罚单",
+            "无权",
+            "BSE",
+            "Sensex",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "核子猎潜艇",
+            "烽火军事",
+            "烽火军事"
+        ],
+        "node_1": {
+            "ID": 343,
+            "nodeName": "核子猎潜艇",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 340,
+            "nodeName": "烽火军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 340,
+            "nodeName": "烽火军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "波音",
+            "大黄蜂",
+            "印度",
+            "为争",
+            "单下",
+            "血本",
+            "设厂",
+            "空军",
+            "战机",
+            "18EF"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "核子猎潜艇"
+        ],
+        "node_1": {
+            "ID": 343,
+            "nodeName": "核子猎潜艇",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "空军",
+            "美国化",
+            "F16",
+            "F18",
+            "建厂",
+            "生产",
+            "战斗机",
+            "波音",
+            "战机"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "新华社",
+            "中国政府网",
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "出轨",
+            "列车",
+            "孟买",
+            "伤亡",
+            "乘客",
+            "西部",
+            "事故",
+            "印度",
+            "火车",
+            "受伤"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "出轨",
+            "孟买",
+            "列车",
+            "上合",
+            "事故",
+            "一列",
+            "印度",
+            "火车",
+            "旅游",
+            "格浦尔"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "中国小康",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网",
+            "东方网军事",
+            "东方网军事"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 1126,
+            "nodeName": "东方网军事",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 1126,
+            "nodeName": "东方网军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "李嘉诚",
+            "亿港元",
+            "印度",
+            "洞朗",
+            "共近",
+            "罚单",
+            "外交部",
+            "撤军",
+            "听懂",
+            "国防部"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "谷火平",
+            "谷火平",
+            "谷火平"
+        ],
+        "node_1": {
+            "ID": 647,
+            "nodeName": "谷火平",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 647,
+            "nodeName": "谷火平",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 647,
+            "nodeName": "谷火平",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战舰",
+            "航母",
+            "南亚",
+            "服役",
+            "导弹",
+            "印度",
+            "防空",
+            "海军",
+            "雷达",
+            "驱逐舰"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "江山如画邀君赏",
+            "江山如画邀君赏"
+        ],
+        "node_1": {
+            "ID": 981,
+            "nodeName": "江山如画邀君赏",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 981,
+            "nodeName": "江山如画邀君赏",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "多妻",
+            "挑水",
+            "村庄",
+            "实拍",
+            "一男娶",
+            "Denganmal",
+            "图为",
+            "妻子",
+            "印度",
+            "取水"
+        ]
+    }
+}

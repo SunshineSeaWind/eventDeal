@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-19 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "再深一点"
+        ],
+        "node_1": {
+            "ID": 435,
+            "nodeName": "再深一点",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "武警",
+            "网友",
+            "大赞",
+            "扬威",
+            "视频",
+            "翻墙",
+            "军队",
+            "印度",
+            "解放军",
+            "维稳"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "停火协议",
+            "印方",
+            "巴基斯坦",
+            "外交官",
+            "抗议",
+            "控制线",
+            "巴方",
+            "违反",
+            "克什米尔地区",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "停火协议",
+            "印方",
+            "巴基斯坦",
+            "外交官",
+            "抗议",
+            "控制线",
+            "巴方",
+            "违反",
+            "克什米尔地区",
+            "印度"
+        ]
+    }
+}

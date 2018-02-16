@@ -1,0 +1,213 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-19 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "港股那点事",
+            "乌龙防务评论",
+            "乌龙防务评论",
+            "乌龙防务评论"
+        ],
+        "node_1": {
+            "ID": 530,
+            "nodeName": "港股那点事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 658,
+            "nodeName": "乌龙防务评论",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 658,
+            "nodeName": "乌龙防务评论",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 658,
+            "nodeName": "乌龙防务评论",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "假想敌",
+            "增购",
+            "阿帕奇",
+            "中巴",
+            "首要",
+            "姿势",
+            "陆军",
+            "责任编辑"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "港股那点事"
+        ],
+        "node_1": {
+            "ID": 530,
+            "nodeName": "港股那点事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "MakeMyTrip",
+            "携程",
+            "复制",
+            "传奇"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华网",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洪灾",
+            "阿萨姆",
+            "死亡",
+            "卢比",
+            "灾情",
+            "灾害",
+            "多万",
+            "部门",
+            "东北部",
+            "地方"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洪灾",
+            "阿萨姆",
+            "死亡",
+            "卢比",
+            "灾情",
+            "许可证",
+            "灾害",
+            "多万",
+            "部门",
+            "东北部"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "威锋网"
+        ],
+        "node_1": {
+            "ID": 682,
+            "nodeName": "威锋网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "32GB",
+            "iPhone",
+            "开卖"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洪灾",
+            "阿萨姆",
+            "死亡",
+            "全运会",
+            "墨西哥",
+            "洛阳",
+            "自贸",
+            "多子",
+            "印度",
+            "协定"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军事武器解码",
+            "军事武器解码"
+        ],
+        "node_1": {
+            "ID": 951,
+            "nodeName": "军事武器解码",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 951,
+            "nodeName": "军事武器解码",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "日本政府",
+            "立场",
+            "使馆",
+            "对峙",
+            "否认",
+            "印度",
+            "平松"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "东方谈武器",
+            "东方谈武器"
+        ],
+        "node_1": {
+            "ID": 901,
+            "nodeName": "东方谈武器",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 901,
+            "nodeName": "东方谈武器",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "购买",
+            "印度",
+            "技术",
+            "不惜重金",
+            "制空权",
+            "夺取",
+            "导弹系统",
+            "俄罗斯",
+            "防空",
+            "萨兰"
+        ]
+    }
+}

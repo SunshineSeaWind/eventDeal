@@ -1,0 +1,314 @@
+{
+    "LinkedArraySize": 11,
+    "Date": "2017-08-18 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "织带",
+            "姚明",
+            "探访",
+            "工厂",
+            "维沙卡"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：科技日報"
+        ],
+        "node_1": {
+            "ID": 564,
+            "nodeName": "來源：科技日報",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "流浪狗",
+            "藍色",
+            "孟買",
+            "發現",
+            "報道",
+            "當地",
+            "孟買市",
+            "美國",
+            "英國"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "环球网",
+            "海外网",
+            "金融界",
+            "聚峰评论",
+            "聚峰评论",
+            "聚峰评论"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 510,
+            "nodeName": "聚峰评论",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 510,
+            "nodeName": "聚峰评论",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 510,
+            "nodeName": "聚峰评论",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战机",
+            "印度",
+            "垂涎",
+            "中美",
+            "自称",
+            "超越",
+            "隐身",
+            "隐形",
+            "俄罗斯",
+            "研制"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "六子看军事",
+            "娄闲",
+            "娄闲",
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 106,
+            "nodeName": "娄闲",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 106,
+            "nodeName": "娄闲",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "印媒",
+            "站成",
+            "人链",
+            "我要",
+            "求和",
+            "印度",
+            "洞朗",
+            "印中",
+            "中国"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "经济",
+            "印度",
+            "底气",
+            "变数",
+            "何在",
+            "前景",
+            "改革",
+            "GST",
+            "发展",
+            "梅新育"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网-环球时报"
+        ],
+        "node_1": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "贸易战",
+            "后果",
+            "印媒",
+            "印度",
+            "中国",
+            "进口",
+            "产品",
+            "对印",
+            "对华贸易",
+            "开打"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中新网英文",
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "俄罗斯",
+            "军事演习",
+            "印度",
+            "福建省",
+            "南非",
+            "巴西",
+            "对抗",
+            "营业额",
+            "Indra",
+            "紧张局势"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军事前锋",
+            "军事前锋"
+        ],
+        "node_1": {
+            "ID": 393,
+            "nodeName": "军事前锋",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 393,
+            "nodeName": "军事前锋",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "进退两难",
+            "走投无路",
+            "反转",
+            "局势"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "澎湃新闻",
+            "澎湃新闻",
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遇刺",
+            "谎言",
+            "甘地",
+            "美媒",
+            "教科书",
+            "印度",
+            "历史",
+            "报道",
+            "教材",
+            "印度教"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国青年网"
+        ],
+        "node_1": {
+            "ID": 220,
+            "nodeName": "中国青年网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中不忘保",
+            "水灾",
+            "信徒",
+            "渡河",
+            "泛滥",
+            "民众",
+            "跋涉",
+            "洪水",
+            "卡德"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "误触",
+            "高压电",
+            "尿布",
+            "起火",
+            "震飞",
+            "妈妈",
+            "印度"
+        ]
+    }
+}

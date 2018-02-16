@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-19 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抵制",
+            "印度",
+            "真相",
+            "残酷",
+            "日期",
+            "购买",
+            "服务",
+            "中国",
+            "文章",
+            "智能手机"
+        ]
+    }
+}

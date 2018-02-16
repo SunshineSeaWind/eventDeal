@@ -1,0 +1,78 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-18 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Doklam",
+            "霸权",
+            "抵制"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "战略观察家"
+        ],
+        "node_1": {
+            "ID": 370,
+            "nodeName": "战略观察家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "赖着",
+            "印度",
+            "出招",
+            "解放军"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "罗兴亚",
+            "驱逐",
+            "抨击",
+            "印度",
+            "难民",
+            "缅甸",
+            "办事处",
+            "移民",
+            "面临",
+            "非法"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "战略观察家"
+        ],
+        "node_1": {
+            "ID": 370,
+            "nodeName": "战略观察家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "赖着",
+            "印度",
+            "出招",
+            "解放军"
+        ]
+    }
+}

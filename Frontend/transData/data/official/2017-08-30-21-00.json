@@ -1,0 +1,189 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-30 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "登革热",
+            "蚊媒",
+            "病疫情",
+            "新德里",
+            "登革热病",
+            "基孔",
+            "肯雅热",
+            "疫情"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "装备参考",
+            "大国博弈",
+            "大国博弈"
+        ],
+        "node_1": {
+            "ID": 480,
+            "nodeName": "装备参考",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 679,
+            "nodeName": "大国博弈",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 679,
+            "nodeName": "大国博弈",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "视频",
+            "出动",
+            "惊人",
+            "传来",
+            "没想到",
+            "军队"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "装备参考"
+        ],
+        "node_1": {
+            "ID": 480,
+            "nodeName": "装备参考",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "波音",
+            "斥资",
+            "航母"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "轩辕君",
+            "轩辕君",
+            "Global Times",
+            "轩辕君",
+            "零号机密",
+            "零号机密"
+        ],
+        "node_1": {
+            "ID": 804,
+            "nodeName": "轩辕君",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 804,
+            "nodeName": "轩辕君",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 804,
+            "nodeName": "轩辕君",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 660,
+            "nodeName": "零号机密",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 660,
+            "nodeName": "零号机密",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "大驱",
+            "下水",
+            "失败",
+            "仿制",
+            "部署",
+            "追赶",
+            "脚步",
+            "加快",
+            "意料之中"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "世界华人周刊",
+            "世界华人周刊",
+            "军事迷",
+            "军事迷"
+        ],
+        "node_1": {
+            "ID": 815,
+            "nodeName": "世界华人周刊",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 815,
+            "nodeName": "世界华人周刊",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 561,
+            "nodeName": "军事迷",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 561,
+            "nodeName": "军事迷",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "信息量",
+            "印度",
+            "中文",
+            "中国",
+            "多月",
+            "贴息贷款",
+            "要学",
+            "印军",
+            "撤军"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "轩辕君"
+        ],
+        "node_1": {
+            "ID": 804,
+            "nodeName": "轩辕君",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航母",
+            "印度",
+            "近乎",
+            "丧失",
+            "作战",
+            "俄罗斯",
+            "米格",
+            "战机",
+            "维修"
+        ]
+    }
+}

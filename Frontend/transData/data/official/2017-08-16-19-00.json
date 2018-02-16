@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-16 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "网言军事"
+        ],
+        "node_1": {
+            "ID": 547,
+            "nodeName": "网言军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "29K",
+            "舰载机",
+            "米格",
+            "警告",
+            "严厉",
+            "满意",
+            "RAC",
+            "印度",
+            "海军",
+            "航母"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "网言军事"
+        ],
+        "node_1": {
+            "ID": 547,
+            "nodeName": "网言军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "29K",
+            "舰载机",
+            "米格",
+            "警告",
+            "严厉",
+            "满意",
+            "RAC",
+            "印度",
+            "海军",
+            "航母"
+        ]
+    }
+}

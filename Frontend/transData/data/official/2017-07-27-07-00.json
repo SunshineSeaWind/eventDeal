@@ -1,0 +1,457 @@
+{
+    "LinkedArraySize": 16,
+    "Date": "2017-07-27 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "India",
+            "China",
+            "Should",
+            "Stand",
+            "Strong",
+            "Against",
+            "he",
+            "Indian",
+            "like",
+            "more"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "疯长",
+            "西红柿",
+            "保安",
+            "摊儿",
+            "防盗",
+            "偷盗",
+            "印度",
+            "武装",
+            "卢比",
+            "报道"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "魔王",
+            "拯救",
+            "朋友",
+            "印度人",
+            "华人",
+            "米兰",
+            "喜欢",
+            "小聪明",
+            "中国"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "疯长",
+            "西红柿",
+            "保安",
+            "摊儿",
+            "防盗",
+            "批发商",
+            "中央邦",
+            "印度",
+            "卢比",
+            "武装"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "疯长",
+            "西红柿",
+            "保安",
+            "摊儿",
+            "防盗",
+            "卢比",
+            "印度",
+            "报道",
+            "中央邦",
+            "武装"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "    ",
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 7,
+            "nodeName": "    ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "古吉拉特邦",
+            "水灾",
+            "已致",
+            "伯纳斯",
+            "该邦",
+            "阿萨姆",
+            "卢比",
+            "丧生",
+            "印度",
+            "水库"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报-环球网"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "版图",
+            "西藏",
+            "杂志",
+            "台湾",
+            "抹掉",
+            "印度",
+            "封面",
+            "中国",
+            "日称",
+            "截图"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抢饭碗",
+            "无人驾驶",
+            "上路",
+            "不让",
+            "印度",
+            "技术",
+            "马吉德",
+            "失业",
+            "公路交通",
+            "陈丹"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "长河落日圆读史",
+            "长河落日圆读史"
+        ],
+        "node_1": {
+            "ID": 597,
+            "nodeName": "长河落日圆读史",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 597,
+            "nodeName": "长河落日圆读史",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "孔雀",
+            "王朝",
+            "印度",
+            "名称",
+            "阿育王",
+            "陀罗",
+            "佛教",
+            "公元前",
+            "宾头",
+            "大象"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "  ",
+            "  ",
+            " 中国新闻网 ",
+            "  ",
+            "  ",
+            "  "
+        ],
+        "node_1": {
+            "ID": 598,
+            "nodeName": "  ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 598,
+            "nodeName": "  ",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 337,
+            "nodeName": " 中国新闻网 ",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 598,
+            "nodeName": "  ",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 598,
+            "nodeName": "  ",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 598,
+            "nodeName": "  ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "性犯罪",
+            "女警",
+            "巡逻队",
+            "频发",
+            "扬子晚报",
+            "一篇",
+            "孟加拉国",
+            "批评",
+            "特朗普",
+            "蓝色妖姬"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "墨者善狩",
+            "参考消息",
+            "墨者善狩"
+        ],
+        "node_1": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火炮",
+            "发射",
+            "失败",
+            "扣到",
+            "零件",
+            "帽子",
+            "这回",
+            "印度",
+            "俄罗斯",
+            "中国"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "古印度",
+            "逻辑学",
+            "玄奘大师",
+            "绝学",
+            "感谢",
+            "因明",
+            "逻辑",
+            "汉传",
+            "教授",
+            "同喻"
+        ]
+    },
+    "LinkedArray_13": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "贱民",
+            "种姓",
+            "草芥",
+            "七十年",
+            "历经",
+            "深度",
+            "依旧",
+            "利特",
+            "考文德",
+            "印度"
+        ]
+    },
+    "LinkedArray_14": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "虹摄库尔斯克",
+            "虹摄库尔斯克"
+        ],
+        "node_1": {
+            "ID": 389,
+            "nodeName": "虹摄库尔斯克",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 389,
+            "nodeName": "虹摄库尔斯克",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "男兵",
+            "尼加拉瓜",
+            "两项",
+            "最帅",
+            "靓丽",
+            "头巾",
+            "女兵",
+            "坦克",
+            "代表队",
+            "72B3"
+        ]
+    },
+    "LinkedArray_15": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "够打",
+            "弹药",
+            "陆军",
+            "侥幸心理",
+            "印度",
+            "航母",
+            "福特",
+            "乌克兰",
+            "特朗普",
+            "发动机"
+        ]
+    },
+    "LinkedArray_16": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "总参谋长",
+            "军工",
+            "巴基斯坦",
+            "网友",
+            "羡慕",
+            "印度",
+            "印方",
+            "陆军",
+            "国防",
+            "钱德"
+        ]
+    }
+}

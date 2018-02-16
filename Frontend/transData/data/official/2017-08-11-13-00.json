@@ -1,0 +1,133 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-11 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度政府",
+            "财长",
+            "担忧",
+            "值得",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "废钞令",
+            "财长",
+            "印度",
+            "年内",
+            "效果"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网"
+        ],
+        "node_1": {
+            "ID": 176,
+            "nodeName": "中国网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "赌注",
+            "政治家",
+            "边境",
+            "错下",
+            "印度",
+            "领土",
+            "忍耐",
+            "中国",
+            "限度",
+            "入侵"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "搬离",
+            "印军",
+            "军方",
+            "印媒",
+            "没说",
+            "印度",
+            "锡金",
+            "中印",
+            "网站"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "痴迷",
+            "印度政府",
+            "示威",
+            "经费",
+            "科学家",
+            "科学",
+            "印度",
+            "抗议",
+            "抗议者",
+            "IIT"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "印军",
+            "搬离",
+            "军方",
+            "一侧",
+            "印度",
+            "锡金",
+            "中印",
+            "部署",
+            "报道"
+        ]
+    }
+}

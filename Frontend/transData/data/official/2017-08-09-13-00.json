@@ -1,0 +1,175 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-09 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "蒋校长"
+        ],
+        "node_1": {
+            "ID": 699,
+            "nodeName": "蒋校长",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "弯刀",
+            "不太",
+            "山地",
+            "锋利",
+            "解放军",
+            "部队",
+            "印度",
+            "火箭筒",
+            "作战",
+            "笔者"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "蒋校长"
+        ],
+        "node_1": {
+            "ID": 699,
+            "nodeName": "蒋校长",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "弯刀",
+            "不太",
+            "山地",
+            "锋利",
+            "解放军",
+            "部队",
+            "印度",
+            "火箭筒",
+            "作战",
+            "笔者"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报客户端"
+        ],
+        "node_1": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "领土",
+            "不丹",
+            "印度",
+            "称洞朗",
+            "奇怪",
+            "印度报业托拉斯",
+            "王文丽",
+            "媒体",
+            "中方"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "澎湃新闻",
+            "澎湃新闻",
+            "澎湃新闻"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度国防部",
+            "卢比",
+            "追加",
+            "紧急",
+            "印媒",
+            "预算",
+            "印度",
+            "国防",
+            "国防部",
+            "拨款"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "两套",
+            "弹道导弹",
+            "防御",
+            "巴基斯坦",
+            "边境",
+            "系统",
+            "拦截导弹",
+            "DRDO"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自杀",
+            "陆军",
+            "印媒",
+            "百名",
+            "身亡",
+            "士兵",
+            "印度国防部",
+            "军官",
+            "自相残杀",
+            "报道"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巡回赛",
+            "扑克",
+            "版图",
+            "亚洲",
+            "扩张",
+            "WPT",
+            "赛事",
+            "牌手",
+            "日本",
+            "竞技"
+        ]
+    }
+}

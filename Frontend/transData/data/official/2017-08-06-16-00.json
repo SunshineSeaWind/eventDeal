@@ -1,0 +1,123 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-06 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "仇恨",
+            "印度",
+            "你会用"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "齐鲁壹点"
+        ],
+        "node_1": {
+            "ID": 141,
+            "nodeName": "齐鲁壹点",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪认",
+            "嘴硬",
+            "鸭子",
+            "求和",
+            "核实",
+            "莫迪",
+            "洞朗",
+            "印度",
+            "对话"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "AK军事"
+        ],
+        "node_1": {
+            "ID": 752,
+            "nodeName": "AK军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "2.5",
+            "夭折",
+            "购置",
+            "主战"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "AK军事"
+        ],
+        "node_1": {
+            "ID": 752,
+            "nodeName": "AK军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "2.5",
+            "夭折",
+            "购置",
+            "主战"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "复兴观察"
+        ],
+        "node_1": {
+            "ID": 753,
+            "nodeName": "复兴观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军车",
+            "最新消息",
+            "人民日报",
+            "进发",
+            "大炮",
+            "震惊",
+            "边境",
+            "阅兵",
+            "中国",
+            "...."
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "复兴观察"
+        ],
+        "node_1": {
+            "ID": 753,
+            "nodeName": "复兴观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军车",
+            "最新消息",
+            "人民日报",
+            "进发",
+            "大炮",
+            "震惊",
+            "边境",
+            "阅兵",
+            "中国",
+            "...."
+        ]
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-24 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "吉他",
+            "张力",
+            "手术",
+            "边弹",
+            "克服",
+            "2017.07",
+            "阿比",
+            "2017.06",
+            "手指",
+            "音乐家"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "童婚",
+            "亿人",
+            "印度",
+            "结婚",
+            "父权制",
+            "组织",
+            "援助"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "童婚",
+            "亿人",
+            "印度",
+            "结婚",
+            "2017.07",
+            "2017.06",
+            "父权制",
+            "组织",
+            "援助"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "浙江在线"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 466,
+            "nodeName": "浙江在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "童婚",
+            "科考",
+            "亿人",
+            "结婚",
+            "浙大",
+            "博士生",
+            "归来",
+            "印度",
+            "东营市",
+            "父权制"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视新闻客户端"
+        ],
+        "node_1": {
+            "ID": 101,
+            "nodeName": "央视新闻客户端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "避难所",
+            "洪灾",
+            "阿萨姆",
+            "已致",
+            "2017.07",
+            "2017.06",
+            "灾区",
+            "印度"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网",
+            "环球时报",
+            "人民网-环球时报"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "越界",
+            "无条件",
+            "撤回",
+            "新德里",
+            "劝告",
+            "印度",
+            "洞朗",
+            "地区",
+            "伙伴国",
+            "介入"
+        ]
+    }
+}

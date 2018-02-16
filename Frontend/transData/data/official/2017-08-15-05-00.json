@@ -1,0 +1,71 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-15 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华日报"
+        ],
+        "node_1": {
+            "ID": 559,
+            "nodeName": "新华日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "彻查",
+            "之死",
+            "北方邦",
+            "这起",
+            "米斯",
+            "公立医院",
+            "医院",
+            "许可证",
+            "悲剧",
+            "拉吉夫"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "孟加拉湾",
+            "演习",
+            "印度",
+            "台媒",
+            "会员国",
+            "观察员",
+            "IONS"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴士",
+            "丧生",
+            "坠入",
+            "滑坡",
+            "印度",
+            "喜马偕尔邦",
+            "山体",
+            "两辆",
+            "山谷",
+            "警方"
+        ]
+    }
+}

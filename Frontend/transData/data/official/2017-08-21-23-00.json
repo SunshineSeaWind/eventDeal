@@ -1,0 +1,106 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-08-21 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "王陶陶"
+        ],
+        "node_1": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "登顶",
+            "本质区别"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "王陶陶"
+        ],
+        "node_1": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "登顶",
+            "本质区别"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新京报—外事儿"
+        ],
+        "node_1": {
+            "ID": 382,
+            "nodeName": "新京报—外事儿",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "如厕",
+            "难事",
+            "天大",
+            "厕所",
+            "印度",
+            "野外",
+            "种姓",
+            "离婚",
+            "公共厕所",
+            "辛格"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "说服",
+            "借力",
+            "求助",
+            "俄罗斯",
+            "印度",
+            "金砖",
+            "军事演习",
+            "官员",
+            "会议"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "惊现",
+            "不明飞行物",
+            "着陆时",
+            "目睹",
+            "飞行员",
+            "机场",
+            "CISF",
+            "航班",
+            "印度",
+            "人员"
+        ]
+    }
+}

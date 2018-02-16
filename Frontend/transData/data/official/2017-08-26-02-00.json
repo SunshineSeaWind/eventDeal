@@ -1,0 +1,20 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-26 02:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华商报"
+        ],
+        "node_1": {
+            "ID": 873,
+            "nodeName": "华商报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "多地",
+            "骚乱"
+        ]
+    }
+}

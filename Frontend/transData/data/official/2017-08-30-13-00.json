@@ -1,0 +1,187 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-30 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "0.7%",
+            "回升",
+            "台港",
+            "印度",
+            "日期",
+            "购买",
+            "服务",
+            "现造",
+            "com",
+            "沽空"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "万隆",
+            "动物园",
+            "印度尼西亚",
+            "幼崽"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "张琪军事",
+            "张琪军事",
+            "人民网-环球时报"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "较量",
+            "印度",
+            "凶险",
+            "正向",
+            "逼近",
+            "莫迪",
+            "政治",
+            "安慰剂",
+            "大师"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Grofers",
+            "亚马逊",
+            "入股",
+            "外卖",
+            "上门",
+            "印度",
+            "电商",
+            "百货"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "较量",
+            "凶险",
+            "正向",
+            "逼近",
+            "印度",
+            "莫迪",
+            "金砖",
+            "会晤",
+            "边境"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "航空杂谈",
+            "航空杂谈",
+            "烽火军事",
+            "烽火军事"
+        ],
+        "node_1": {
+            "ID": 1139,
+            "nodeName": "航空杂谈",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1139,
+            "nodeName": "航空杂谈",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 340,
+            "nodeName": "烽火军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 340,
+            "nodeName": "烽火军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战斗机",
+            "悲剧",
+            "舰载机",
+            "海军",
+            "第一架",
+            "印度",
+            "米格",
+            "大招",
+            "抢夺",
+            "放出"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "水灾",
+            "孟买",
+            "降雨",
+            "洪水",
+            "雨水",
+            "火车",
+            "星期二",
+            "公共汽车",
+            "大雨"
+        ]
+    }
+}

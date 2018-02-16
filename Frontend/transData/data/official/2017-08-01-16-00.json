@@ -1,0 +1,202 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-01 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "广大军事"
+        ],
+        "node_1": {
+            "ID": 188,
+            "nodeName": "广大军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "巴铁",
+            "回击",
+            "展示",
+            "战场",
+            "网友",
+            "实力",
+            "不该",
+            "巴基斯坦",
+            "土邦"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "广大军事"
+        ],
+        "node_1": {
+            "ID": 188,
+            "nodeName": "广大军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "巴铁",
+            "回击",
+            "展示",
+            "战场",
+            "网友",
+            "实力",
+            "不该",
+            "巴基斯坦",
+            "土邦"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华网",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "旗杆",
+            "古吉拉特邦",
+            "怪风大",
+            "光杆",
+            "沦落",
+            "印度",
+            "卢比",
+            "洪灾",
+            "人数",
+            "国旗"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "四川日报",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "旗杆",
+            "怪风大",
+            "光杆",
+            "笑柄",
+            "沦为",
+            "国旗",
+            "这根",
+            "印度",
+            "英尺",
+            "阿姆利"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "旗杆",
+            "印度",
+            "怪风大",
+            "光杆",
+            "沦落",
+            "这根",
+            "国旗",
+            "英尺",
+            "阿姆利",
+            "边界线"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "国社",
+            "古吉拉特邦",
+            "炸开",
+            "英文",
+            "点评",
+            "印度",
+            "抄袭",
+            "制裁",
+            "楼市",
+            "麻辣烫"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "奥里萨邦",
+            "雷击",
+            "丧生",
+            "印度",
+            "丧命",
+            "致死",
+            "季风"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "栖居",
+            "大象",
+            "人命",
+            "老虎",
+            "夺一",
+            "印度",
+            "动物",
+            "人类"
+        ]
+    }
+}

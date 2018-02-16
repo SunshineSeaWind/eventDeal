@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-09 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "迷彩先生"
+        ],
+        "node_1": {
+            "ID": 788,
+            "nodeName": "迷彩先生",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "入常",
+            "一票否决",
+            "联合国",
+            "退出",
+            "印度",
+            "国定",
+            "转身",
+            "美国",
+            "特朗普",
+            "常任理事"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "迷彩先生"
+        ],
+        "node_1": {
+            "ID": 788,
+            "nodeName": "迷彩先生",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "入常",
+            "一票否决",
+            "联合国",
+            "退出",
+            "印度",
+            "国定",
+            "转身",
+            "美国",
+            "特朗普",
+            "常任理事"
+        ]
+    }
+}

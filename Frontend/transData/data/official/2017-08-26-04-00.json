@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-26 04:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸罪",
+            "多国发",
+            "暴乱",
+            "被判",
+            "旅行",
+            "辛格",
+            "印度",
+            "亚纳邦",
+            "哈里",
+            "骚乱"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "多国发",
+            "强奸罪",
+            "旅行",
+            "暴乱",
+            "被判",
+            "辛格",
+            "印度",
+            "亚纳邦",
+            "哈里",
+            "骚乱"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报-环球网"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸罪",
+            "旅行",
+            "多国发",
+            "暴乱",
+            "被判",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "印度",
+            "骚乱"
+        ]
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-14 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "滑坡",
+            "巴士",
+            "两辆",
+            "山体"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "科技日报"
+        ],
+        "node_1": {
+            "ID": 305,
+            "nodeName": "科技日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抗议",
+            "科技界",
+            "削减",
+            "科研",
+            "游行",
+            "印度",
+            "政府",
+            "科技部",
+            "萨蒂",
+            "吉特"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "蓝色",
+            "惊现",
+            "疑因",
+            "吓坏",
+            "河水",
+            "MPCB",
+            "动物",
+            "污染",
+            "工厂",
+            "印度"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "缺氧",
+            "屠杀",
+            "众怒",
+            "否认",
+            "氧气",
+            "死亡",
+            "医院",
+            "儿童",
+            "BRD",
+            "印度"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "蓝色",
+            "惊现",
+            "疑因",
+            "吓坏",
+            "河水",
+            "MPCB",
+            "动物",
+            "工厂",
+            "污染",
+            "孟买"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "童婚",
+            "禁播",
+            "电视剧",
+            "美化",
+            "抵制",
+            "此剧",
+            "该剧",
+            "娱乐",
+            "印度",
+            "请愿书"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "OPPO",
+            "F3",
+            "宝莱坞",
+            "限量版",
+            "女星",
+            "手机",
+            "迪皮",
+            "卡版",
+            "迪皮卡",
+            "帕度"
+        ]
+    }
+}

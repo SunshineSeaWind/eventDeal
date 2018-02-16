@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-05 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "潜艇",
+            "英媒称",
+            "穿越",
+            "优于",
+            "印度洋",
+            "印军",
+            "印度",
+            "这艘",
+            "海军",
+            "中国"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "潜艇",
+            "英媒称",
+            "穿越",
+            "优于",
+            "印度洋",
+            "印军",
+            "印度",
+            "这艘",
+            "海军",
+            "中国"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "潜艇",
+            "英媒称",
+            "穿越",
+            "优于",
+            "印度洋",
+            "印军",
+            "印度",
+            "这艘",
+            "海军",
+            "中国"
+        ]
+    }
+}

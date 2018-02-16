@@ -1,0 +1,371 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-08-14 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "春兴",
+            "增资",
+            "精工",
+            "万美元",
+            "日期",
+            "购买",
+            "服务",
+            "印度",
+            "下属"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "科技日报"
+        ],
+        "node_1": {
+            "ID": 305,
+            "nodeName": "科技日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抗议",
+            "科技界",
+            "捍卫",
+            "削减",
+            "科研",
+            "游行",
+            "印度",
+            "政府",
+            "科技部",
+            "萨蒂"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 9,
+        "AllNodeNameArray": [
+            "人民网-环球时报",
+            "中国小康",
+            "张琪军事",
+            "张琪军事",
+            "娄闲",
+            "张琪军事",
+            "娄闲",
+            "张琪军事",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 106,
+            "nodeName": "娄闲",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 106,
+            "nodeName": "娄闲",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_9": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印",
+            "对峙",
+            "洞朗",
+            "印度",
+            "国务部长",
+            "回应",
+            "中国",
+            "边境",
+            "不丹",
+            "小康"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社",
+            "新华社",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "氧气",
+            "切断",
+            "勒克",
+            "阿迪蒂",
+            "液态氧",
+            "北方邦",
+            "医院",
+            "印度",
+            "这所"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "现代化",
+            "印度",
+            "军事",
+            "印媒",
+            "CAG",
+            "战斗机",
+            "报告",
+            "美国",
+            "导弹",
+            "坠毁"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 7,
+        "AllNodeNameArray": [
+            "环球时报",
+            "人民网-环球时报",
+            "环球时报",
+            "环球网",
+            "新华社",
+            "中国新闻网",
+            "人民网-环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "缺氧",
+            "儿童",
+            "中断",
+            "屠杀",
+            "印度",
+            "北方邦",
+            "悲剧",
+            "否认",
+            "氧气",
+            "死亡"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "蓝色",
+            "惊现",
+            "疑因",
+            "吓坏",
+            "河水",
+            "MPCB",
+            "工厂",
+            "动物",
+            "污染"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "新华社",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "尼泊尔",
+            "丧生",
+            "暴雨成灾",
+            "百余人",
+            "被困",
+            "喜马偕尔邦",
+            "印度",
+            "搜救",
+            "死亡",
+            "失踪"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "四川日报",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大吉",
+            "骚乱",
+            "中央政府",
+            "谈判",
+            "急欲",
+            "廓尔喀",
+            "降雨",
+            "建邦",
+            "印度",
+            "地区"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "金融界",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "库存",
+            "进口",
+            "季风",
+            "补充",
+            "黄金",
+            "反倾销税",
+            "带动",
+            "需求",
+            "先挑",
+            "对峙"
+        ]
+    }
+}

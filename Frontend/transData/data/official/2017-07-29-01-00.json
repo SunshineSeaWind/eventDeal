@@ -1,0 +1,41 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-07-29 01:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "浪子读史"
+        ],
+        "node_1": {
+            "ID": 636,
+            "nodeName": "浪子读史",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "漫看",
+            "一人灭",
+            "完虐",
+            "阿三",
+            "一国"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "浪子读史"
+        ],
+        "node_1": {
+            "ID": 636,
+            "nodeName": "浪子读史",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "漫看",
+            "一人灭",
+            "完虐",
+            "阿三",
+            "一国"
+        ]
+    }
+}

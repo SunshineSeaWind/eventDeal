@@ -1,0 +1,264 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-08-26 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：中國新聞網"
+        ],
+        "node_1": {
+            "ID": 542,
+            "nodeName": "來源：中國新聞網",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "強姦",
+            "大師",
+            "引暴亂",
+            "已致",
+            "騷亂",
+            "亞納邦",
+            "潘切",
+            "發生",
+            "判決",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网-人民日报"
+        ],
+        "node_1": {
+            "ID": 190,
+            "nodeName": "人民网-人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "多邦",
+            "亚纳邦",
+            "哈里",
+            "新德里",
+            "潘切",
+            "旁遮普邦"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "人民网-人民日报",
+            "人民日报",
+            "新华社",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 190,
+            "nodeName": "人民网-人民日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "多邦",
+            "亚纳邦",
+            "哈里",
+            "新德里",
+            "旁遮普邦",
+            "潘切",
+            "库拉",
+            "辛格",
+            "银行职员"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华丽的虚伪"
+        ],
+        "node_1": {
+            "ID": 386,
+            "nodeName": "华丽的虚伪",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "涂装",
+            "挑战者"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华丽的虚伪"
+        ],
+        "node_1": {
+            "ID": 386,
+            "nodeName": "华丽的虚伪",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "涂装",
+            "挑战者"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "环球时报",
+            "环球网",
+            "中国新闻网",
+            "人民网-环球时报",
+            "中央人民广播电台",
+            "澎湃新闻"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 1070,
+            "nodeName": "中央人民广播电台",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "判决",
+            "强奸罪",
+            "暴乱",
+            "辛格",
+            "亚纳邦",
+            "印度",
+            "哈里",
+            "报道",
+            "潘切"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "计算错误",
+            "后果",
+            "面对",
+            "印度",
+            "边界",
+            "中国",
+            "中印",
+            "领土",
+            "明智",
+            "底线"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "认真对待",
+            "辱华",
+            "领馆",
+            "袒护",
+            "高校",
+            "悉尼",
+            "纽卡斯尔",
+            "校方",
+            "该校",
+            "课堂"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 新华网 "
+        ],
+        "node_1": {
+            "ID": 751,
+            "nodeName": " 新华网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "实弹",
+            "远航",
+            "演练",
+            "编队",
+            "访问",
+            "敌情",
+            "补给",
+            "印度洋",
+            "海域",
+            "海上"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "健身房",
+            "印度人",
+            "锻炼",
+            "热衷",
+            "太高",
+            "健身",
+            "Gympik",
+            "30%",
+            "11%",
+            "健身器材"
+        ]
+    }
+}

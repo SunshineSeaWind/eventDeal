@@ -1,0 +1,400 @@
+{
+    "LinkedArraySize": 13,
+    "Date": "2017-08-01 15:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "人民网-国际频道",
+            "中国小康",
+            "中国日报网",
+            "中国小康",
+            "新华社",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "不丹",
+            "印度",
+            "建交",
+            "媒体",
+            "保护者",
+            "雷击",
+            "视频",
+            "中印",
+            "一厢情愿",
+            "自杀"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "人民网国际频道",
+            "中国新闻网",
+            "中国新闻网",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 281,
+            "nodeName": "人民网国际频道",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "雷击",
+            "奥里萨邦",
+            "丧生",
+            "印度",
+            "致死",
+            "季风",
+            "Atagad",
+            "人死于",
+            "报道",
+            "气象局"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "人民网-国际频道",
+            "中新网",
+            "中国新闻网",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "雷击",
+            "奥里萨邦",
+            "丧生",
+            "印度",
+            "致死",
+            "季风",
+            "丧命",
+            "自然灾害",
+            "受伤",
+            "外媒"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "雷击",
+            "外媒",
+            "丧生",
+            "近日",
+            "印度",
+            "奥里萨邦",
+            "致死",
+            "季风"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "Global Times",
+            "中国小康",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "不丹",
+            "印度",
+            "关系",
+            "保护者",
+            "建交",
+            "媒体",
+            "澳大利亚",
+            "中国",
+            "接近",
+            "国家"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "克什米尔",
+            "指挥官",
+            "武装",
+            "最高级",
+            "丧生",
+            "枪战",
+            "部队",
+            "印度",
+            "分子"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "国产手机",
+            "诺基亚",
+            "三星",
+            "溃败",
+            "重演",
+            "围攻",
+            "之下",
+            "印度",
+            "国产品牌",
+            "手机"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中美聚焦",
+            "中美聚焦"
+        ],
+        "node_1": {
+            "ID": 674,
+            "nodeName": "中美聚焦",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 674,
+            "nodeName": "中美聚焦",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "越界",
+            "历史教训",
+            "汲取",
+            "怀疑"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "薩邦",
+            "發生",
+            "雷擊",
+            "頻繁",
+            "印度",
+            "報道",
+            "地區"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "大阅无疆",
+            "大阅无疆",
+            "利刃军事官方号",
+            "利刃军事官方号"
+        ],
+        "node_1": {
+            "ID": 450,
+            "nodeName": "大阅无疆",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 450,
+            "nodeName": "大阅无疆",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 383,
+            "nodeName": "利刃军事官方号",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 383,
+            "nodeName": "利刃军事官方号",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "坦克",
+            "战机",
+            "T72",
+            "T80",
+            "综合体",
+            "顺手",
+            "购买",
+            "蜂拥",
+            "空战"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "软银",
+            "Flipkart",
+            "亿美元",
+            "印度",
+            "电商",
+            "彭博社",
+            "磋商",
+            "孙正义",
+            "愿景",
+            "Snapdeal"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国日报网",
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自杀",
+            "农民",
+            "印度",
+            "变暖",
+            "人数",
+            "拉尼",
+            "帕特尔",
+            "华氏度",
+            "农业",
+            "气候变化"
+        ]
+    },
+    "LinkedArray_13": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "不丹",
+            "媒体",
+            "保护者",
+            "建交",
+            "印度",
+            "中国",
+            "主权",
+            "尊重",
+            "保护国",
+            "一厢情愿"
+        ]
+    }
+}

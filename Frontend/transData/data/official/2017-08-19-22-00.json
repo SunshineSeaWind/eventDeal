@@ -1,0 +1,245 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-19 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "错估",
+            "印度",
+            "军力",
+            "网民",
+            "低估",
+            "indent",
+            "China",
+            "India",
+            "中国",
+            "different"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "错估",
+            "印度",
+            "军力",
+            "网民",
+            "低估",
+            "indent",
+            "China",
+            "India",
+            "中国",
+            "different"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "Global Times",
+            "新华网",
+            "中国政府网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "受伤",
+            "火车",
+            "脱轨",
+            "北部",
+            "教练",
+            "印度",
+            "节车厢",
+            "一列",
+            "铁路",
+            "官员"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 13,
+        "AllNodeNameArray": [
+            "海外网",
+            "新华社",
+            "新华社",
+            "新华社",
+            "印度",
+            "华网俄语",
+            "中国网俄文",
+            "印度",
+            "新华社",
+            "新华社",
+            "新华社",
+            "新华社",
+            "央视新闻客户端"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 318,
+            "nodeName": "印度",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 318,
+            "nodeName": "印度",
+            "nodeInfo": {}
+        },
+        "node_9": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_10": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_11": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_12": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_13": {
+            "ID": 101,
+            "nodeName": "央视新闻客户端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "节车厢",
+            "北方邦",
+            "一列",
+            "印度",
+            "火车",
+            "很长",
+            "强大",
+            "已致",
+            "彻查"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "入侵",
+            "非法",
+            "焦点",
+            "背后",
+            "印度",
+            "不丹",
+            "领土",
+            "Doklam",
+            "中国",
+            "Maxwell"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "四代重歼",
+            "四代重歼",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 469,
+            "nodeName": "四代重歼",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 469,
+            "nodeName": "四代重歼",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "第一炮",
+            "韩国",
+            "亚洲",
+            "炸膛",
+            "刚买",
+            "惨案",
+            "事故",
+            "榴弹炮",
+            "时许",
+            "火炮"
+        ]
+    }
+}

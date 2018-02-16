@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-24 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军武次位面1"
+        ],
+        "node_1": {
+            "ID": 974,
+            "nodeName": "军武次位面1",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印军",
+            "网友",
+            "口出狂言",
+            "一当百",
+            "个个",
+            "好好",
+            "军武菌",
+            "印度",
+            "游戏",
+            "玩家"
+        ]
+    }
+}

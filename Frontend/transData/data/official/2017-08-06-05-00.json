@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-06 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报"
+        ],
+        "node_1": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "洞朗",
+            "人民日报",
+            "总理",
+            "发声",
+            "对话",
+            "印度",
+            "冲突",
+            "中印",
+            "解决问题"
+        ]
+    }
+}

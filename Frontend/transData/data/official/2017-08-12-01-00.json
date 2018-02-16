@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-12 01:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "火星方阵"
+        ],
+        "node_1": {
+            "ID": 521,
+            "nodeName": "火星方阵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "铁了心",
+            "边境",
+            "动手",
+            "军队",
+            "印度",
+            "中印",
+            "消息人士",
+            "士兵",
+            "中国",
+            "战争"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "火星方阵"
+        ],
+        "node_1": {
+            "ID": 521,
+            "nodeName": "火星方阵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "铁了心",
+            "边境",
+            "动手",
+            "军队",
+            "印度",
+            "中印",
+            "消息人士",
+            "士兵",
+            "中国",
+            "战争"
+        ]
+    }
+}

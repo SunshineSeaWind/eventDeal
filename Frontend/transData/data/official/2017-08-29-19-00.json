@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-29 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "小康",
+            "印度",
+            "认清形势",
+            "正确",
+            "印方",
+            "洞朗",
+            "中方",
+            "越界",
+            "主权"
+        ]
+    }
+}

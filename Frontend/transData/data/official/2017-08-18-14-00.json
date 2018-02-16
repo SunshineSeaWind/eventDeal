@@ -1,0 +1,199 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-18 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Infosys",
+            "执行官",
+            "辞职",
+            "出口商",
+            "软件",
+            "Sikka"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度尼西亚",
+            "对话",
+            "高级别",
+            "下周",
+            "总理",
+            "发言人"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "番茄",
+            "通胀",
+            "印度",
+            "猪肉",
+            "食品",
+            "价格",
+            "成本",
+            "篮子",
+            "46%",
+            "正拉涨"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电力",
+            "据报",
+            "电讯",
+            "收紧",
+            "日期",
+            "购买",
+            "服务",
+            "沽空",
+            "com",
+            "HK"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "两机动力控制",
+            "两机动力控制",
+            "两机动力控制"
+        ],
+        "node_1": {
+            "ID": 508,
+            "nodeName": "两机动力控制",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 508,
+            "nodeName": "两机动力控制",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 508,
+            "nodeName": "两机动力控制",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "6.5",
+            "阿帕奇",
+            "直升机",
+            "陆军",
+            "攻击",
+            "重型",
+            "印度",
+            "护卫舰",
+            "地狱火",
+            "导弹"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "线下",
+            "小米",
+            "米粉",
+            "太低",
+            "抱怨",
+            "Jain",
+            "零售店",
+            "印度",
+            "智能手机",
+            "实体店"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "登机牌",
+            "登机",
+            "乘客",
+            "再取",
+            "智能",
+            "安检",
+            "盖章",
+            "扫描",
+            "机场",
+            "CISF"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国小康",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "小康",
+            "对峙",
+            "印度",
+            "军演",
+            "印媒放",
+            "将配",
+            "中巴",
+            "狂言",
+            "致命",
+            "洞朗"
+        ]
+    }
+}

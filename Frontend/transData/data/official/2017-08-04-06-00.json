@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-04 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰军事"
+        ],
+        "node_1": {
+            "ID": 165,
+            "nodeName": "凤凰军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军报",
+            "解放军",
+            "警告",
+            "严厉",
+            "发出",
+            "人民日报",
+            "黄岩岛",
+            "是可忍",
+            "印度",
+            "孰不可忍"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国防部网"
+        ],
+        "node_1": {
+            "ID": 712,
+            "nodeName": "国防部网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "克制",
+            "国防部",
+            "发声",
+            "底线",
+            "深夜",
+            "中方",
+            "边防部队",
+            "越界",
+            "中国",
+            "印方"
+        ]
+    }
+}

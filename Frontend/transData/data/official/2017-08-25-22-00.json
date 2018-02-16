@@ -1,0 +1,176 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-25 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度洋",
+            "演习",
+            "舰队",
+            "现场",
+            "海军",
+            "实弹演习",
+            "海域"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "四川日报",
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "人伤",
+            "骚乱",
+            "强奸罪",
+            "已致",
+            "暴乱",
+            "辛格",
+            "印度",
+            "亚纳邦",
+            "哈里",
+            "报道"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸罪",
+            "骚乱",
+            "已致",
+            "被判",
+            "辛格",
+            "印度",
+            "亚纳邦",
+            "哈里",
+            "大师",
+            "潘切"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报客户端"
+        ],
+        "node_1": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "多邦",
+            "多人",
+            "受伤",
+            "亚纳邦",
+            "辛格",
+            "哈里",
+            "印度",
+            "新德里",
+            "潘切"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "澎湃新闻",
+            "澎湃新闻",
+            "澎湃新闻",
+            "澎湃新闻",
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "发酵",
+            "上千人",
+            "已有",
+            "亚纳邦",
+            "哈里",
+            "辛格",
+            "支持者",
+            "旁遮普省",
+            "印度"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "央视新闻客户端",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 101,
+            "nodeName": "央视新闻客户端",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "多地",
+            "强奸罪",
+            "被判",
+            "死亡",
+            "宵禁",
+            "死伤",
+            "印度",
+            "辛格",
+            "亚纳邦"
+        ]
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-22 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "特朗普",
+            "印度",
+            "阿富汗",
+            "小康",
+            "帮帮",
+            "喊话",
+            "美国",
+            "出力",
+            "帮忙",
+            "报道"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "新华社",
+            "中国网繁体",
+            "中国新闻网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "厕所",
+            "离婚",
+            "罢工",
+            "百万",
+            "停摆",
+            "印度",
+            "银行职员",
+            "婆家",
+            "法院",
+            "印度政府"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报"
+        ],
+        "node_1": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火车",
+            "频发",
+            "漏洞",
+            "事故",
+            "脱轨",
+            "印度",
+            "铁路",
+            "在线",
+            "铁道",
+            "路轨"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "受伤",
+            "投诉",
+            "边界",
+            "冲突",
+            "中国",
+            "印度",
+            "士兵",
+            "阻挠"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "四川日报",
+            "中国日报网",
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "炫耀",
+            "公路",
+            "照明",
+            "假扮",
+            "夸赞",
+            "过头",
+            "社交",
+            "推特",
+            "网站",
+            "照片"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火车",
+            "频发",
+            "漏洞",
+            "暴露",
+            "事故",
+            "脱轨",
+            "印度",
+            "铁路",
+            "铁道",
+            "路轨"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中华网日语"
+        ],
+        "node_1": {
+            "ID": 501,
+            "nodeName": "中华网日语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边界",
+            "相撞",
+            "要约",
+            "僵硬",
+            "士兵",
+            "印度",
+            "边防部队"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网-国际频道"
+        ],
+        "node_1": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边境",
+            "内政部长",
+            "对峙",
+            "很快",
+            "找到",
+            "辛格"
+        ]
+    }
+}

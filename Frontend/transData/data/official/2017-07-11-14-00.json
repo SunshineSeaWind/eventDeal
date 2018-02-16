@@ -1,0 +1,178 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-11 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国际在线新闻"
+        ],
+        "node_1": {
+            "ID": 283,
+            "nodeName": "国际在线新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "开枪",
+            "男子",
+            "晚饭",
+            "打死",
+            "印度",
+            "妮娜",
+            "妻子",
+            "罗帕什",
+            "这盆面",
+            "单车"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "解放军报",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 186,
+            "nodeName": "解放军报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴基斯坦",
+            "摩苏尔",
+            "解放",
+            "交火",
+            "外交官",
+            "召见",
+            "印度",
+            "外交部",
+            "被劫持",
+            "未找到"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军车研究社",
+            "军车研究社"
+        ],
+        "node_1": {
+            "ID": 287,
+            "nodeName": "军车研究社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 287,
+            "nodeName": "军车研究社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战机",
+            "坦克",
+            "竟靠",
+            "三军",
+            "子弹",
+            "俄制",
+            "印度",
+            "吨级",
+            "直升机",
+            "护卫舰"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亚马逊",
+            "网络",
+            "获批",
+            "零售",
+            "印度",
+            "食品",
+            "销售",
+            "杂货",
+            "印度政府",
+            "消费者"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武器正能量"
+        ],
+        "node_1": {
+            "ID": 295,
+            "nodeName": "武器正能量",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "摔掉",
+            "空降兵",
+            "架飞机",
+            "飞行员",
+            "战斗机",
+            "印度",
+            "LCA",
+            "制空",
+            "三角翼",
+            "阵风"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武器正能量"
+        ],
+        "node_1": {
+            "ID": 295,
+            "nodeName": "武器正能量",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "摔掉",
+            "空降兵",
+            "架飞机",
+            "飞行员",
+            "战斗机",
+            "印度",
+            "LCA",
+            "制空",
+            "三角翼",
+            "阵风"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "下一代",
+            "赶上",
+            "印度",
+            "印媒",
+            "领军者",
+            "杜塔",
+            "TCS",
+            "阿里巴巴",
+            "信息技术",
+            "创新"
+        ]
+    }
+}

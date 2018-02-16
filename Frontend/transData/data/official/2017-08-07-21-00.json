@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-07 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "建筑材料",
+            "价格上涨",
+            "印度",
+            "中国",
+            "周一",
+            "陶瓷",
+            "出口",
+            "IRMA",
+            "铝塑板",
+            "产品"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "小康",
+            "CNN",
+            "曝中印",
+            "已不多",
+            "撤军",
+            "对峙",
+            "视频",
+            "加紧",
+            "运送",
+            "印度"
+        ]
+    }
+}

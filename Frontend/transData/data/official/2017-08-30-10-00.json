@@ -1,0 +1,273 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-08-30 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "参考消息",
+            "金融界",
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "金砖",
+            "印度",
+            "莫迪",
+            "厦门",
+            "大使",
+            "中国",
+            "国家",
+            "会晤",
+            "成员国",
+            "外媒"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "金砖",
+            "厦门",
+            "外媒",
+            "峰会",
+            "出席",
+            "报道",
+            "中国",
+            "印度",
+            "访问"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "21世纪经济报道"
+        ],
+        "node_1": {
+            "ID": 327,
+            "nodeName": "21世纪经济报道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "追缴",
+            "亿港元",
+            "税款",
+            "十年",
+            "印度",
+            "国际",
+            "税务局",
+            "罚款",
+            "汤宇",
+            "最高法院"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "金融界",
+            "中国小康",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "撤军",
+            "亿美元",
+            "贴息贷款",
+            "中方",
+            "洞朗",
+            "小康",
+            "对峙",
+            "边境",
+            "谣言"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视网"
+        ],
+        "node_1": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "金砖"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸罪",
+            "匿名信",
+            "大师",
+            "判刑",
+            "辛格",
+            "印度",
+            "信徒",
+            "亚纳邦",
+            "哈里",
+            "强暴"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "看天下VS",
+            "看天下VS"
+        ],
+        "node_1": {
+            "ID": 1142,
+            "nodeName": "看天下VS",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1142,
+            "nodeName": "看天下VS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "十架",
+            "LCA",
+            "笑柄",
+            "干掉",
+            "战机",
+            "遗弃",
+            "印度",
+            "战斗机",
+            "光辉",
+            "空军"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "火车",
+            "技术落后",
+            "跟不上",
+            "印度",
+            "铁路",
+            "事故",
+            "开往",
+            "列车",
+            "维修"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "hawk26讲武堂",
+            "hawk26讲武堂",
+            "hawk26讲武堂"
+        ],
+        "node_1": {
+            "ID": 210,
+            "nodeName": "hawk26讲武堂",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 210,
+            "nodeName": "hawk26讲武堂",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 210,
+            "nodeName": "hawk26讲武堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "AK",
+            "恐怖分子",
+            "搜捕",
+            "伞兵",
+            "克什米尔",
+            "AKM",
+            "迷彩服",
+            "见鬼"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "四川日报",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中文",
+            "边防部队",
+            "入伍",
+            "误会",
+            "五六十",
+            "士兵",
+            "印度",
+            "洞朗",
+            "印藏",
+            "警察部队"
+        ]
+    }
+}

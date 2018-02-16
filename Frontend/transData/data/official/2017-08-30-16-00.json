@@ -1,0 +1,368 @@
+{
+    "LinkedArraySize": 13,
+    "Date": "2017-08-30 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "军事参考",
+            "军事参考",
+            "军事参考"
+        ],
+        "node_1": {
+            "ID": 1026,
+            "nodeName": "军事参考",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1026,
+            "nodeName": "军事参考",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1026,
+            "nodeName": "军事参考",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "有何",
+            "猫腻",
+            "撤军"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事参考"
+        ],
+        "node_1": {
+            "ID": 1026,
+            "nodeName": "军事参考",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "金融界",
+            "环球网",
+            "环球网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "金砖",
+            "莫迪",
+            "总理",
+            "澳一",
+            "猥亵",
+            "未遂",
+            "撤军",
+            "附股",
+            "厦门"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中美聚焦"
+        ],
+        "node_1": {
+            "ID": 674,
+            "nodeName": "中美聚焦",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "对峙",
+            "特朗普"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中美聚焦"
+        ],
+        "node_1": {
+            "ID": 674,
+            "nodeName": "中美聚焦",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "对峙",
+            "特朗普"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中美聚焦"
+        ],
+        "node_1": {
+            "ID": 674,
+            "nodeName": "中美聚焦",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "对峙",
+            "特朗普"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "烽火军事",
+            "烽火军事"
+        ],
+        "node_1": {
+            "ID": 340,
+            "nodeName": "烽火军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 340,
+            "nodeName": "烽火军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "百架",
+            "大单",
+            "印度",
+            "战机",
+            "谈判",
+            "军方",
+            "洛克希德",
+            "马丁",
+            "制造",
+            "设厂"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "Global Times",
+            "海外网",
+            "新华社",
+            "新华社",
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "死亡",
+            "公立医院",
+            "北方邦",
+            "印度",
+            "死因",
+            "断氧门",
+            "内有",
+            "又现",
+            "阴谋"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "央视网",
+            "IT之家",
+            "IT之家",
+            "IT之家"
+        ],
+        "node_1": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 142,
+            "nodeName": "IT之家",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 142,
+            "nodeName": "IT之家",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 142,
+            "nodeName": "IT之家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "依赖度",
+            "互联网",
+            "第三",
+            "印度",
+            "Ipsos",
+            "网络",
+            "调查",
+            "外媒",
+            "益普索",
+            "孟买"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "火星方阵",
+            "火星方阵"
+        ],
+        "node_1": {
+            "ID": 521,
+            "nodeName": "火星方阵",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 521,
+            "nodeName": "火星方阵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "各邦",
+            "修路",
+            "叛军",
+            "东北",
+            "害怕",
+            "印度",
+            "中国",
+            "东北部",
+            "项目",
+            "缅甸"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军事天地",
+            "军事天地"
+        ],
+        "node_1": {
+            "ID": 422,
+            "nodeName": "军事天地",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 422,
+            "nodeName": "军事天地",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "运输机",
+            "购日",
+            "印军",
+            "没完",
+            "撤退",
+            "阻止",
+            "C2",
+            "印度",
+            "洞朗",
+            "C17"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "张琪军事",
+            "张琪军事",
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "部署",
+            "驻守",
+            "印度洋",
+            "服役",
+            "防御",
+            "战机",
+            "空军",
+            "部队",
+            "作战",
+            "蒋佳冀旅"
+        ]
+    },
+    "LinkedArray_13": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "公立医院",
+            "内有",
+            "儿童"
+        ]
+    }
+}

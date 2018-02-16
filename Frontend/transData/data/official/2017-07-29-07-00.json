@@ -1,0 +1,94 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-07-29 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印中",
+            "禁令",
+            "边境",
+            "台媒",
+            "印度政府",
+            "印度",
+            "王佩玲",
+            "边界",
+            "印方",
+            "瓦尔"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "VIVO",
+            "OPPO",
+            "小米",
+            "半壁江山",
+            "联想",
+            "智能手机",
+            "红米"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：中國新聞網"
+        ],
+        "node_1": {
+            "ID": 542,
+            "nodeName": "來源：中國新聞網",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "價格",
+            "漲成",
+            "手貨",
+            "批發",
+            "商聘",
+            "番茄",
+            "市場",
+            "印度",
+            "蔬果",
+            "飛漲"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "诺兰",
+            "新片",
+            "心酸",
+            "印度人",
+            "印度",
+            "敦刻尔克",
+            "二战",
+            "军人",
+            "一名",
+            "战役"
+        ]
+    }
+}

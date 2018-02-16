@@ -1,0 +1,25 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-11 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "交通事故",
+            "受伤",
+            "首都",
+            "死亡",
+            "印度",
+            "事故",
+            "超速"
+        ]
+    }
+}

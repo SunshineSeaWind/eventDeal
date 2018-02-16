@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-29 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军迷",
+            "谁给了",
+            "挑衅",
+            "告急",
+            "自信",
+            "印度",
+            "中国",
+            "花熊",
+            "中印",
+            "美印"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军迷",
+            "谁给了",
+            "挑衅",
+            "告急",
+            "自信",
+            "印度",
+            "中国",
+            "花熊",
+            "中印",
+            "美印"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "诺兰",
+            "新片",
+            "心酸",
+            "印度人",
+            "印度",
+            "敦刻尔克",
+            "二战",
+            "军人",
+            "战役",
+            "士兵"
+        ]
+    }
+}

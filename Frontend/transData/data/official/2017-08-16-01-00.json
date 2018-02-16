@@ -1,0 +1,46 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-16 01:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "上学",
+            "女孩",
+            "印度",
+            "性侵犯",
+            "警方"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "讲话",
+            "强大",
+            "印度",
+            "避谈",
+            "克什米尔",
+            "独立",
+            "纪念日",
+            "总理",
+            "报道"
+        ]
+    }
+}

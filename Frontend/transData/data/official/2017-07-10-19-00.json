@@ -1,0 +1,159 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-10 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "受灾",
+            "雷电",
+            "阿萨姆",
+            "灾害",
+            "印度",
+            "暴雨",
+            "死亡"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遇难",
+            "雷电",
+            "暴雨",
+            "阿萨姆",
+            "印度",
+            "灾害",
+            "洪水",
+            "比哈尔邦",
+            "受灾",
+            "雨季"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遇难",
+            "雷电",
+            "暴雨",
+            "阿萨姆",
+            "印度",
+            "灾害",
+            "洪水",
+            "比哈尔邦",
+            "受灾",
+            "雨季"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "雷击",
+            "死亡",
+            "北部",
+            "比哈尔邦",
+            "district",
+            "死者"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印",
+            "越界",
+            "交火",
+            "预谋",
+            "印巴",
+            "印方",
+            "边界",
+            "耿爽",
+            "外交",
+            "锡金"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "哨所",
+            "印军",
+            "开火",
+            "无故",
+            "军方",
+            "央广网",
+            "巴基斯坦",
+            "控制线",
+            "印度",
+            "克什米尔"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网-环球时报"
+        ],
+        "node_1": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "补给点",
+            "印度洋",
+            "海军",
+            "模式",
+            "编队",
+            "补给",
+            "舰艇",
+            "护航",
+            "亚丁湾",
+            "海域"
+        ]
+    }
+}

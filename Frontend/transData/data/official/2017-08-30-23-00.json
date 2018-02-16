@@ -1,0 +1,235 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-30 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "正轨",
+            "合作",
+            "金砖",
+            "中国",
+            "中印",
+            "外交部长",
+            "莫迪",
+            "对峙",
+            "亿美元"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "王陶陶"
+        ],
+        "node_1": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "现代化",
+            "印度",
+            "威胁",
+            "印度教",
+            "压迫",
+            "剥削者",
+            "虔诚",
+            "种姓",
+            "剥削",
+            "国家"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "王陶陶"
+        ],
+        "node_1": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "现代化",
+            "印度",
+            "威胁",
+            "印度教",
+            "压迫",
+            "剥削者",
+            "虔诚",
+            "种姓",
+            "剥削",
+            "国家"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "星球头闻",
+            "星球头闻"
+        ],
+        "node_1": {
+            "ID": 1145,
+            "nodeName": "星球头闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1145,
+            "nodeName": "星球头闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外骨骼",
+            "单兵",
+            "全身",
+            "钢铁",
+            "酷似",
+            "布满",
+            "这套",
+            "装备",
+            "工程师"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "死亡",
+            "数十名",
+            "败血症",
+            "肺炎",
+            "疾病",
+            "医院",
+            "勒克",
+            "人死于",
+            "达斯"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "星球头闻"
+        ],
+        "node_1": {
+            "ID": 1145,
+            "nodeName": "星球头闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外骨骼",
+            "单兵",
+            "全身",
+            "钢铁",
+            "酷似",
+            "布满",
+            "这套",
+            "装备",
+            "工程师"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "武器大国",
+            "战术忽悠局",
+            "武器大国",
+            "战术忽悠局"
+        ],
+        "node_1": {
+            "ID": 760,
+            "nodeName": "武器大国",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 545,
+            "nodeName": "战术忽悠局",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 760,
+            "nodeName": "武器大国",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 545,
+            "nodeName": "战术忽悠局",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大驱",
+            "驱逐舰",
+            "万吨",
+            "万美元",
+            "印版",
+            "造出",
+            "瞩目",
+            "印度",
+            "公里",
+            "导弹"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "鼎盛军事",
+            "鼎盛军事",
+            "鼎盛军事"
+        ],
+        "node_1": {
+            "ID": 426,
+            "nodeName": "鼎盛军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 426,
+            "nodeName": "鼎盛军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 426,
+            "nodeName": "鼎盛军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "变卖家产",
+            "地主家",
+            "不好过",
+            "接手",
+            "日子",
+            "两栖",
+            "退役",
+            "攻击",
+            "海洋"
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-08-20 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "济南日报"
+        ],
+        "node_1": {
+            "ID": 958,
+            "nodeName": "济南日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洪灾",
+            "肆虐",
+            "东北部"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰国际智库"
+        ],
+        "node_1": {
+            "ID": 591,
+            "nodeName": "凤凰国际智库",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "尼泊尔",
+            "让给",
+            "不想",
+            "访问",
+            "印度",
+            "总理",
+            "合作",
+            "中印",
+            "冲突",
+            "汪洋"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "北方邦",
+            "列车"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰国际智库"
+        ],
+        "node_1": {
+            "ID": 591,
+            "nodeName": "凤凰国际智库",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "内政部长",
+            "克什米尔",
+            "争端",
+            "印度",
+            "控制线",
+            "巴基斯坦",
+            "恐怖主义",
+            "交火",
+            "克什米尔地区",
+            "辛格"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "印度",
+            "午报",
+            "年前",
+            "高铁",
+            "胡仕胜",
+            "周波",
+            "Aneja",
+            "海事局",
+            "Atul"
+        ]
+    }
+}

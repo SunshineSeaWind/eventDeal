@@ -1,0 +1,139 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-31 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遭雷击",
+            "身亡",
+            "沙邦",
+            "奥迪"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "雷击",
+            "丧生",
+            "奥里萨邦",
+            "受害者",
+            "Badrak",
+            "Baleshva",
+            "帕拉"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遭雷击",
+            "身亡",
+            "沙邦",
+            "奥迪",
+            "雷击",
+            "印度",
+            "强降雨",
+            "人死于",
+            "安得拉邦"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网俄文"
+        ],
+        "node_1": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "russian",
+            "china",
+            "org",
+            "cn"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "一寸明言",
+            "一寸明言",
+            "一寸明言"
+        ],
+        "node_1": {
+            "ID": 655,
+            "nodeName": "一寸明言",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 655,
+            "nodeName": "一寸明言",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 655,
+            "nodeName": "一寸明言",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "假消息",
+            "WhatsApp",
+            "印度",
+            "干瞪眼",
+            "面对",
+            "内容",
+            "反感",
+            "分享",
+            "加密",
+            "加密技术"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "一寸明言"
+        ],
+        "node_1": {
+            "ID": 655,
+            "nodeName": "一寸明言",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "假消息",
+            "WhatsApp",
+            "印度",
+            "干瞪眼",
+            "面对",
+            "内容",
+            "反感",
+            "分享",
+            "加密",
+            "加密技术"
+        ]
+    }
+}

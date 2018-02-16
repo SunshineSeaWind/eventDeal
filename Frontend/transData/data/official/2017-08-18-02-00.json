@@ -1,0 +1,23 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-18 02:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网法文"
+        ],
+        "node_1": {
+            "ID": 558,
+            "nodeName": "中国网法文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "俄罗斯",
+            "军演",
+            "印度",
+            "哈罗",
+            "军事演习"
+        ]
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-17 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自欺欺人",
+            "批印",
+            "战史",
+            "无端",
+            "侵略",
+            "印度",
+            "斯维尔",
+            "印中",
+            "对峙",
+            "会期"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "    "
+        ],
+        "node_1": {
+            "ID": 7,
+            "nodeName": "    ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印控",
+            "克什米尔地区",
+            "坠谷",
+            "人死",
+            "香客",
+            "朝圣",
+            "印度",
+            "斯利那",
+            "阿马尔",
+            "纳特"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "停火协议",
+            "交火",
+            "巴印",
+            "双边",
+            "违反",
+            "印度",
+            "克什米尔地区",
+            "巴基斯坦",
+            "克什米尔",
+            "开火"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "娄闲",
+            "娄闲"
+        ],
+        "node_1": {
+            "ID": 106,
+            "nodeName": "娄闲",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 106,
+            "nodeName": "娄闲",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军齐",
+            "陆海空三",
+            "摊牌",
+            "出动",
+            "做好",
+            "印度",
+            "中国",
+            "坦克",
+            "运输机",
+            "印度洋"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            " 中新网 ",
+            " 中新网 "
+        ],
+        "node_1": {
+            "ID": 256,
+            "nodeName": " 中新网 ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 256,
+            "nodeName": " 中新网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "吊打",
+            "神片",
+            "国产片",
+            "五部",
+            "摔跤",
+            "天津",
+            "扫码",
+            "开挂"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "瞭望智库"
+        ],
+        "node_1": {
+            "ID": 261,
+            "nodeName": "瞭望智库",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "李光耀",
+            "亚洲",
+            "印度",
+            "对抗",
+            "最佳",
+            "中国",
+            "国家",
+            "体制",
+            "经济",
+            "发展"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "自杀",
+            "率高",
+            "央广网",
+            "得不到",
+            "警察",
+            "德里",
+            "警员",
+            "警方",
+            "工作",
+            "警官"
+        ]
+    }
+}

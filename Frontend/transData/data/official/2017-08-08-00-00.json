@@ -1,0 +1,120 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-08-08 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金陵读书"
+        ],
+        "node_1": {
+            "ID": 766,
+            "nodeName": "金陵读书",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "知乎",
+            "de",
+            "传奇",
+            "印度",
+            "印度人",
+            "小工",
+            "纱丽",
+            "验货",
+            "酒店",
+            "jaipur"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金陵读书"
+        ],
+        "node_1": {
+            "ID": 766,
+            "nodeName": "金陵读书",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "知乎",
+            "de",
+            "传奇",
+            "印度",
+            "印度人",
+            "小工",
+            "纱丽",
+            "验货",
+            "酒店",
+            "jaipur"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金陵读书"
+        ],
+        "node_1": {
+            "ID": 766,
+            "nodeName": "金陵读书",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "知乎",
+            "de",
+            "传奇",
+            "印度",
+            "印度人",
+            "小工",
+            "纱丽",
+            "验货",
+            "酒店",
+            "jaipur"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "支付宝",
+            "马云",
+            "抵制",
+            "号召",
+            "印度",
+            "SJM",
+            "Paytm",
+            "马哈",
+            "快报",
+            "公司"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战机",
+            "降落",
+            "航母",
+            "金融界",
+            "频道",
+            "破裂",
+            "印度",
+            "29K",
+            "维修",
+            "米格"
+        ]
+    }
+}

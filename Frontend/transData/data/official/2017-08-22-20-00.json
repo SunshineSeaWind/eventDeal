@@ -1,0 +1,108 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-08-22 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "Doklam",
+            "谈话",
+            "印度",
+            "辛格",
+            "对抗",
+            "大国",
+            "中印",
+            "和平",
+            "中国"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "烽火军事"
+        ],
+        "node_1": {
+            "ID": 340,
+            "nodeName": "烽火军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "推销",
+            "米格",
+            "战斗机",
+            "诱人",
+            "开出",
+            "俄罗斯",
+            "塞尔维亚",
+            "舰载机",
+            "舒加",
+            "29K"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "空中手游"
+        ],
+        "node_1": {
+            "ID": 982,
+            "nodeName": "空中手游",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "实战经验",
+            "位居",
+            "超越",
+            "第三"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "空中手游"
+        ],
+        "node_1": {
+            "ID": 982,
+            "nodeName": "空中手游",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "实战经验",
+            "位居",
+            "超越",
+            "第三"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "烽火军事"
+        ],
+        "node_1": {
+            "ID": 340,
+            "nodeName": "烽火军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "推销",
+            "米格",
+            "战斗机",
+            "诱人",
+            "开出",
+            "俄罗斯",
+            "塞尔维亚",
+            "舰载机",
+            "舒加",
+            "29K"
+        ]
+    }
+}

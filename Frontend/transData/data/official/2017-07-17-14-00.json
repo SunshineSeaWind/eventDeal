@@ -1,0 +1,143 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-17 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "坠谷",
+            "克什米尔地区",
+            "客车",
+            "事故"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "航空圈"
+        ],
+        "node_1": {
+            "ID": 404,
+            "nodeName": "航空圈",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Angelababy",
+            "励志",
+            "机长",
+            "波音",
+            "女神",
+            "年轻",
+            "维亚",
+            "航空",
+            "印度",
+            "飞行员"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "真实",
+            "社邀",
+            "研习",
+            "偏见",
+            "讲座",
+            "告别",
+            "印度",
+            "国际",
+            "在线",
+            "林民旺"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "航空圈"
+        ],
+        "node_1": {
+            "ID": 404,
+            "nodeName": "航空圈",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Angelababy",
+            "励志",
+            "机长",
+            "波音",
+            "女神",
+            "年轻",
+            "维亚",
+            "航空",
+            "印度",
+            "飞行员"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国际在线"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "真实",
+            "社邀",
+            "研习",
+            "偏见",
+            "讲座",
+            "告别",
+            "印度",
+            "国际",
+            "林民旺",
+            "中国"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "光明网",
+            "军方",
+            "谴责",
+            "军车",
+            "邻邦",
+            "扫描",
+            "称赞",
+            "巴基斯坦",
+            "交火",
+            "克什米尔地区"
+        ]
+    }
+}

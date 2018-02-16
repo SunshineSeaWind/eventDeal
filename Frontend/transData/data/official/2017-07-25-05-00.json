@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-07-25 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报海外版"
+        ],
+        "node_1": {
+            "ID": 80,
+            "nodeName": "人民日报海外版",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "山易",
+            "霸气",
+            "解放军",
+            "回应",
+            "印度",
+            "印军",
+            "我军",
+            "尼赫鲁",
+            "边界问题",
+            "兵力"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "法制晚报"
+        ],
+        "node_1": {
+            "ID": 544,
+            "nodeName": "法制晚报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "霸气",
+            "大校",
+            "解放军",
+            "来头",
+            "这名",
+            "国防部",
+            "发言人",
+            "吴谦",
+            "新闻",
+            "杨宇军"
+        ]
+    }
+}

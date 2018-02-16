@@ -1,0 +1,139 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-04 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度尼西亚",
+            "中国",
+            "电讯"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度尼西亚",
+            "放宽政策",
+            "5.01",
+            "GDP",
+            "通货膨胀率",
+            "中央银行",
+            "马格",
+            "多沃"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "历史开讲了"
+        ],
+        "node_1": {
+            "ID": 721,
+            "nodeName": "历史开讲了",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "一己",
+            "干掉",
+            "横扫",
+            "之力"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巡回赛",
+            "印度尼西亚",
+            "亚洲",
+            "大师",
+            "一名",
+            "大师赛",
+            "比赛"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "中国日报BBS",
+            "中国新闻网",
+            "中国新闻网",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "中国",
+            "越界",
+            "非法",
+            "边防部队",
+            "边界",
+            "军队",
+            "想赖",
+            "天真",
+            "国土"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "历史开讲了"
+        ],
+        "node_1": {
+            "ID": 721,
+            "nodeName": "历史开讲了",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "一己",
+            "干掉",
+            "横扫",
+            "之力"
+        ]
+    }
+}

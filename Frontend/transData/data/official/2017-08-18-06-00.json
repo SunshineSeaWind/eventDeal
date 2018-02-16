@@ -1,0 +1,59 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-18 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "探索轶事"
+        ],
+        "node_1": {
+            "ID": 950,
+            "nodeName": "探索轶事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "性工作者",
+            "脱衣服",
+            "行走",
+            "不停",
+            "卖淫",
+            "女性",
+            "妓女",
+            "拐卖",
+            "英镑"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "PingWest品玩"
+        ],
+        "node_1": {
+            "ID": 308,
+            "nodeName": "PingWest品玩",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "数据安全",
+            "核查",
+            "三星"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "PingWest品玩"
+        ],
+        "node_1": {
+            "ID": 308,
+            "nodeName": "PingWest品玩",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "数据安全",
+            "核查",
+            "三星"
+        ]
+    }
+}

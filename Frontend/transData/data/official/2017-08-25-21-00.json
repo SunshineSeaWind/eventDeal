@@ -1,0 +1,233 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-25 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "南方都市报"
+        ],
+        "node_1": {
+            "ID": 1040,
+            "nodeName": "南方都市报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "根源",
+            "解读",
+            "帕特尔",
+            "氏族",
+            "古吉拉特邦",
+            "OBCS",
+            "种姓",
+            "五保户",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华网",
+            "凤凰体育"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1054,
+            "nodeName": "凤凰体育",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "孙瑜",
+            "两邦",
+            "丧生",
+            "一姐",
+            "完爆",
+            "进四强",
+            "世界冠军",
+            "亚纳邦",
+            "辛德"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国政府网",
+            "新华网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亚纳邦",
+            "哈里",
+            "旁遮普邦",
+            "死亡",
+            "受伤",
+            "丧生",
+            "印媒",
+            "铁道部",
+            "远比",
+            "事故"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "人民日报客户端",
+            "人民日报客户端",
+            "环球网",
+            "申请老男人",
+            "申请老男人",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 892,
+            "nodeName": "申请老男人",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 892,
+            "nodeName": "申请老男人",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "骚乱",
+            "特种部队",
+            "训练",
+            "多邦",
+            "已致",
+            "军人",
+            "各国",
+            "德里",
+            "审判"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民日报客户端",
+            "腾讯体育"
+        ],
+        "node_1": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 611,
+            "nodeName": "腾讯体育",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "天才",
+            "丹麦",
+            "多邦",
+            "已致",
+            "印度",
+            "中国羽毛球",
+            "强敌",
+            "黑马",
+            "烟台"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 7,
+        "AllNodeNameArray": [
+            "澎湃新闻",
+            "海外网",
+            "人民日报客户端",
+            " 来源：环球网",
+            "人民日报",
+            "人民日报客户端",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 776,
+            "nodeName": " 来源：环球网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "强奸罪",
+            "大师",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "印度",
+            "被判",
+            "旁遮普邦",
+            "报道"
+        ]
+    }
+}

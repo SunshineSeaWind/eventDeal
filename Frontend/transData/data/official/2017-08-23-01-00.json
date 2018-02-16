@@ -1,0 +1,116 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-08-23 01:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网法文"
+        ],
+        "node_1": {
+            "ID": 558,
+            "nodeName": "中国网法文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "节日",
+            "受伤",
+            "多人",
+            "中央邦",
+            "媒体报道",
+            "节日期间"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新京报"
+        ],
+        "node_1": {
+            "ID": 116,
+            "nodeName": "新京报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "死心塌地",
+            "盟友",
+            "印度",
+            "美国",
+            "莫迪",
+            "印美",
+            "防务",
+            "特朗普",
+            "中印",
+            "美印"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新京报"
+        ],
+        "node_1": {
+            "ID": 116,
+            "nodeName": "新京报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "死心塌地",
+            "盟友",
+            "印度",
+            "美国",
+            "莫迪",
+            "印美",
+            "防务",
+            "特朗普",
+            "中印",
+            "美印"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新京报"
+        ],
+        "node_1": {
+            "ID": 116,
+            "nodeName": "新京报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "死心塌地",
+            "盟友",
+            "印度",
+            "美国",
+            "莫迪",
+            "印美",
+            "防务",
+            "特朗普",
+            "中印",
+            "美印"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军购",
+            "军火商",
+            "设厂",
+            "港媒",
+            "如愿",
+            "印度",
+            "西方",
+            "印度政府",
+            "报道",
+            "工厂"
+        ]
+    }
+}

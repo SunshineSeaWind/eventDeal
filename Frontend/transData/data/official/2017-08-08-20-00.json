@@ -1,0 +1,47 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-08 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "警告",
+            "投降",
+            "军队",
+            "知识",
+            "定义",
+            "中国"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤侨",
+            "消息人士",
+            "网传",
+            "多系",
+            "谣言",
+            "ID",
+            "huanqiu",
+            "com",
+            "环环",
+            "中资企业"
+        ]
+    }
+}

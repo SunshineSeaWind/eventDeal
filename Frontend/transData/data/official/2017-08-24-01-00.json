@@ -1,0 +1,92 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-24 01:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网西班牙"
+        ],
+        "node_1": {
+            "ID": 569,
+            "nodeName": "中国网西班牙",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "辞职",
+            "部长",
+            "印度",
+            "北方邦"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新京报"
+        ],
+        "node_1": {
+            "ID": 116,
+            "nodeName": "新京报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "印度教",
+            "民族主义",
+            "上台",
+            "印度",
+            "印度人民党",
+            "服务团",
+            "大选",
+            "胜利",
+            "国大党"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新京报"
+        ],
+        "node_1": {
+            "ID": 116,
+            "nodeName": "新京报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "印度教",
+            "民族主义",
+            "上台",
+            "印度",
+            "印度人民党",
+            "服务团",
+            "大选",
+            "高涨",
+            "胜利"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印控",
+            "克什米尔",
+            "放火",
+            "冲撞",
+            "抗议",
+            "克什米尔地区",
+            "学生",
+            "印度",
+            "报道",
+            "阿南"
+        ]
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-07-28 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国军事网",
+            "中国军事网"
+        ],
+        "node_1": {
+            "ID": 610,
+            "nodeName": "中国军事网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 610,
+            "nodeName": "中国军事网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "版图",
+            "西藏",
+            "搞事",
+            "抹掉",
+            "主流",
+            "印度",
+            "洞朗",
+            "印方",
+            "中方",
+            "外交"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国国际问题研究院"
+        ],
+        "node_1": {
+            "ID": 576,
+            "nodeName": "中国国际问题研究院",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印关系",
+            "蓝建学"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国国际问题研究院"
+        ],
+        "node_1": {
+            "ID": 576,
+            "nodeName": "中国国际问题研究院",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印关系",
+            "蓝建学"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "臭弹",
+            "以色列",
+            "警方",
+            "驱散",
+            "测试",
+            "警察部队",
+            "气味",
+            "后备",
+            "该弹",
+            "臭鼬"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新浪体育"
+        ],
+        "node_1": {
+            "ID": 449,
+            "nodeName": "新浪体育",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "挑战",
+            "公里",
+            "极限",
+            "Samir",
+            "马拉松",
+            "跑步",
+            "训练",
+            "壮举",
+            "这项",
+            "孟买"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "India",
+            "PRC",
+            "Biggest",
+            "USA",
+            "Japan",
+            "Naval",
+            "Exercise",
+            "Target",
+            "China",
+            "Bhutan"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "进口关税",
+            "金价",
+            "印度",
+            "日程",
+            "此举",
+            "下调",
+            "黄金",
+            "进口税",
+            "走私",
+            "降低"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国网日文",
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 590,
+            "nodeName": "中国网日文",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "列车",
+            "赞誉",
+            "跳舞",
+            "心脏",
+            "现代化",
+            "游客",
+            "高铁",
+            "中国",
+            "乘客",
+            "大厅"
+        ]
+    }
+}

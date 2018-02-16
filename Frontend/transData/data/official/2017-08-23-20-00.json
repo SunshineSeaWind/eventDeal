@@ -1,0 +1,168 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-23 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "铁道部长",
+            "引咎辞职",
+            "列车",
+            "和平解决",
+            "尼泊尔",
+            "访问",
+            "频发",
+            "印度",
+            "莫迪",
+            "总理"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "铁道部长",
+            "列车",
+            "引咎辞职",
+            "频发",
+            "事故",
+            "脱轨",
+            "普拉"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "小宝说装备",
+            "血色年华",
+            "血色年华",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 1012,
+            "nodeName": "小宝说装备",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 850,
+            "nodeName": "血色年华",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 850,
+            "nodeName": "血色年华",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军购",
+            "交付",
+            "印度",
+            "战机",
+            "年前",
+            "MQ",
+            "9B",
+            "银行",
+            "瘫痪",
+            "罢工"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "小宝说装备"
+        ],
+        "node_1": {
+            "ID": 1012,
+            "nodeName": "小宝说装备",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "MQ",
+            "9B",
+            "务必",
+            "小心",
+            "无人机",
+            "印度",
+            "一体",
+            "死神",
+            "模块",
+            "亿美元"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "铁道部长",
+            "列车",
+            "引咎辞职",
+            "频发",
+            "脱轨",
+            "事故",
+            "印度",
+            "普拉"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "森林狼",
+            "森林狼"
+        ],
+        "node_1": {
+            "ID": 749,
+            "nodeName": "森林狼",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 749,
+            "nodeName": "森林狼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "高原",
+            "两件",
+            "精锐",
+            "个个",
+            "不多",
+            "武器",
+            "直升机",
+            "印度",
+            "LCH",
+            "北极星"
+        ]
+    }
+}

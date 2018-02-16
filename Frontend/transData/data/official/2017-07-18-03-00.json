@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-18 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "贱民",
+            "第二位",
+            "诞生",
+            "胜出",
+            "总统",
+            "印度",
+            "选举",
+            "议会",
+            "各邦"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "贱民",
+            "胜出",
+            "第二位",
+            "诞生",
+            "总统",
+            "选举",
+            "印度",
+            "议会",
+            "各邦"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "贱民",
+            "第二位",
+            "诞生",
+            "胜出",
+            "总统",
+            "印度",
+            "选举",
+            "议会",
+            "各邦"
+        ]
+    }
+}

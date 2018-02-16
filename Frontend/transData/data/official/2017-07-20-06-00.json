@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-20 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视财经"
+        ],
+        "node_1": {
+            "ID": 447,
+            "nodeName": "央视财经",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抵制",
+            "印度",
+            "真相",
+            "残酷",
+            "中国",
+            "文章",
+            "智能手机",
+            "行业",
+            "电信",
+            "印中"
+        ]
+    }
+}

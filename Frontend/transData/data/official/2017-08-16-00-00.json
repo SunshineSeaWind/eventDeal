@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-16 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强大",
+            "印度",
+            "日莫迪",
+            "避谈",
+            "自信",
+            "克什米尔",
+            "莫迪",
+            "独立",
+            "讲话",
+            "纪念日"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "差点成史记"
+        ],
+        "node_1": {
+            "ID": 919,
+            "nodeName": "差点成史记",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度人",
+            "日本",
+            "恨之入骨",
+            "追捧",
+            "帕尔",
+            "法官",
+            "审判",
+            "印度",
+            "无罪",
+            "靖国神社"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "差点成史记"
+        ],
+        "node_1": {
+            "ID": 919,
+            "nodeName": "差点成史记",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度人",
+            "日本",
+            "恨之入骨",
+            "追捧",
+            "帕尔",
+            "法官",
+            "审判",
+            "印度",
+            "无罪",
+            "靖国神社"
+        ]
+    }
+}

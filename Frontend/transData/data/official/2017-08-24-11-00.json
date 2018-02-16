@@ -1,0 +1,248 @@
+{
+    "LinkedArraySize": 9,
+    "Date": "2017-08-24 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "特朗普",
+            "CEO",
+            "印度",
+            "滚回",
+            "美籍",
+            "拉万",
+            "双硫仑",
+            "新闻网",
+            "洛茨",
+            "力榜"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "特朗普",
+            "CEO",
+            "印度",
+            "滚回",
+            "美籍",
+            "拉万",
+            "洛茨",
+            "维尔",
+            "种族主义者",
+            "种族"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "作者：孙若男 来源：中国日报网"
+        ],
+        "node_1": {
+            "ID": 789,
+            "nodeName": "作者：孙若男 来源：中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "特朗普",
+            "CEO",
+            "印度",
+            "滚回",
+            "美籍",
+            "支持者",
+            "拉万",
+            "洛茨",
+            "维尔",
+            "种族主义者"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "特朗普",
+            "CEO",
+            "印度",
+            "滚回",
+            "美籍",
+            "拉万",
+            "洛茨",
+            "维尔",
+            "种族主义者",
+            "种族"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央广网"
+        ],
+        "node_1": {
+            "ID": 36,
+            "nodeName": "央广网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "麦当劳",
+            "特许",
+            "决裂",
+            "CPRL",
+            "印度",
+            "门店",
+            "中信",
+            "巴克",
+            "合作伙伴",
+            "公司"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军火",
+            "直升机",
+            "海军",
+            "亿美元",
+            "大单",
+            "印度",
+            "竞标",
+            "公司",
+            "反潜",
+            "搜救"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "华网俄语",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "列车",
+            "铁道部长",
+            "重大事故",
+            "辞职",
+            "部长",
+            "普拉",
+            "事故",
+            "北方邦",
+            "受伤",
+            "莫迪"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "金融界",
+            "张琪军事",
+            "张琪军事",
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "陆上",
+            "战场",
+            "海上",
+            "会否",
+            "开辟",
+            "印方",
+            "印度",
+            "中国",
+            "中方",
+            "例行"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "兵器解析",
+            "兵器解析",
+            "兵器解析"
+        ],
+        "node_1": {
+            "ID": 1031,
+            "nodeName": "兵器解析",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1031,
+            "nodeName": "兵器解析",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1031,
+            "nodeName": "兵器解析",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "五代",
+            "丰满",
+            "说不出",
+            "全新",
+            "理想",
+            "印度",
+            "隐身",
+            "战机",
+            "俄印",
+            "航展"
+        ]
+    }
+}

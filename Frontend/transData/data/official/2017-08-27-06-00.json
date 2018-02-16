@@ -1,0 +1,182 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-27 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "股市说事儿"
+        ],
+        "node_1": {
+            "ID": 1076,
+            "nodeName": "股市说事儿",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "暴乱",
+            "开战",
+            "演习",
+            "印度洋",
+            "大师",
+            "海军",
+            "噩梦"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "股市说事儿"
+        ],
+        "node_1": {
+            "ID": 1076,
+            "nodeName": "股市说事儿",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "暴乱",
+            "开战",
+            "演习",
+            "印度洋",
+            "大师",
+            "海军",
+            "噩梦"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "央视新闻客户端",
+            "武器先生",
+            "武器先生"
+        ],
+        "node_1": {
+            "ID": 101,
+            "nodeName": "央视新闻客户端",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "直升机",
+            "爆炸",
+            "俄罗斯",
+            "强奸罪",
+            "骚乱",
+            "被判",
+            "死亡",
+            "已致",
+            "坠毁"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "组图",
+            "骚乱",
+            "局势",
+            "紧张",
+            "在线",
+            "亚纳邦",
+            "ICP",
+            "哈里",
+            "国际"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "战略实事",
+            "战略实事"
+        ],
+        "node_1": {
+            "ID": 324,
+            "nodeName": "战略实事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 324,
+            "nodeName": "战略实事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "终向",
+            "闷棍",
+            "服软",
+            "求饶",
+            "小弟",
+            "新加坡",
+            "李显龙",
+            "印度",
+            "中国",
+            "国家"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "历史潮",
+            "历史潮"
+        ],
+        "node_1": {
+            "ID": 1083,
+            "nodeName": "历史潮",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1083,
+            "nodeName": "历史潮",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "寡妇",
+            "印度",
+            "悲惨",
+            "地方",
+            "吉奥",
+            "赛义夫",
+            "维伦达文",
+            "维伦达",
+            "文镇",
+            "达斯"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰体育"
+        ],
+        "node_1": {
+            "ID": 1054,
+            "nodeName": "凤凰体育",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "女单",
+            "陈雨菲",
+            "决赛",
+            "完败",
+            "世锦赛",
+            "辛德",
+            "杀球",
+            "奥原",
+            "局末"
+        ]
+    }
+}

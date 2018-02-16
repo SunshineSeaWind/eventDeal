@@ -1,0 +1,167 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-14 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "新华社",
+            "中国青年网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 220,
+            "nodeName": "中国青年网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "执迷不悟",
+            "国际",
+            "家属",
+            "自杀",
+            "警察",
+            "经济援助",
+            "马拉维",
+            "反恐",
+            "菲律宾"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "北国防务"
+        ],
+        "node_1": {
+            "ID": 357,
+            "nodeName": "北国防务",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "多架",
+            "军机",
+            "飞机",
+            "俄罗斯",
+            "直升机",
+            "架苏",
+            "苏霍伊",
+            "中国",
+            "赫耶夫"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "北国防务"
+        ],
+        "node_1": {
+            "ID": 357,
+            "nodeName": "北国防务",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "多架",
+            "军机",
+            "飞机",
+            "俄罗斯",
+            "直升机",
+            "架苏",
+            "苏霍伊",
+            "中国",
+            "赫耶夫"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "用户群",
+            "Facebook",
+            "受众",
+            "印度",
+            "超过",
+            "用户",
+            "活跃",
+            "美国",
+            "平台",
+            "六个月"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "军中三剑客",
+            "军中三剑客"
+        ],
+        "node_1": {
+            "ID": 148,
+            "nodeName": "军中三剑客",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 148,
+            "nodeName": "军中三剑客",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "滋事",
+            "反复强调",
+            "撤军",
+            "印阿三",
+            "大国",
+            "阿三",
+            "北方",
+            "格局",
+            "战略",
+            "阴影"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "第一军情",
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "官媒",
+            "喊话",
+            "耗尽",
+            "提及",
+            "耐心",
+            "印度",
+            "印方",
+            "越界",
+            "执迷不悟"
+        ]
+    }
+}

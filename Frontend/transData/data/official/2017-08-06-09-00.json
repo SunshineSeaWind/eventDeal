@@ -1,0 +1,91 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-06 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "奈杜",
+            "候选人",
+            "执政",
+            "联盟",
+            "总统",
+            "联邦院",
+            "当选",
+            "任期",
+            "印度",
+            "莫迪"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报客户端"
+        ],
+        "node_1": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "莫迪未",
+            "发声",
+            "人民日报",
+            "莫迪",
+            "安倍",
+            "客运站",
+            "分工",
+            "对话"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "西部网"
+        ],
+        "node_1": {
+            "ID": 743,
+            "nodeName": "西部网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "洞朗",
+            "发声",
+            "人民日报",
+            "对话",
+            "冲突"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴基斯坦政府",
+            "官网",
+            "黑客",
+            "国歌",
+            "印度",
+            "安倍",
+            "客运站",
+            "页面",
+            "留言"
+        ]
+    }
+}

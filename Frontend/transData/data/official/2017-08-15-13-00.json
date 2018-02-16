@@ -1,0 +1,95 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-15 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抵制",
+            "印度",
+            "不利于",
+            "中国",
+            "呼吁",
+            "商品",
+            "产品",
+            "民族主义",
+            "BJP",
+            "亿美元"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "北方邦",
+            "医疗事故",
+            "欠债",
+            "缺氧",
+            "死亡",
+            "液态氧",
+            "这起",
+            "医院",
+            "辛格"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "讲话",
+            "怀着",
+            "打造",
+            "带领",
+            "决心",
+            "印度",
+            "愿景",
+            "齐鲁"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "小康",
+            "邻国",
+            "外交",
+            "失败",
+            "中国",
+            "哪般",
+            "施压",
+            "开战",
+            "转而"
+        ]
+    }
+}

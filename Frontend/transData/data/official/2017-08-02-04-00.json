@@ -1,0 +1,22 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-02 04:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网－人民日报"
+        ],
+        "node_1": {
+            "ID": 74,
+            "nodeName": "人民网－人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "古吉拉特邦",
+            "洪灾",
+            "人数",
+            "伯纳斯"
+        ]
+    }
+}

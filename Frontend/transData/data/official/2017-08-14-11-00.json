@@ -1,0 +1,421 @@
+{
+    "LinkedArraySize": 15,
+    "Date": "2017-08-14 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "东方网"
+        ],
+        "node_1": {
+            "ID": 439,
+            "nodeName": "东方网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "愿景",
+            "印度",
+            "总理",
+            "拒绝执行",
+            "西孟加拉邦",
+            "德卡尔",
+            "独立",
+            "雅瓦",
+            "人力资源部"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "海外网",
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "印度",
+            "总理",
+            "愿景",
+            "缺氧",
+            "耻辱",
+            "屠杀",
+            "拒绝执行",
+            "报道",
+            "网站"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "东方网"
+        ],
+        "node_1": {
+            "ID": 439,
+            "nodeName": "东方网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "愿景",
+            "印度",
+            "总理",
+            "拒绝执行",
+            "西孟加拉邦",
+            "德卡尔",
+            "独立",
+            "雅瓦",
+            "人力资源部"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "东方网"
+        ],
+        "node_1": {
+            "ID": 439,
+            "nodeName": "东方网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "愿景",
+            "印度",
+            "总理",
+            "拒绝执行",
+            "西孟加拉邦",
+            "德卡尔",
+            "独立",
+            "雅瓦",
+            "人力资源部"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "愿景",
+            "印度",
+            "总理",
+            "拒绝执行",
+            "西孟加拉邦",
+            "德卡尔",
+            "独立",
+            "雅瓦",
+            "人力资源部"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "武器先生",
+            "海外网",
+            "武器先生",
+            "武器先生",
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "APR",
+            "3ME",
+            "反潜",
+            "鱼雷",
+            "空射",
+            "导弹",
+            "印度",
+            "军事",
+            "机芯",
+            "MAKS"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 新华网 "
+        ],
+        "node_1": {
+            "ID": 751,
+            "nodeName": " 新华网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "包机",
+            "印度尼西亚",
+            "银川",
+            "抵达",
+            "宁夏",
+            "旅游",
+            "东南亚",
+            "旅行社",
+            "旅游委",
+            "余名"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "出鞘军事",
+            "出鞘军事"
+        ],
+        "node_1": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "装甲旅",
+            "演习",
+            "精锐"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国小康",
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "污水",
+            "蓝色",
+            "惊现",
+            "外媒",
+            "排入",
+            "小康",
+            "印度",
+            "地区",
+            "德媒",
+            "不明智"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "第一军情",
+            "第一军情",
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军力",
+            "狂妄",
+            "这组",
+            "数字",
+            "印军",
+            "印度",
+            "实力",
+            "印陆军",
+            "引进",
+            "印海军"
+        ]
+    },
+    "LinkedArray_11": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "朝日新闻",
+            "朝日新闻",
+            "朝日新闻"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 675,
+            "nodeName": "朝日新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 675,
+            "nodeName": "朝日新闻",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 675,
+            "nodeName": "朝日新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "尼泊尔",
+            "滑坡",
+            "山体",
+            "大雨",
+            "超级",
+            "暴雨",
+            "暴雨成灾",
+            "百余人",
+            "丧生",
+            "被困"
+        ]
+    },
+    "LinkedArray_12": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "打脸",
+            "打败",
+            "美媒",
+            "叫嚣",
+            "高官",
+            "做好",
+            "印度",
+            "坠毁",
+            "潜艇",
+            "战斗机"
+        ]
+    },
+    "LinkedArray_13": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "我们视频"
+        ],
+        "node_1": {
+            "ID": 102,
+            "nodeName": "我们视频",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "人死",
+            "大巴",
+            "深埋",
+            "载客",
+            "印度"
+        ]
+    },
+    "LinkedArray_14": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "WS15",
+            "J20",
+            "引擎",
+            "测试",
+            "意味着",
+            "manoj10",
+            "做得好",
+            "印度人"
+        ]
+    },
+    "LinkedArray_15": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "武器正能量",
+            "武器正能量"
+        ],
+        "node_1": {
+            "ID": 295,
+            "nodeName": "武器正能量",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 295,
+            "nodeName": "武器正能量",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "猜中",
+            "大神",
+            "决赛",
+            "第二名",
+            "两项",
+            "坦克",
+            "比赛",
+            "俄罗斯",
+            "参赛",
+            "中国"
+        ]
+    }
+}

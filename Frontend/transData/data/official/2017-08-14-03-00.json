@@ -1,0 +1,68 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-14 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "北京日报"
+        ],
+        "node_1": {
+            "ID": 273,
+            "nodeName": "北京日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴士",
+            "滑坡",
+            "多人",
+            "喜马偕尔邦",
+            "服务站",
+            "山体",
+            "号牌",
+            "无人机",
+            "公里"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "缺氧",
+            "死于",
+            "疾病",
+            "北方邦",
+            "Agityanat"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网俄文"
+        ],
+        "node_1": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "kisloroda",
+            "russian",
+            "china",
+            "org",
+            "cn",
+            "疾病",
+            "缺乏",
+            "印度",
+            "孩子"
+        ]
+    }
+}

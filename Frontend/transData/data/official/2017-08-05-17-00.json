@@ -1,0 +1,143 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-05 17:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "臭名昭着",
+            "人会"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "奖牌",
+            "垃圾",
+            "无脑",
+            "精神药物"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "对峙",
+            "美媒",
+            "靠得住",
+            "撤军",
+            "多月",
+            "边境",
+            "中国",
+            "安倍",
+            "洞朗"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国日报BBS",
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "边界",
+            "仇恨",
+            "manoj10",
+            "莫迪",
+            "SU30MKI",
+            "舰队",
+            "赶到",
+            "导弹",
+            "印度人"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "海外网",
+            "新锐大众移动端"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 740,
+            "nodeName": "新锐大众移动端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印",
+            "边境",
+            "打消",
+            "解放军",
+            "划算",
+            "省钱",
+            "厕所",
+            "发文",
+            "对峙",
+            "印度"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "说话",
+            "散布",
+            "印度",
+            "压力",
+            "Senie",
+            "帝国主义者",
+            "中国",
+            "菲利普",
+            "殖民主义者",
+            "攻击"
+        ]
+    }
+}

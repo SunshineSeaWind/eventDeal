@@ -1,0 +1,35 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-10 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新历史怪"
+        ],
+        "node_1": {
+            "ID": 796,
+            "nodeName": "新历史怪",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印之战",
+            "结局"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新历史怪"
+        ],
+        "node_1": {
+            "ID": 796,
+            "nodeName": "新历史怪",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印之战",
+            "结局"
+        ]
+    }
+}

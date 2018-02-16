@@ -1,0 +1,148 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-12 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网国际频道"
+        ],
+        "node_1": {
+            "ID": 281,
+            "nodeName": "人民网国际频道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "断供",
+            "欠费",
+            "死亡",
+            "氧气",
+            "医院",
+            "北方邦",
+            "事故",
+            "勒布",
+            "供应"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "不符",
+            "乘客",
+            "机场",
+            "受辱",
+            "东航",
+            "查哈尔",
+            "印度",
+            "报道",
+            "中国东方航空",
+            "抱怨"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网国际频道"
+        ],
+        "node_1": {
+            "ID": 281,
+            "nodeName": "人民网国际频道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "断供",
+            "欠费",
+            "死亡",
+            "氧气",
+            "医院",
+            "北方邦",
+            "事故",
+            "勒布",
+            "供应"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "供氧",
+            "中断",
+            "儿童",
+            "印度",
+            "氧气",
+            "报道",
+            "死亡",
+            "悲剧",
+            "医院",
+            "源于"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中断",
+            "因供",
+            "丧生",
+            "新生儿",
+            "液态氧",
+            "北方邦",
+            "儿童",
+            "死亡",
+            "光明网"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "白虎堂",
+            "白虎堂"
+        ],
+        "node_1": {
+            "ID": 296,
+            "nodeName": "白虎堂",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 296,
+            "nodeName": "白虎堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "五代",
+            "俄罗斯",
+            "造完",
+            "名字",
+            "印度",
+            "第五代",
+            "该机",
+            "隐形",
+            "技术",
+            "战斗机"
+        ]
+    }
+}

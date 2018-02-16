@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-07 02:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "说话",
+            "散布",
+            "印度",
+            "压力",
+            "叙利亚",
+            "飞行区",
+            "TAT",
+            "官方消息",
+            "民主党人",
+            "法西斯"
+        ]
+    }
+}

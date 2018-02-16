@@ -1,0 +1,260 @@
+{
+    "LinkedArraySize": 9,
+    "Date": "2017-07-24 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "新华社",
+            "火星方阵",
+            "火星方阵"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 521,
+            "nodeName": "火星方阵",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 521,
+            "nodeName": "火星方阵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "抱有幻想",
+            "警告",
+            "印媒",
+            "边界问题",
+            "H1N1",
+            "疫情",
+            "甲型",
+            "官方",
+            "已致"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "侠客岛",
+            "侠客岛",
+            "沙漠孤狼",
+            "沙漠孤狼"
+        ],
+        "node_1": {
+            "ID": 170,
+            "nodeName": "侠客岛",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 170,
+            "nodeName": "侠客岛",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 513,
+            "nodeName": "沙漠孤狼",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 513,
+            "nodeName": "沙漠孤狼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "山易",
+            "霸气",
+            "解放军",
+            "印度",
+            "军购",
+            "回应",
+            "责任编辑",
+            "痴人说梦",
+            "重型",
+            "清醒"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "两机动力控制",
+            "两机动力控制",
+            "两机动力控制"
+        ],
+        "node_1": {
+            "ID": 508,
+            "nodeName": "两机动力控制",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 508,
+            "nodeName": "两机动力控制",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 508,
+            "nodeName": "两机动力控制",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "热衷于",
+            "米格",
+            "战机",
+            "空军",
+            "印度",
+            "森科",
+            "飞机",
+            "架飞机",
+            "俄罗斯",
+            "塔拉"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "侠客岛"
+        ],
+        "node_1": {
+            "ID": 170,
+            "nodeName": "侠客岛",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "山易",
+            "霸气",
+            "解放军",
+            "回应"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "侠客岛"
+        ],
+        "node_1": {
+            "ID": 170,
+            "nodeName": "侠客岛",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "山易",
+            "霸气",
+            "解放军",
+            "回应"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "來源：新華社"
+        ],
+        "node_1": {
+            "ID": 12,
+            "nodeName": "來源：新華社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "H1N1",
+            "疫情",
+            "甲型",
+            "已致",
+            "死亡",
+            "流感病毒",
+            "施特拉",
+            "傳播",
+            "流感",
+            "哈拉"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "沙漠孤狼",
+            "沙漠孤狼",
+            "中国网"
+        ],
+        "node_1": {
+            "ID": 513,
+            "nodeName": "沙漠孤狼",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 513,
+            "nodeName": "沙漠孤狼",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 176,
+            "nodeName": "中国网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "笑话",
+            "民众",
+            "真的",
+            "很大",
+            "眼睛",
+            "中国",
+            "劣质",
+            "零件",
+            "国防"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "澎湃新闻网",
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印方",
+            "对华",
+            "光伏",
+            "全局",
+            "反倾销",
+            "着眼",
+            "组件",
+            "电池",
+            "印度",
+            "贸易"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "凯雷",
+            "财务顾问",
+            "海通",
+            "SBI26%",
+            "洽购",
+            "扮演",
+            "日期",
+            "服务",
+            "购买",
+            "印度"
+        ]
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-24 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "铁血讲武堂"
+        ],
+        "node_1": {
+            "ID": 300,
+            "nodeName": "铁血讲武堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中国军方",
+            "印度",
+            "今天上午",
+            "强硬",
+            "高层",
+            "表态",
+            "洞朗",
+            "老铁",
+            "西孟加拉邦",
+            "对峙"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "铁血讲武堂"
+        ],
+        "node_1": {
+            "ID": 300,
+            "nodeName": "铁血讲武堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中国军方",
+            "印度",
+            "今天上午",
+            "强硬",
+            "高层",
+            "表态",
+            "洞朗",
+            "老铁",
+            "西孟加拉邦",
+            "对峙"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "H1N1",
+            "甲型",
+            "已致",
+            "暴发",
+            "死亡",
+            "流感病毒",
+            "流感",
+            "马哈拉施特拉邦",
+            "疫情",
+            "印度"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "疫情",
+            "甲型",
+            "H1N1",
+            "已致",
+            "死亡",
+            "流感病毒",
+            "马哈拉施特拉邦",
+            "流感",
+            "传播",
+            "病例"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "疫情",
+            "甲型",
+            "H1N1",
+            "已致",
+            "死亡",
+            "流感病毒",
+            "马哈拉施特拉邦",
+            "流感",
+            "传播",
+            "病例"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "疫情",
+            "甲型",
+            "H1N1",
+            "已致",
+            "死亡",
+            "流感病毒",
+            "董德成",
+            "马哈拉施特拉邦",
+            "流感",
+            "传播"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "航空知识官方账号",
+            "航空知识官方账号"
+        ],
+        "node_1": {
+            "ID": 286,
+            "nodeName": "航空知识官方账号",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 286,
+            "nodeName": "航空知识官方账号",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中国国防部",
+            "盆盆罐罐",
+            "印度",
+            "心存侥幸"
+        ]
+    }
+}

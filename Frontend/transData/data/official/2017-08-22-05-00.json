@@ -1,0 +1,73 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-22 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "天极网"
+        ],
+        "node_1": {
+            "ID": 997,
+            "nodeName": "天极网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "酷派",
+            "双摄",
+            "Cool",
+            "Play",
+            "6GB",
+            "新旗舰",
+            "MP",
+            "GB",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武器先生"
+        ],
+        "node_1": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "90S",
+            "主战",
+            "陆军",
+            "升级",
+            "坦克",
+            "海拔",
+            "印度",
+            "军演",
+            "导弹",
+            "毫米"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "武器先生"
+        ],
+        "node_1": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "90S",
+            "主战",
+            "陆军",
+            "升级",
+            "坦克",
+            "海拔",
+            "印度",
+            "军演",
+            "导弹",
+            "毫米"
+        ]
+    }
+}

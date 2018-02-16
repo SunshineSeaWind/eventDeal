@@ -1,0 +1,188 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-26 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "科温德",
+            "宣誓就职",
+            "新德里",
+            "大厦",
+            "总统",
+            "印度",
+            "总理",
+            "议员",
+            "有权",
+            "索尼娅"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网西班牙"
+        ],
+        "node_1": {
+            "ID": 569,
+            "nodeName": "中国网西班牙",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "de",
+            "en",
+            "centro",
+            "Indonesia",
+            "Naufragio",
+            "deja",
+            "muertos",
+            "heridos",
+            "gravedad",
+            "la"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "被困",
+            "倒塌",
+            "孟买",
+            "一栋",
+            "楼房",
+            "关心",
+            "外媒",
+            "已致",
+            "四层",
+            "目击者"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "停火协议",
+            "印方",
+            "巴基斯坦",
+            "外交官",
+            "谴责",
+            "印度",
+            "控制线",
+            "克什米尔地区",
+            "违反",
+            "驻巴"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "参考消息",
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印媒称",
+            "隧道",
+            "缩短",
+            "拟建",
+            "调遣",
+            "达旺",
+            "塞拉",
+            "公路",
+            "BRO",
+            "印度"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "睹图"
+        ],
+        "node_1": {
+            "ID": 519,
+            "nodeName": "睹图",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "流浪狗",
+            "志愿者",
+            "长疮",
+            "痊愈",
+            "救治",
+            "Helen",
+            "兽医",
+            "救助",
+            "动物",
+            "打吊针"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "最可爱的人",
+            "最可爱的人"
+        ],
+        "node_1": {
+            "ID": 579,
+            "nodeName": "最可爱的人",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 579,
+            "nodeName": "最可爱的人",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "二手货",
+            "屡立",
+            "维克",
+            "兰特",
+            "航母",
+            "战功",
+            "印度",
+            "改造"
+        ]
+    }
+}

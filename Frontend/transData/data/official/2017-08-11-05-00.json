@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-11 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亮剑",
+            "集结",
+            "边民",
+            "重兵",
+            "鼓吹",
+            "撤离",
+            "印度",
+            "战争",
+            "中国",
+            "印军"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亮剑",
+            "集结",
+            "边民",
+            "重兵",
+            "鼓吹",
+            "撤离",
+            "印度",
+            "战争",
+            "中国",
+            "印军"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亮剑",
+            "集结",
+            "边民",
+            "重兵",
+            "鼓吹",
+            "撤离",
+            "印度",
+            "战争",
+            "中国",
+            "印军"
+        ]
+    }
+}

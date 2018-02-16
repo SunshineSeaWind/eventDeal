@@ -1,0 +1,184 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-21 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国新闻网",
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "比哈尔邦",
+            "洪灾",
+            "已致",
+            "受伤",
+            "事故",
+            "紧急",
+            "另有",
+            "死亡",
+            "印度",
+            "灾害"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "比哈尔邦",
+            "洪灾",
+            "已致",
+            "印度",
+            "灾害",
+            "灾民",
+            "该邦",
+            "人死于",
+            "西坚",
+            "cnr"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "比哈尔邦",
+            "洪灾",
+            "已致",
+            "印度",
+            "灾害",
+            "灾民",
+            "艾哈迈",
+            "该邦",
+            "人死于",
+            "西坚"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "比哈尔邦",
+            "洪灾",
+            "已致",
+            "印度",
+            "灾害",
+            "灾民",
+            "艾哈迈",
+            "该邦",
+            "人死于",
+            "西坚"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "华网俄语",
+            "中国网俄文",
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "边防部队",
+            "中国",
+            "印度",
+            "强烈不满",
+            "边界",
+            "激烈",
+            "边防军",
+            "艰难",
+            "华春宁",
+            "西部"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "空中手游",
+            "空中手游"
+        ],
+        "node_1": {
+            "ID": 982,
+            "nodeName": "空中手游",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 982,
+            "nodeName": "空中手游",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "国人",
+            "解放军",
+            "恐怖",
+            "眼中"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度尼西亚",
+            "对话",
+            "机制",
+            "高层",
+            "前景",
+            "维兰",
+            "中国",
+            "五月份",
+            "合作",
+            "环球时报"
+        ]
+    }
+}

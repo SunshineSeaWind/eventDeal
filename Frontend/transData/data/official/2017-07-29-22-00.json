@@ -1,0 +1,115 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-07-29 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "灰烬",
+            "火山",
+            "Sinabung",
+            "喷出",
+            "印度尼西亚"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "老邹谈事"
+        ],
+        "node_1": {
+            "ID": 500,
+            "nodeName": "老邹谈事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "诟病",
+            "万国",
+            "民众",
+            "武器",
+            "很穷",
+            "哪来",
+            "印度",
+            "购买",
+            "某国",
+            "民生"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "社会砖家"
+        ],
+        "node_1": {
+            "ID": 614,
+            "nodeName": "社会砖家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "别逗",
+            "助力",
+            "战机",
+            "白送",
+            "垃圾",
+            "印度",
+            "美洲虎",
+            "升级",
+            "法国",
+            "阵风"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "社会砖家"
+        ],
+        "node_1": {
+            "ID": 614,
+            "nodeName": "社会砖家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "别逗",
+            "助力",
+            "战机",
+            "白送",
+            "垃圾",
+            "印度",
+            "美洲虎",
+            "升级",
+            "法国",
+            "阵风"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "老邹谈事"
+        ],
+        "node_1": {
+            "ID": 500,
+            "nodeName": "老邹谈事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "诟病",
+            "万国",
+            "民众",
+            "武器",
+            "很穷",
+            "哪来",
+            "印度",
+            "购买",
+            "某国",
+            "民生"
+        ]
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-24 15:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国企管理"
+        ],
+        "node_1": {
+            "ID": 1024,
+            "nodeName": "国企管理",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "易派",
+            "聚焦",
+            "石化",
+            "印度",
+            "金砖",
+            "企业",
+            "国家"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 7,
+        "AllNodeNameArray": [
+            "金融界",
+            "Global Times",
+            "经济日报",
+            "经济日报",
+            "环球网",
+            "经济日报",
+            "经济日报"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1029,
+            "nodeName": "经济日报",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 1029,
+            "nodeName": "经济日报",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 1029,
+            "nodeName": "经济日报",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 1029,
+            "nodeName": "经济日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印方",
+            "中印",
+            "中方",
+            "边界",
+            "回应",
+            "印度",
+            "西段",
+            "公路",
+            "马尔斯",
+            "无助于"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "IT之家"
+        ],
+        "node_1": {
+            "ID": 142,
+            "nodeName": "IT之家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "IBM",
+            "垃圾邮件",
+            "发送量",
+            "三倍",
+            "印度",
+            "附件"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国企管理"
+        ],
+        "node_1": {
+            "ID": 1024,
+            "nodeName": "国企管理",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "易派",
+            "聚焦",
+            "石化",
+            "印度",
+            "金砖",
+            "企业",
+            "国家"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "IT之家"
+        ],
+        "node_1": {
+            "ID": 142,
+            "nodeName": "IT之家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "IBM",
+            "垃圾邮件",
+            "发送量",
+            "三倍",
+            "印度",
+            "附件"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "IT之家"
+        ],
+        "node_1": {
+            "ID": 142,
+            "nodeName": "IT之家",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "IBM",
+            "垃圾邮件",
+            "发送量",
+            "三倍",
+            "印度",
+            "附件"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "健身房",
+            "印度人",
+            "锻炼",
+            "热衷",
+            "太高",
+            "健身",
+            "Gympik",
+            "30%",
+            "11%",
+            "汇集"
+        ]
+    }
+}

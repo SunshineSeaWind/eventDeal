@@ -1,0 +1,204 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-27 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "恶性",
+            "背后",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "印度",
+            "印人党",
+            "宣判",
+            "班杰"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "七邦之窗",
+            "军武堂",
+            "军武堂"
+        ],
+        "node_1": {
+            "ID": 771,
+            "nodeName": "七邦之窗",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1088,
+            "nodeName": "军武堂",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1088,
+            "nodeName": "军武堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "M1A2",
+            "勒克莱尔",
+            "坦克",
+            "三种",
+            "眼中",
+            "先进",
+            "遭殃",
+            "对峙"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "七邦之窗"
+        ],
+        "node_1": {
+            "ID": 771,
+            "nodeName": "七邦之窗",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "遭殃",
+            "对峙",
+            "沉默"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印人党",
+            "辛格",
+            "骚乱",
+            "包庇",
+            "纵容",
+            "亚纳邦",
+            "哈里",
+            "印度",
+            "宣判",
+            "班杰"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "博闻观志"
+        ],
+        "node_1": {
+            "ID": 1087,
+            "nodeName": "博闻观志",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航母",
+            "同款",
+            "库兹涅佐夫",
+            "锅炉",
+            "俄罗斯",
+            "没想到",
+            "造船厂",
+            "俄方",
+            "维克拉玛",
+            "蒂亚"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "博闻观志"
+        ],
+        "node_1": {
+            "ID": 1087,
+            "nodeName": "博闻观志",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航母",
+            "同款",
+            "库兹涅佐夫",
+            "锅炉",
+            "俄罗斯",
+            "没想到",
+            "造船厂",
+            "俄方",
+            "维克拉玛",
+            "蒂亚"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "沉默的鹦鹉",
+            "沉默的鹦鹉"
+        ],
+        "node_1": {
+            "ID": 1056,
+            "nodeName": "沉默的鹦鹉",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1056,
+            "nodeName": "沉默的鹦鹉",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巡航导弹",
+            "核潜艇",
+            "口径",
+            "发射",
+            "差点",
+            "俄罗斯",
+            "该款",
+            "制导",
+            "导弹",
+            "公里"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "广大军事",
+            "广大军事"
+        ],
+        "node_1": {
+            "ID": 188,
+            "nodeName": "广大军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 188,
+            "nodeName": "广大军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "武装人员",
+            "数百名",
+            "印军",
+            "仓惶",
+            "军警",
+            "再创",
+            "武装警察",
+            "印度",
+            "枪战",
+            "大楼"
+        ]
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-20 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国外网友看中国"
+        ],
+        "node_1": {
+            "ID": 957,
+            "nodeName": "国外网友看中国",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪去",
+            "印度",
+            "列车",
+            "injured",
+            "lives",
+            "Khatauli",
+            "said",
+            "Rs",
+            "Yogi",
+            "railway"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国外网友看中国"
+        ],
+        "node_1": {
+            "ID": 957,
+            "nodeName": "国外网友看中国",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪去",
+            "印度",
+            "列车",
+            "injured",
+            "lives",
+            "Khatauli",
+            "said",
+            "Rs",
+            "Yogi",
+            "railway"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "搜查",
+            "坠毁",
+            "受伤",
+            "星期天",
+            "乘客",
+            "印度",
+            "出轨",
+            "北方邦",
+            "事故现场",
+            "法新社"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "假肢",
+            "截肢",
+            "慈善机构",
+            "廉价",
+            "第二次",
+            "库马尔",
+            "肢体",
+            "斋浦尔脚",
+            "Mehta",
+            "事故"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "舆情分析师庞胡瑞"
+        ],
+        "node_1": {
+            "ID": 965,
+            "nodeName": "舆情分析师庞胡瑞",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "勾搭",
+            "刀子",
+            "俄罗斯",
+            "背后",
+            "普京",
+            "印度",
+            "军演",
+            "中国",
+            "俄印",
+            "因陀罗"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "舆情分析师庞胡瑞"
+        ],
+        "node_1": {
+            "ID": 965,
+            "nodeName": "舆情分析师庞胡瑞",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "勾搭",
+            "刀子",
+            "俄罗斯",
+            "背后",
+            "普京",
+            "印度",
+            "军演",
+            "中国",
+            "俄印",
+            "因陀罗"
+        ]
+    }
+}

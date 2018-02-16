@@ -1,0 +1,211 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-10 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "Global Times",
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "达赖喇嘛",
+            "最终",
+            "中国",
+            "星期三",
+            "对峙",
+            "战争",
+            "言论",
+            "Doklam",
+            "冲突"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            " 央视网 ",
+            "金融界",
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 792,
+            "nodeName": " 央视网 ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "印度",
+            "军方",
+            "一侧",
+            "腾空",
+            "搬离",
+            "退赛",
+            "半决赛",
+            "总分",
+            "村民"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "康斯坦丁"
+        ],
+        "node_1": {
+            "ID": 795,
+            "nodeName": "康斯坦丁",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "高铁",
+            "苹果",
+            "印度",
+            "iPhone",
+            "维度",
+            "市场",
+            "生活",
+            "投资",
+            "耐心",
+            "供应链"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "康斯坦丁"
+        ],
+        "node_1": {
+            "ID": 795,
+            "nodeName": "康斯坦丁",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "高铁",
+            "苹果",
+            "印度",
+            "iPhone",
+            "维度",
+            "市场",
+            "生活",
+            "投资",
+            "耐心",
+            "供应链"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "康斯坦丁"
+        ],
+        "node_1": {
+            "ID": 795,
+            "nodeName": "康斯坦丁",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "高铁",
+            "苹果",
+            "印度",
+            "iPhone",
+            "维度",
+            "市场",
+            "生活",
+            "投资",
+            "耐心",
+            "供应链"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "康斯坦丁"
+        ],
+        "node_1": {
+            "ID": 795,
+            "nodeName": "康斯坦丁",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "高铁",
+            "苹果",
+            "印度",
+            "iPhone",
+            "维度",
+            "市场",
+            "生活",
+            "投资",
+            "耐心",
+            "供应链"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "烽火狼烟",
+            "烽火狼烟"
+        ],
+        "node_1": {
+            "ID": 217,
+            "nodeName": "烽火狼烟",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 217,
+            "nodeName": "烽火狼烟",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亿买",
+            "送巴铁",
+            "白挖",
+            "大礼",
+            "墙角",
+            "直呼",
+            "巴基斯坦",
+            "潜艇",
+            "巴铁",
+            "战机"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "WS15",
+            "J20",
+            "引擎",
+            "测试",
+            "意味着",
+            "印度",
+            "manoj10",
+            "噪音"
+        ]
+    }
+}

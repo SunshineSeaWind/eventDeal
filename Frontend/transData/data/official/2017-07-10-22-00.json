@@ -1,0 +1,27 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-10 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "击中",
+            "人因",
+            "身亡",
+            "闪电",
+            "冬病",
+            "夏治三",
+            "伏贴",
+            "比哈尔邦",
+            "死亡"
+        ]
+    }
+}

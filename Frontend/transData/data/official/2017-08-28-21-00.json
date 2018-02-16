@@ -1,0 +1,223 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-28 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸案",
+            "宣判",
+            "大师",
+            "获刑",
+            "辛格",
+            "印度",
+            "亚纳邦",
+            "哈里",
+            "受害者",
+            "莫迪"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社",
+            "新华社",
+            "新华社",
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "时评",
+            "认清形势",
+            "新华",
+            "正确",
+            "印方",
+            "越界",
+            "洞朗",
+            "中方",
+            "主权"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "智谷趋势",
+            "智谷趋势"
+        ],
+        "node_1": {
+            "ID": 1097,
+            "nodeName": "智谷趋势",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1097,
+            "nodeName": "智谷趋势",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "刚刚",
+            "印度",
+            "国内"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "正确",
+            "认清形势",
+            "新华社",
+            "印方",
+            "洞朗",
+            "中方",
+            "越界",
+            "主权",
+            "领土"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "智谷趋势"
+        ],
+        "node_1": {
+            "ID": 1097,
+            "nodeName": "智谷趋势",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "刚刚",
+            "印度",
+            "国内"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "时评",
+            "认清形势",
+            "新华",
+            "正确",
+            "印方",
+            "越界",
+            "洞朗",
+            "中方",
+            "主权"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "报道",
+            "印度",
+            "探测",
+            "悄悄",
+            "中国",
+            "印度政府",
+            "公司",
+            "环球时报",
+            "企业",
+            "调查"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "石江月防务观察",
+            "石江月防务观察"
+        ],
+        "node_1": {
+            "ID": 458,
+            "nodeName": "石江月防务观察",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 458,
+            "nodeName": "石江月防务观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤兵",
+            "绝对优势",
+            "抵消",
+            "解放军",
+            "想着",
+            "印度",
+            "潜艇",
+            "海军",
+            "直升机",
+            "印度洋"
+        ]
+    }
+}

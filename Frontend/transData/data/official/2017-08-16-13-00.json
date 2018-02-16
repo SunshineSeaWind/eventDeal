@@ -1,0 +1,257 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-16 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洪灾",
+            "万人受",
+            "死亡",
+            "洪水",
+            "地区",
+            "救援",
+            "官员",
+            "影响",
+            "当局"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "VICE中国"
+        ],
+        "node_1": {
+            "ID": 183,
+            "nodeName": "VICE中国",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "根除",
+            "顽疾",
+            "放血"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "VICE中国"
+        ],
+        "node_1": {
+            "ID": 183,
+            "nodeName": "VICE中国",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "根除",
+            "顽疾",
+            "放血"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "VICE中国"
+        ],
+        "node_1": {
+            "ID": 183,
+            "nodeName": "VICE中国",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "根除",
+            "顽疾",
+            "放血"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "武器先生",
+            "武器先生",
+            "武器先生",
+            "新华网日语"
+        ],
+        "node_1": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 226,
+            "nodeName": "武器先生",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 716,
+            "nodeName": "新华网日语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "快中子",
+            "核燃料",
+            "反应堆",
+            "增殖",
+            "印度",
+            "燃料",
+            "裂变",
+            "快堆",
+            "重水",
+            "建造"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 8,
+        "AllNodeNameArray": [
+            "兵书点读",
+            "兵书点读",
+            "六子看军事",
+            "兵书点读",
+            "六子看军事",
+            "军机图",
+            "军机图",
+            "军机图"
+        ],
+        "node_1": {
+            "ID": 912,
+            "nodeName": "兵书点读",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 912,
+            "nodeName": "兵书点读",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 912,
+            "nodeName": "兵书点读",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 13,
+            "nodeName": "军机图",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战机",
+            "鹰击",
+            "潜艇",
+            "外科手术",
+            "半径",
+            "新锐",
+            "击沉",
+            "敌方",
+            "目标",
+            "巡航导弹"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "东方网",
+            "环球网",
+            "中国网繁体",
+            "东方网",
+            "东方网"
+        ],
+        "node_1": {
+            "ID": 439,
+            "nodeName": "东方网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 439,
+            "nodeName": "东方网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 439,
+            "nodeName": "东方网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "死要面子",
+            "输掉",
+            "大校",
+            "解放军",
+            "承担",
+            "不丹",
+            "印度",
+            "洞朗",
+            "周波",
+            "条约"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "华网俄语",
+            "中国网俄文"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度尼西亚",
+            "被捕",
+            "有五人",
+            "因涉嫌",
+            "总统府",
+            "JAD",
+            "恐怖组织",
+            "武装",
+            "雅加达",
+            "官邸"
+        ]
+    }
+}

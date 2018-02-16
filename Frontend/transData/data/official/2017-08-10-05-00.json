@@ -1,0 +1,73 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-10 05:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "manoj10",
+            "强奸",
+            "seneca",
+            "印度人",
+            "印度议会",
+            "父母",
+            "塞内加",
+            "作弊",
+            "地球"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "解放军报"
+        ],
+        "node_1": {
+            "ID": 186,
+            "nodeName": "解放军报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "心魔",
+            "摆脱",
+            "印度",
+            "报刊",
+            "中国",
+            "领土",
+            "修路",
+            "万公里",
+            "主权",
+            "西藏"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "ZOL中关村在线"
+        ],
+        "node_1": {
+            "ID": 354,
+            "nodeName": "ZOL中关村在线",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "iPhone",
+            "SE",
+            "首发",
+            "二代",
+            "热爱",
+            "抛弃",
+            "第二代",
+            "摄像头",
+            "印度"
+        ]
+    }
+}

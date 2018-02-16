@@ -1,0 +1,183 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-12 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "王陶陶",
+            "王陶陶"
+        ],
+        "node_1": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "挑衅",
+            "意外",
+            "印度",
+            "卡赛",
+            "德尔",
+            "安倍",
+            "德皇",
+            "外交",
+            "对手"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "工业生产",
+            "印度",
+            "跌至",
+            "低点",
+            "税制",
+            "统计局",
+            "指数",
+            "月份",
+            "库存",
+            "租房"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国政府网"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "机场",
+            "侮辱",
+            "否认",
+            "Chahal",
+            "印度",
+            "报道"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "印度",
+            "王陶陶",
+            "王陶陶"
+        ],
+        "node_1": {
+            "ID": 318,
+            "nodeName": "印度",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 536,
+            "nodeName": "王陶陶",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "挑衅",
+            "不可避免",
+            "对抗",
+            "大国",
+            "冲突",
+            "印度",
+            "中媒称",
+            "倒计时",
+            "中国",
+            "对峙"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "印度"
+        ],
+        "node_1": {
+            "ID": 318,
+            "nodeName": "印度",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中媒称",
+            "倒计时",
+            "冲突",
+            "印度",
+            "网民",
+            "India",
+            "洞朗",
+            "will",
+            "China",
+            "解放"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国政府网",
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 588,
+            "nodeName": "中国政府网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "机场",
+            "侮辱",
+            "否认",
+            "印度",
+            "Chahal",
+            "航空公司",
+            "中国东方航空公司",
+            "斯瓦拉"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "白俄罗斯",
+            "过境",
+            "移民",
+            "制止"
+        ]
+    }
+}

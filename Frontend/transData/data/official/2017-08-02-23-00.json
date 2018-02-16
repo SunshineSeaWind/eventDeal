@@ -1,0 +1,180 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-02 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "法晚观海解局"
+        ],
+        "node_1": {
+            "ID": 684,
+            "nodeName": "法晚观海解局",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "面斥",
+            "胆儿",
+            "来头"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "以色列",
+            "批准",
+            "印度",
+            "支持"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "法晚观海解局"
+        ],
+        "node_1": {
+            "ID": 684,
+            "nodeName": "法晚观海解局",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "面斥",
+            "胆儿",
+            "来头"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "以色列",
+            "批准",
+            "印度",
+            "支持",
+            "美国政府"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "法晚观海解局"
+        ],
+        "node_1": {
+            "ID": 684,
+            "nodeName": "法晚观海解局",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "面斥",
+            "胆儿",
+            "来头"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "法晚观海解局"
+        ],
+        "node_1": {
+            "ID": 684,
+            "nodeName": "法晚观海解局",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "面斥",
+            "胆儿",
+            "来头"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "五穆遗书",
+            "五穆遗书",
+            "五穆遗书",
+            "烽火百屠",
+            "烽火百屠"
+        ],
+        "node_1": {
+            "ID": 596,
+            "nodeName": "五穆遗书",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 596,
+            "nodeName": "五穆遗书",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 596,
+            "nodeName": "五穆遗书",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 695,
+            "nodeName": "烽火百屠",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 695,
+            "nodeName": "烽火百屠",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "拖家带口",
+            "庞大",
+            "万人",
+            "军队",
+            "一支",
+            "巴铁",
+            "蜜汁",
+            "刚出生",
+            "宣判",
+            "死刑"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "腹中",
+            "胎中胎",
+            "疑为",
+            "同胞",
+            "新生儿",
+            "男婴",
+            "检查",
+            "医生",
+            "头骨",
+            "报道"
+        ]
+    }
+}

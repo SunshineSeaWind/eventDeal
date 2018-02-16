@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-13 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "贸易战",
+            "动因",
+            "反倾销税",
+            "引发",
+            "中国",
+            "亿美元",
+            "投资",
+            "双边贸易",
+            "产品"
+        ]
+    }
+}

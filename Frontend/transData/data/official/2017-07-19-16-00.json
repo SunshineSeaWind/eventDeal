@@ -1,0 +1,174 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-19 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "灯光",
+            "NASA",
+            "还亮",
+            "夜间",
+            "地图",
+            "印度",
+            "电力",
+            "数据",
+            "发展",
+            "中国"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "灯光",
+            "NASA",
+            "还亮",
+            "夜间",
+            "地图",
+            "印度",
+            "图上",
+            "国土面积",
+            "强弱",
+            "这张"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "千里眼2017"
+        ],
+        "node_1": {
+            "ID": 321,
+            "nodeName": "千里眼2017",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "现状",
+            "差距",
+            "印度",
+            "日本",
+            "眼中",
+            "中国",
+            "印度人",
+            "生活",
+            "大楼",
+            "西安"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "千里眼2017"
+        ],
+        "node_1": {
+            "ID": 321,
+            "nodeName": "千里眼2017",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "现状",
+            "差距",
+            "印度",
+            "日本",
+            "眼中",
+            "中国",
+            "印度人",
+            "生活",
+            "大楼",
+            "西安"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "迷彩派",
+            "迷彩派",
+            "迷彩派"
+        ],
+        "node_1": {
+            "ID": 441,
+            "nodeName": "迷彩派",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 441,
+            "nodeName": "迷彩派",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 441,
+            "nodeName": "迷彩派",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中国空军",
+            "短板",
+            "弥补",
+            "高原",
+            "威胁",
+            "机场",
+            "空军",
+            "部队",
+            "加油机",
+            "数量"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "我们视频"
+        ],
+        "node_1": {
+            "ID": 102,
+            "nodeName": "我们视频",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "实拍",
+            "失足",
+            "深井",
+            "余米",
+            "小狮子",
+            "井底"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国青年网"
+        ],
+        "node_1": {
+            "ID": 220,
+            "nodeName": "中国青年网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "AK47",
+            "小兵",
+            "站哨",
+            "怒用",
+            "击毙",
+            "印度",
+            "克什米尔地区",
+            "少校",
+            "手机",
+            "士兵"
+        ]
+    }
+}

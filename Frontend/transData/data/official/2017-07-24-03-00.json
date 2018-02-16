@@ -1,0 +1,26 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-24 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "亿人",
+            "万为",
+            "未满",
+            "童婚",
+            "印度",
+            "父权制",
+            "现象",
+            "组织"
+        ]
+    }
+}

@@ -1,0 +1,343 @@
+{
+    "LinkedArraySize": 9,
+    "Date": "2017-08-28 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "分许",
+            "印方",
+            "中方"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中国外交部",
+            "撤军",
+            "确认"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "新华社",
+            "中新网英文",
+            "大众网",
+            "大众网",
+            "新华视点"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 1091,
+            "nodeName": "新华视点",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "中国外交部",
+            "中方",
+            "洞朗",
+            "外交部",
+            "撤离",
+            "撤军",
+            "确认",
+            "印方",
+            "分许"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "参考消息",
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中国外交部",
+            "撤军",
+            "确认",
+            "猎人",
+            "印度",
+            "阿拉姆",
+            "战机",
+            "图为",
+            "新德里",
+            "阅兵"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中国外交部",
+            "撤军",
+            "确认",
+            "印方",
+            "中方",
+            "分许"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 16,
+        "AllNodeNameArray": [
+            "新华网",
+            "新华社",
+            "新华社",
+            "新华社",
+            "新华社",
+            "中新网英文",
+            "大国之翼",
+            "大国之翼",
+            "金融界",
+            "金融界",
+            "齐鲁壹点",
+            "国际在线",
+            "作者：莫竞西 王平 王青云 来源：中国日报网",
+            "国际在线",
+            "中国小康",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 147,
+            "nodeName": "大国之翼",
+            "nodeInfo": {}
+        },
+        "node_9": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_10": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_11": {
+            "ID": 141,
+            "nodeName": "齐鲁壹点",
+            "nodeInfo": {}
+        },
+        "node_12": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "node_13": {
+            "ID": 1104,
+            "nodeName": "作者：莫竞西 王平 王青云 来源：中国日报网",
+            "nodeInfo": {}
+        },
+        "node_14": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "node_15": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_16": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "越界",
+            "撤回",
+            "印度",
+            "洞朗",
+            "领土",
+            "对峙",
+            "边界",
+            "边防",
+            "印方",
+            "主权"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国黄金网",
+            "中国黄金网",
+            "中国黄金网"
+        ],
+        "node_1": {
+            "ID": 1094,
+            "nodeName": "中国黄金网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1094,
+            "nodeName": "中国黄金网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1094,
+            "nodeName": "中国黄金网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "韩国",
+            "禁止",
+            "进口"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            " 央视网 ",
+            " 来源:人民网 "
+        ],
+        "node_1": {
+            "ID": 792,
+            "nodeName": " 央视网 ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 553,
+            "nodeName": " 来源:人民网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "紧急状态",
+            "局势",
+            "紧张",
+            "两邦",
+            "网服",
+            "何方",
+            "神圣",
+            "暂停",
+            "辛格"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "TechWeb",
+            "金融界",
+            "海外网",
+            "TechWeb"
+        ],
+        "node_1": {
+            "ID": 267,
+            "nodeName": "TechWeb",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 267,
+            "nodeName": "TechWeb",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "iPhone",
+            "苹果",
+            "终止",
+            "请求",
+            "迟迟",
+            "到位",
+            "优惠",
+            "印度",
+            "计划",
+            "组装"
+        ]
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-07 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "警告",
+            "投降",
+            "军队",
+            "中国",
+            "喜马拉雅",
+            "国家",
+            "印度",
+            "卫星",
+            "谎言",
+            "靴子"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航母",
+            "战机",
+            "甩锅",
+            "一碰",
+            "印军",
+            "印度",
+            "29K",
+            "维修",
+            "米格",
+            "海军"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 环球网 "
+        ],
+        "node_1": {
+            "ID": 255,
+            "nodeName": " 环球网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印媒",
+            "言辞",
+            "开战",
+            "愤怒",
+            "不想",
+            "印度",
+            "越界",
+            "非法",
+            "国家主权",
+            "老祖宗"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "金砖",
+            "四国",
+            "潜力",
+            "国家",
+            "贸易",
+            "Kondapalli",
+            "印度",
+            "基础设施",
+            "合作",
+            "投资"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "凤凰网浙江",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 520,
+            "nodeName": "凤凰网浙江",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印方",
+            "小康",
+            "中方",
+            "印媒",
+            "言辞",
+            "开战",
+            "愤怒",
+            "不想",
+            "印度",
+            "越界"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 环球网　 "
+        ],
+        "node_1": {
+            "ID": 764,
+            "nodeName": " 环球网　 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "乘客",
+            "威胁",
+            "遭拒",
+            "....",
+            "更改",
+            "航线",
+            "焦特",
+            "扬子晚报"
+        ]
+    }
+}

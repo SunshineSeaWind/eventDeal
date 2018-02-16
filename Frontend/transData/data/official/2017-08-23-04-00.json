@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-23 04:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报-环球网"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "违宪",
+            "塔拉",
+            "离婚",
+            "穆斯林",
+            "高院",
+            "三声",
+            "印度",
+            "判决",
+            "裁决",
+            "裁定"
+        ]
+    }
+}

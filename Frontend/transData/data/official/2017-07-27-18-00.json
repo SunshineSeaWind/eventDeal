@@ -1,0 +1,172 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-27 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "金融界",
+            "凤凰科技"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 58,
+            "nodeName": "凤凰科技",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电商",
+            "Snapdeal",
+            "创始人",
+            "合并",
+            "遇阻",
+            "两位",
+            "出价",
+            "两大",
+            "Flipkart",
+            "软银"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "四代重歼",
+            "四代重歼"
+        ],
+        "node_1": {
+            "ID": 469,
+            "nodeName": "四代重歼",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 469,
+            "nodeName": "四代重歼",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战机",
+            "轰炸机",
+            "印度",
+            "更新",
+            "核打击",
+            "空军基地",
+            "幻影",
+            "部署",
+            "战斗机",
+            "中队"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "反倾销",
+            "太阳能",
+            "印度",
+            "调查",
+            "启动",
+            "倾销",
+            "进口产品",
+            "高管",
+            "损害",
+            "制造商"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "叫车",
+            "外媒",
+            "Ola",
+            "腾讯",
+            "亿美元",
+            "投资",
+            "资金",
+            "TechWeb",
+            "Uber"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "凤凰科技",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 58,
+            "nodeName": "凤凰科技",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "智能机",
+            "出货量",
+            "小米",
+            "Q2",
+            "OV",
+            "二至",
+            "厂商",
+            "万部",
+            "vivo",
+            "印度"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "新华社",
+            "新华网",
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "肯德",
+            "北阿",
+            "老虎",
+            "保护区",
+            "印度",
+            "自然保护区",
+            "普查",
+            "虎仔",
+            "该邦",
+            "林业部门"
+        ]
+    }
+}

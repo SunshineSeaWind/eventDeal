@@ -1,0 +1,269 @@
+{
+    "LinkedArraySize": 9,
+    "Date": "2017-07-18 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "投票",
+            "选举",
+            "组图",
+            "印度",
+            "在线",
+            "ICP",
+            "议会",
+            "国际"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "人民日报",
+            "人民日报客户端",
+            "上游新闻",
+            "上游新闻",
+            "上游新闻"
+        ],
+        "node_1": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 227,
+            "nodeName": "上游新闻",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 227,
+            "nodeName": "上游新闻",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 227,
+            "nodeName": "上游新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火箭炮",
+            "假新闻",
+            "士兵",
+            "打死",
+            "Dunya",
+            "巴基斯坦",
+            "News",
+            "新闻",
+            "新闻网",
+            "网站"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报"
+        ],
+        "node_1": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火箭炮",
+            "假新闻",
+            "打死",
+            "士兵",
+            "Dunya",
+            "巴基斯坦",
+            "News",
+            "新闻",
+            "新闻网",
+            "网站"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "北京青年报",
+            "北京青年报",
+            "北京青年报"
+        ],
+        "node_1": {
+            "ID": 233,
+            "nodeName": "北京青年报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 233,
+            "nodeName": "北京青年报",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 233,
+            "nodeName": "北京青年报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "贱民",
+            "莫迪",
+            "印人党",
+            "诞生",
+            "第二位",
+            "同属",
+            "总统",
+            "考文德",
+            "选举",
+            "印度"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民日报客户端",
+            "人民日报客户端"
+        ],
+        "node_1": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 412,
+            "nodeName": "人民日报客户端",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火箭炮",
+            "假新闻",
+            "打死",
+            "士兵",
+            "Dunya",
+            "巴基斯坦",
+            "News",
+            "新闻",
+            "新闻网",
+            "网站"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火箭炮",
+            "士兵",
+            "打死",
+            "至少",
+            "图片",
+            "假新闻",
+            "Dunya"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "小飞猪观察",
+            "小哥笑谈武器装备",
+            "小哥笑谈武器装备"
+        ],
+        "node_1": {
+            "ID": 145,
+            "nodeName": "小飞猪观察",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 424,
+            "nodeName": "小哥笑谈武器装备",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 424,
+            "nodeName": "小哥笑谈武器装备",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "30MKI",
+            "战机",
+            "故障",
+            "事故",
+            "发动机",
+            "年内",
+            "先进",
+            "印度",
+            "空军",
+            "战斗机"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "震碎",
+            "三观",
+            "组图",
+            "奇事",
+            "海得拉巴",
+            "哮喘病"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "澎湃新闻网",
+            "澎湃新闻网",
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印美",
+            "印度洋",
+            "潜艇",
+            "日军",
+            "印媒称",
+            "出没",
+            "演习",
+            "印度",
+            "中国",
+            "反潜"
+        ]
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-07 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国财经"
+        ],
+        "node_1": {
+            "ID": 429,
+            "nodeName": "中国财经",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "降息",
+            "脆弱",
+            "印度",
+            "废钞令",
+            "央行",
+            "月份",
+            "改革",
+            "税改",
+            "莫迪",
+            "制造业"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华龙网"
+        ],
+        "node_1": {
+            "ID": 756,
+            "nodeName": "华龙网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "降息",
+            "脆弱",
+            "印度",
+            "废钞令",
+            "央行",
+            "月份",
+            "改革",
+            "税改",
+            "莫迪",
+            "制造业"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华龙网"
+        ],
+        "node_1": {
+            "ID": 756,
+            "nodeName": "华龙网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "降息",
+            "脆弱",
+            "印度",
+            "废钞令",
+            "央行",
+            "月份",
+            "改革",
+            "税改",
+            "莫迪",
+            "制造业"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "墨者善狩"
+        ],
+        "node_1": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "几款",
+            "央视",
+            "曝光",
+            "武器",
+            "印度",
+            "终于",
+            "中国",
+            "军工",
+            "胜利",
+            "装备"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "墨者善狩"
+        ],
+        "node_1": {
+            "ID": 125,
+            "nodeName": "墨者善狩",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "几款",
+            "央视",
+            "曝光",
+            "武器",
+            "印度",
+            "终于",
+            "中国",
+            "军工",
+            "胜利",
+            "装备"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "第一军情",
+            "第一军情",
+            "第一军情"
+        ],
+        "node_1": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 137,
+            "nodeName": "第一军情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "辩论",
+            "解决问题",
+            "对话",
+            "古老",
+            "扯淡",
+            "这话",
+            "印度",
+            "莫迪",
+            "以拖待变",
+            "军队"
+        ]
+    }
+}

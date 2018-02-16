@@ -1,0 +1,71 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-19 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "出鞘军事"
+        ],
+        "node_1": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "赖着",
+            "印度",
+            "支招",
+            "解放军"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "出鞘军事"
+        ],
+        "node_1": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "赖着",
+            "印度",
+            "支招",
+            "解放军"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "出鞘军事"
+        ],
+        "node_1": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "齐聚",
+            "新德里",
+            "关头"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "出鞘军事"
+        ],
+        "node_1": {
+            "ID": 351,
+            "nodeName": "出鞘军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "齐聚",
+            "新德里",
+            "关头"
+        ]
+    }
+}

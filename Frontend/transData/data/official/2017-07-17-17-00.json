@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-07-17 17:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国青年网"
+        ],
+        "node_1": {
+            "ID": 220,
+            "nodeName": "中国青年网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "投票",
+            "选举",
+            "印度",
+            "总统",
+            "各邦",
+            "考文德",
+            "议会",
+            "贱民",
+            "议员",
+            "阶层"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "投票",
+            "选举",
+            "印度",
+            "总统",
+            "各邦",
+            "考文德",
+            "议会",
+            "贱民",
+            "议员",
+            "阶层"
+        ]
+    }
+}

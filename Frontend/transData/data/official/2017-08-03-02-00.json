@@ -1,0 +1,62 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-03 02:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "降息",
+            "基点",
+            "印度",
+            "央行",
+            "6.00%",
+            "通胀",
+            "利率",
+            "支持",
+            "预计",
+            "数据"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "樟木",
+            "印度尼西亚",
+            "爆发",
+            "Sinabung"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "樟木",
+            "印度尼西亚",
+            "爆发",
+            "北苏门答腊"
+        ]
+    }
+}

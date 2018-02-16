@@ -1,0 +1,49 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-07-14 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "3.67",
+            "吉尼斯世界纪录",
+            "长牙",
+            "小伙",
+            "打破",
+            "牙齿",
+            "帕特尔",
+            "牙医"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "无家可归",
+            "洪水",
+            "东北部",
+            "万人",
+            "在线",
+            "阿萨姆",
+            "死亡",
+            "ICP",
+            "人数",
+            "滑坡"
+        ]
+    }
+}

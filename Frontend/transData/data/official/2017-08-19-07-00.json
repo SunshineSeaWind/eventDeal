@@ -1,0 +1,101 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-08-19 07:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中关村在线手机"
+        ],
+        "node_1": {
+            "ID": 838,
+            "nodeName": "中关村在线手机",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "iPhone",
+            "仅售",
+            "新款"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中关村在线手机"
+        ],
+        "node_1": {
+            "ID": 838,
+            "nodeName": "中关村在线手机",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "iPhone",
+            "仅售",
+            "新款"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "比哈尔邦",
+            "洪灾",
+            "受灾地区",
+            "救援",
+            "灾民",
+            "灾害"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "比哈尔邦",
+            "洪灾",
+            "受灾地区",
+            "救援",
+            "灾民",
+            "刷卡",
+            "灾害",
+            "特朗普",
+            "转移"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "大众网"
+        ],
+        "node_1": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "逆天",
+            "开挂",
+            "肩胛骨",
+            "模范",
+            "道德",
+            "督察组",
+            "提名奖",
+            "张润国",
+            "人获",
+            "环保"
+        ]
+    }
+}

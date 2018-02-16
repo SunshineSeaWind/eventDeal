@@ -1,0 +1,145 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-19 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "优己"
+        ],
+        "node_1": {
+            "ID": 953,
+            "nodeName": "优己",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "海军",
+            "印度洋",
+            "传承",
+            "这支",
+            "征服",
+            "郑和",
+            "锡兰",
+            "西洋",
+            "永乐",
+            "爪哇"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "钛媒体"
+        ],
+        "node_1": {
+            "ID": 303,
+            "nodeName": "钛媒体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外卖",
+            "养成",
+            "用户",
+            "习惯",
+            "寒冬",
+            "Swiggy",
+            "餐饮",
+            "配送",
+            "印度",
+            "平台"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "钛媒体"
+        ],
+        "node_1": {
+            "ID": 303,
+            "nodeName": "钛媒体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外卖",
+            "养成",
+            "用户",
+            "习惯",
+            "寒冬",
+            "Swiggy",
+            "餐饮",
+            "配送",
+            "印度",
+            "平台"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "日本政府",
+            "对峙",
+            "立场",
+            "使馆",
+            "否认",
+            "印度",
+            "平松",
+            "日本",
+            "中印",
+            "武力"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "优己"
+        ],
+        "node_1": {
+            "ID": 953,
+            "nodeName": "优己",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "海军",
+            "印度洋",
+            "传承",
+            "这支",
+            "征服",
+            "郑和",
+            "锡兰",
+            "西洋",
+            "永乐",
+            "爪哇"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "i黑马",
+            "i黑马"
+        ],
+        "node_1": {
+            "ID": 956,
+            "nodeName": "i黑马",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 956,
+            "nodeName": "i黑马",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "程序代码",
+            "微信",
+            "iPhone",
+            "致歉",
+            "抄袭",
+            "支付宝"
+        ]
+    }
+}

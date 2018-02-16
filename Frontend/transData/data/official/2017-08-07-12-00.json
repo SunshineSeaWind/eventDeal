@@ -1,0 +1,72 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-07 12:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "仇恨",
+            "manoj10",
+            "解放军",
+            "印度人",
+            "无能",
+            "腐败",
+            "智慧"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "甩锅",
+            "航母",
+            "战机",
+            "一碰",
+            "印军",
+            "印度",
+            "29K",
+            "维修",
+            "米格",
+            "俄罗斯"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航母",
+            "战机",
+            "俄罗斯",
+            "一碰",
+            "军方",
+            "29K",
+            "印度",
+            "维修",
+            "米格",
+            "海军"
+        ]
+    }
+}

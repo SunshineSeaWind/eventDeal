@@ -1,0 +1,114 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-07-06 12:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报"
+        ],
+        "node_1": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度国防部",
+            "次长",
+            "不丹",
+            "妄称",
+            "应从",
+            "对峙",
+            "领土"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "烽火狼烟"
+        ],
+        "node_1": {
+            "ID": 217,
+            "nodeName": "烽火狼烟",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航母",
+            "拆掉",
+            "摩托",
+            "何来",
+            "底气",
+            "对付",
+            "印度",
+            "建造",
+            "维克",
+            "兰特"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外媒",
+            "再谈",
+            "撤军",
+            "小康",
+            "血腥",
+            "印度",
+            "朋友圈",
+            "爱犬",
+            "洞朗",
+            "晒出"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "烽火狼烟"
+        ],
+        "node_1": {
+            "ID": 217,
+            "nodeName": "烽火狼烟",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航母",
+            "拆掉",
+            "摩托",
+            "何来",
+            "底气",
+            "对付",
+            "印度",
+            "建造",
+            "维克",
+            "兰特"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外媒",
+            "再谈",
+            "撤军",
+            "小康",
+            "血腥",
+            "朋友圈",
+            "爱犬"
+        ]
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-12 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "猫咪",
+            "跛脚"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视网"
+        ],
+        "node_1": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "因供",
+            "丧生",
+            "余名",
+            "中断",
+            "北方邦",
+            "在线",
+            "ICP",
+            "医院",
+            "印度",
+            "儿童"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中断",
+            "供氧",
+            "致死",
+            "窒息",
+            "液态氧",
+            "北方邦",
+            "儿童"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "供氧",
+            "中断",
+            "致死",
+            "窒息",
+            "液态氧",
+            "北方邦",
+            "儿童",
+            "死亡"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "央视新闻",
+            "大众网",
+            "东北新闻网",
+            "央视"
+        ],
+        "node_1": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 574,
+            "nodeName": "东北新闻网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 61,
+            "nodeName": "央视",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "儿童",
+            "丧生",
+            "氧气",
+            "否认",
+            "天内",
+            "医院",
+            "印度",
+            "北方邦",
+            "死亡",
+            "公立医院"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "商业周刊/中文版",
+            "商业周刊/中文版",
+            "人民网"
+        ],
+        "node_1": {
+            "ID": 624,
+            "nodeName": "商业周刊/中文版",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 624,
+            "nodeName": "商业周刊/中文版",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "邮轮",
+            "出行",
+            "新加坡",
+            "家庭",
+            "乘坐",
+            "旅客",
+            "机场",
+            "不符",
+            "乘客"
+        ]
+    }
+}

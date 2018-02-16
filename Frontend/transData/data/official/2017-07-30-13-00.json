@@ -1,0 +1,96 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-07-30 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "批发商",
+            "西红柿",
+            "警卫",
+            "价格上涨",
+            "印度",
+            "蔬果",
+            "卢比",
+            "飞涨",
+            "被窃",
+            "抢匪"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "不丹",
+            "越界",
+            "撰文",
+            "非法",
+            "两国",
+            "学者",
+            "旺查",
+            "桑杰",
+            "中国"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "China",
+            "preparing",
+            "wipe",
+            "out",
+            "India",
+            "entire",
+            "SU30MKI",
+            "fleet",
+            "near"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "阅兵",
+            "网友",
+            "印媒称",
+            "自作多情",
+            "中巴",
+            "印度",
+            "中国",
+            "军队",
+            "网民",
+            "巴铁"
+        ]
+    }
+}

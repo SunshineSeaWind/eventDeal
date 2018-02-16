@@ -1,0 +1,134 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-12 15:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 中新网 "
+        ],
+        "node_1": {
+            "ID": 256,
+            "nodeName": " 中新网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "古印度",
+            "核爆炸",
+            "毁灭",
+            "年前",
+            "共享",
+            "上下半场",
+            "保级"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报海外版"
+        ],
+        "node_1": {
+            "ID": 80,
+            "nodeName": "人民日报海外版",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "别太",
+            "党报",
+            "大错特错",
+            "撑腰",
+            "当回事",
+            "印度",
+            "美国",
+            "美印",
+            "姜景奎",
+            "航母"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美媒",
+            "战备",
+            "对峙",
+            "国会",
+            "本国",
+            "军队",
+            "印度",
+            "中国",
+            "CAG",
+            "传销"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "东方航空"
+        ],
+        "node_1": {
+            "ID": 848,
+            "nodeName": "东方航空",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度籍",
+            "不符",
+            "转机",
+            "浦东",
+            "东航",
+            "乘客",
+            "旅客",
+            "微博"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "供氧",
+            "中断",
+            "儿童",
+            "外媒",
+            "死亡",
+            "院方"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "禁播",
+            "男孩",
+            "电视剧",
+            "抗议",
+            "童婚",
+            "印度",
+            "连续剧",
+            "联署",
+            "肥皂剧",
+            "这部"
+        ]
+    }
+}

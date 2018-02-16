@@ -1,0 +1,68 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-06 10:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "精神药物",
+            "塞内加",
+            "ISBN"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "后发",
+            "工业化",
+            "印度",
+            "拼不过",
+            "工业革命",
+            "美国",
+            "管理",
+            "市场",
+            "国家",
+            "政府"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视财经"
+        ],
+        "node_1": {
+            "ID": 447,
+            "nodeName": "央视财经",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "后院起火",
+            "暴跌",
+            "印度",
+            "纸钞",
+            "越界",
+            "大额",
+            "经济",
+            "GDP",
+            "数据",
+            "第三产业"
+        ]
+    }
+}

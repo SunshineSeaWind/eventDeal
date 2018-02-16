@@ -1,0 +1,23 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-06 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "钳子",
+            "测试",
+            "胜利",
+            "斯里兰卡",
+            "印度"
+        ]
+    }
+}

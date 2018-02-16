@@ -1,0 +1,156 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-15 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "布朗",
+            "喀拉拉邦",
+            "赛季",
+            "联赛",
+            "出场"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "印度"
+        ],
+        "node_1": {
+            "ID": 318,
+            "nodeName": "印度",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印媒",
+            "现代化",
+            "印度",
+            "India",
+            "hours",
+            "ago",
+            "our",
+            "美国",
+            "US",
+            "should"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "海外网",
+            "国际先驱导报mp",
+            "国际先驱导报mp"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 665,
+            "nodeName": "国际先驱导报mp",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 665,
+            "nodeName": "国际先驱导报mp",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "打疼",
+            "宣称",
+            "外来",
+            "对抗",
+            "威胁",
+            "一项",
+            "最新",
+            "莫迪称",
+            "自然灾害"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪称",
+            "自然灾害",
+            "儿童",
+            "断氧致",
+            "莫迪",
+            "印度",
+            "北方邦",
+            "医院",
+            "死亡",
+            "总理"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "印度"
+        ],
+        "node_1": {
+            "ID": 318,
+            "nodeName": "印度",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印媒",
+            "现代化",
+            "印度",
+            "India",
+            "hours",
+            "ago",
+            "our",
+            "美国",
+            "US",
+            "should"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民网",
+            "人民网"
+        ],
+        "node_1": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "账单",
+            "电费",
+            "电力公司",
+            "受惊",
+            "天价",
+            "古哈",
+            "男子",
+            "投诉",
+            "邻居",
+            "收到"
+        ]
+    }
+}

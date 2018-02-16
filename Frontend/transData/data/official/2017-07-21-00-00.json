@@ -1,0 +1,148 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-21 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "贱民",
+            "总统",
+            "第二位",
+            "印度",
+            "考文德",
+            "选举",
+            "阶层",
+            "库马尔",
+            "纳特"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "纳特",
+            "拉姆",
+            "当选",
+            "印度",
+            "印度人民党",
+            "总统",
+            "担任",
+            "北方邦",
+            "民主联盟"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "国防时报排头兵",
+            "国防时报排头兵"
+        ],
+        "node_1": {
+            "ID": 462,
+            "nodeName": "国防时报排头兵",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 462,
+            "nodeName": "国防时报排头兵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外媒",
+            "西进",
+            "马六甲",
+            "解放军",
+            "防范",
+            "尼科巴",
+            "安达曼",
+            "群岛",
+            "印度",
+            "印军"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "纳特",
+            "拉姆",
+            "印度",
+            "印度人民党",
+            "总统",
+            "担任",
+            "北方邦",
+            "民主联盟",
+            "白纯"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国防时报排头兵"
+        ],
+        "node_1": {
+            "ID": 462,
+            "nodeName": "国防时报排头兵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外媒",
+            "西进",
+            "马六甲",
+            "解放军",
+            "防范",
+            "尼科巴",
+            "安达曼",
+            "群岛",
+            "印度",
+            "印军"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "国防时报排头兵"
+        ],
+        "node_1": {
+            "ID": 462,
+            "nodeName": "国防时报排头兵",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外媒",
+            "西进",
+            "马六甲",
+            "解放军",
+            "防范",
+            "尼科巴",
+            "安达曼",
+            "群岛",
+            "印度",
+            "印军"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-15 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "北京日报"
+        ],
+        "node_1": {
+            "ID": 273,
+            "nodeName": "北京日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洪灾",
+            "阿萨姆",
+            "已致",
+            "泰国",
+            "印度",
+            "死亡",
+            "农业用地",
+            "受灾",
+            "内政部",
+            "肆虐"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "害死",
+            "反转",
+            "断氧门",
+            "真凶",
+            "医院",
+            "儿童",
+            "医生",
+            "氧气瓶",
+            "氧气",
+            "英雄"
+        ]
+    }
+}

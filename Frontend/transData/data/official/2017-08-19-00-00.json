@@ -1,0 +1,120 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-08-19 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "界面新闻"
+        ],
+        "node_1": {
+            "ID": 475,
+            "nodeName": "界面新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "堕胎",
+            "强奸",
+            "女童遭",
+            "产女",
+            "印度",
+            "女婴",
+            "女童",
+            "一名",
+            "叔父",
+            "怀孕"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "界面新闻"
+        ],
+        "node_1": {
+            "ID": 475,
+            "nodeName": "界面新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "堕胎",
+            "强奸",
+            "女童遭",
+            "产女",
+            "印度",
+            "女婴",
+            "女童",
+            "一名",
+            "叔父",
+            "怀孕"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 中国日报 "
+        ],
+        "node_1": {
+            "ID": 161,
+            "nodeName": " 中国日报 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "办公楼",
+            "头盔",
+            "员工",
+            "双语",
+            "上班",
+            "office",
+            "building",
+            "办公",
+            "roof",
+            "their"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "外交部",
+            "印度",
+            "信口开河",
+            "说话",
+            "对峙",
+            "中印",
+            "平松",
+            "改变现状",
+            "印度政府"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "界面新闻"
+        ],
+        "node_1": {
+            "ID": 475,
+            "nodeName": "界面新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "堕胎",
+            "强奸",
+            "女童遭",
+            "产女",
+            "印度",
+            "女婴",
+            "女童",
+            "一名",
+            "叔父",
+            "怀孕"
+        ]
+    }
+}

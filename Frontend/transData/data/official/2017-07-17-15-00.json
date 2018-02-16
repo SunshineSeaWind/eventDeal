@@ -1,0 +1,136 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-17 15:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "看看新闻网"
+        ],
+        "node_1": {
+            "ID": 329,
+            "nodeName": "看看新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "曲棍球",
+            "因生",
+            "人用",
+            "毒打",
+            "婆家",
+            "嫁妆",
+            "男方",
+            "女方",
+            "女儿",
+            "丈夫"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球火力"
+        ],
+        "node_1": {
+            "ID": 406,
+            "nodeName": "环球火力",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "趁虚而入",
+            "泄漏",
+            "联手",
+            "欧盟",
+            "动作"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考军事"
+        ],
+        "node_1": {
+            "ID": 55,
+            "nodeName": "参考军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "战力",
+            "印媒",
+            "军及",
+            "陆海空三",
+            "核导弹",
+            "印度",
+            "海军",
+            "军事实力",
+            "力量",
+            "战斗机"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "文智教育",
+            "文智教育"
+        ],
+        "node_1": {
+            "ID": 407,
+            "nodeName": "文智教育",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 407,
+            "nodeName": "文智教育",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "直击",
+            "奇葩",
+            "大象",
+            "阿三",
+            "遇上",
+            "高速公路",
+            "印度"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国青年网"
+        ],
+        "node_1": {
+            "ID": 220,
+            "nodeName": "中国青年网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印军",
+            "开火",
+            "巴基斯坦",
+            "平民",
+            "冷血",
+            "控制线",
+            "印度",
+            "停火协议",
+            "克什米尔地区",
+            "巴印"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球火力"
+        ],
+        "node_1": {
+            "ID": 406,
+            "nodeName": "环球火力",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "趁虚而入",
+            "泄漏",
+            "联手",
+            "欧盟",
+            "动作"
+        ]
+    }
+}

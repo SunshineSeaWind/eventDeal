@@ -1,0 +1,165 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-20 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "人民网-人民日报海外版",
+            "海外探客",
+            "观察者网",
+            "海外探客"
+        ],
+        "node_1": {
+            "ID": 235,
+            "nodeName": "人民网-人民日报海外版",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 110,
+            "nodeName": "海外探客",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 34,
+            "nodeName": "观察者网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 110,
+            "nodeName": "海外探客",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大国",
+            "重礼",
+            "边界",
+            "送给",
+            "一份",
+            "澳大利亚",
+            "印度",
+            "美国",
+            "特朗普",
+            "国家"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "物资",
+            "西藏",
+            "万吨",
+            "媒体",
+            "演练",
+            "后勤",
+            "报道",
+            "印度",
+            "南华早报",
+            "战区"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "总领事",
+            "被歼",
+            "孟买",
+            "被俘",
+            "VARMA",
+            "印度",
+            "嘉宾",
+            "刘友法",
+            "中国"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "回击",
+            "印军",
+            "开火",
+            "军方",
+            "巴基斯坦",
+            "无故",
+            "停火协议",
+            "克什米尔地区",
+            "控制线",
+            "印度"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民网-人民日报",
+            "人民网-人民日报"
+        ],
+        "node_1": {
+            "ID": 190,
+            "nodeName": "人民网-人民日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 190,
+            "nodeName": "人民网-人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "停火协议",
+            "印方",
+            "巴基斯坦",
+            "外交官",
+            "抗议",
+            "巴方",
+            "控制线",
+            "违反"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "艾肯家电网"
+        ],
+        "node_1": {
+            "ID": 453,
+            "nodeName": "艾肯家电网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "奢侈品",
+            "家电",
+            "建厂",
+            "列入",
+            "印度",
+            "空调",
+            "新税法",
+            "产品",
+            "税率",
+            "万台"
+        ]
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-11 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "雨果网",
+            "雨果网"
+        ],
+        "node_1": {
+            "ID": 82,
+            "nodeName": "雨果网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 82,
+            "nodeName": "雨果网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "京度",
+            "京东",
+            "百度",
+            "罢工",
+            "开启",
+            "电商",
+            "wish",
+            "Flipkart",
+            "印度",
+            "雨果"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "天下军事"
+        ],
+        "node_1": {
+            "ID": 272,
+            "nodeName": "天下军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "故障",
+            "解放军",
+            "坦克",
+            "飞机"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "澎湃新闻",
+            "澎湃新闻",
+            "澎湃新闻"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "单周",
+            "印度卢比",
+            "局势",
+            "创下",
+            "跌幅",
+            "紧张",
+            "彭博社",
+            "卢比",
+            "印度"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻"
+        ],
+        "node_1": {
+            "ID": 79,
+            "nodeName": "澎湃新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "单周",
+            "印度卢比",
+            "局势",
+            "波及",
+            "跌幅",
+            "彭博社",
+            "卢比",
+            "印度",
+            "地区"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网中国3分钟"
+        ],
+        "node_1": {
+            "ID": 835,
+            "nodeName": "中国网中国3分钟",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "赌注",
+            "边境",
+            "入侵",
+            "错下",
+            "政治家",
+            "印度",
+            "领土",
+            "忍耐",
+            "限度",
+            "中印"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "天下军事"
+        ],
+        "node_1": {
+            "ID": 272,
+            "nodeName": "天下军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "故障",
+            "解放军",
+            "坦克",
+            "飞机"
+        ]
+    }
+}

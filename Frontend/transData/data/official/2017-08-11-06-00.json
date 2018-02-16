@@ -1,0 +1,89 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-11 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "大众网"
+        ],
+        "node_1": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "杀人成性",
+            "踩死",
+            "猛兽",
+            "进村",
+            "这头",
+            "大象",
+            "肯德",
+            "恰尔",
+            "辛格",
+            "射杀"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网法文"
+        ],
+        "node_1": {
+            "ID": 558,
+            "nodeName": "中国网法文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "几内亚比绍",
+            "签署",
+            "印度尼西亚",
+            "国防",
+            "协议",
+            "国防部长"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "微风阁"
+        ],
+        "node_1": {
+            "ID": 836,
+            "nodeName": "微风阁",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "换来",
+            "航母",
+            "声称",
+            "二十年",
+            "领先",
+            "毛子",
+            "印度",
+            "俄罗斯"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "微风阁"
+        ],
+        "node_1": {
+            "ID": 836,
+            "nodeName": "微风阁",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "换来",
+            "航母",
+            "声称",
+            "二十年",
+            "领先",
+            "毛子",
+            "印度",
+            "俄罗斯"
+        ]
+    }
+}

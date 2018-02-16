@@ -1,0 +1,158 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-29 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "出轨",
+            "孟买",
+            "列车",
+            "事故",
+            "一列",
+            "印度",
+            "火车"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "出轨",
+            "孟买",
+            "列车",
+            "事故",
+            "印度",
+            "一列",
+            "在线",
+            "火车",
+            "格浦尔",
+            "提特"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "节车厢",
+            "侧翻",
+            "车头",
+            "星期"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "凤凰国际智库"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 591,
+            "nodeName": "凤凰国际智库",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "小组",
+            "锡克教",
+            "西北部",
+            "大规模",
+            "派遣",
+            "帮忙",
+            "检测",
+            "印度",
+            "要报",
+            "凤凰"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "撤军",
+            "印度",
+            "时评",
+            "认清形势",
+            "新华",
+            "正确",
+            "印方",
+            "越界",
+            "洞朗",
+            "中方"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "节车厢",
+            "侧翻",
+            "车头"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "我爱英超"
+        ],
+        "node_1": {
+            "ID": 1130,
+            "nodeName": "我爱英超",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "超水平",
+            "金靴",
+            "中超",
+            "曼联",
+            "勇夺",
+            "贝巴",
+            "球迷",
+            "联赛",
+            "英超",
+            "印度"
+        ]
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-28 11:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "爆笑监狱"
+        ],
+        "node_1": {
+            "ID": 1096,
+            "nodeName": "爆笑监狱",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "炸油条",
+            "神油",
+            "印度",
+            "段子",
+            "内涵",
+            "闺蜜",
+            "卡主",
+            "私房钱",
+            "豆浆",
+            "骗子"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "爆笑监狱"
+        ],
+        "node_1": {
+            "ID": 1096,
+            "nodeName": "爆笑监狱",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "炸油条",
+            "神油",
+            "印度",
+            "段子",
+            "内涵",
+            "闺蜜",
+            "卡主",
+            "私房钱",
+            "豆浆",
+            "骗子"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "环球网",
+            "环球网",
+            "环球网",
+            "环球时报-环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "居住面积",
+            "牢房",
+            "平米",
+            "印媒",
+            "贫民",
+            "人均",
+            "平方英尺",
+            "平方米",
+            "印度",
+            "报道"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "尼泊尔",
+            "印度",
+            "尼媒称",
+            "防其",
+            "拉拢",
+            "告诫",
+            "德乌帕",
+            "加德满都",
+            "总理",
+            "邮报"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "凤凰网广东"
+        ],
+        "node_1": {
+            "ID": 479,
+            "nodeName": "凤凰网广东",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "武装人员",
+            "百名",
+            "军警",
+            "逃窜",
+            "仓皇",
+            "武装警察",
+            "印度",
+            "数百名",
+            "枪战",
+            "大楼"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "居住面积",
+            "牢房",
+            "印媒",
+            "贫民",
+            "平米",
+            "平方英尺",
+            "平方米",
+            "人均",
+            "印度",
+            "报道"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "金融界",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "浏览器",
+            "对峙",
+            "洞朗",
+            "小康",
+            "中方",
+            "竟中枪",
+            "大厂",
+            "发难",
+            "沉默",
+            "疯狂"
+        ]
+    }
+}

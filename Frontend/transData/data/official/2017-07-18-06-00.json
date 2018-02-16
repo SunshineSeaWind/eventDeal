@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-18 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "北京青年报"
+        ],
+        "node_1": {
+            "ID": 233,
+            "nodeName": "北京青年报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "贱民",
+            "央广网",
+            "胜出",
+            "第二位",
+            "诞生",
+            "选举",
+            "印度",
+            "总统",
+            "各邦"
+        ]
+    }
+}

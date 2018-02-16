@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-21 04:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "山西新闻网山西晚报"
+        ],
+        "node_1": {
+            "ID": 234,
+            "nodeName": "山西新闻网山西晚报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "新一任",
+            "考文德",
+            "纳特",
+            "拉姆",
+            "山西",
+            "新闻网",
+            "许可证",
+            "转载",
+            "印度",
+            "总统"
+        ]
+    }
+}

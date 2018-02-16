@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-06 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "入侵者",
+            "印媒",
+            "描绘成",
+            "周边国家",
+            "声称",
+            "尼泊尔",
+            "印度",
+            "洞朗",
+            "担心",
+            "此事"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民日报"
+        ],
+        "node_1": {
+            "ID": 191,
+            "nodeName": "人民日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外长",
+            "解决问题",
+            "耐心",
+            "局势",
+            "升级",
+            "做好",
+            "无人机",
+            "斯瓦拉",
+            "麻辣烫",
+            "美媒称"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "大众网"
+        ],
+        "node_1": {
+            "ID": 350,
+            "nodeName": "大众网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "外长",
+            "解决问题",
+            "耐心",
+            "局势",
+            "升级",
+            "做好",
+            "印度",
+            "斯瓦拉",
+            "印方",
+            "许可证"
+        ]
+    }
+}

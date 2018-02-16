@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-30 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "阅兵",
+            "印媒",
+            "声称",
+            "印度",
+            "中国",
+            "网友",
+            "军队",
+            "网民",
+            "巴铁",
+            "周年"
+        ]
+    }
+}

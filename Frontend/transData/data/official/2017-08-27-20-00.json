@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-27 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "借给",
+            "不太可能",
+            "同情",
+            "耳朵",
+            "印度",
+            "日本",
+            "支持",
+            "新德里",
+            "领土",
+            "安倍晋三"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "看看新闻网　"
+        ],
+        "node_1": {
+            "ID": 1085,
+            "nodeName": "看看新闻网　",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "男友",
+            "惨遭",
+            "抛弃",
+            "接生",
+            "女孩",
+            "未婚先孕",
+            "求助",
+            "一名",
+            "医院",
+            "陪护"
+        ]
+    }
+}

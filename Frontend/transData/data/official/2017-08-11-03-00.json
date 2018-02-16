@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-11 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电商",
+            "软银",
+            "Flipkart",
+            "亿美元",
+            "印度",
+            "日期",
+            "购买",
+            "服务",
+            "Snapdeal",
+            "亚马逊"
+        ]
+    }
+}

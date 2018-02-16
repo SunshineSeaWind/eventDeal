@@ -1,0 +1,178 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-17 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "投票",
+            "选举",
+            "印度",
+            "总统",
+            "各邦",
+            "考文德",
+            "议会",
+            "贱民",
+            "议员",
+            "在线"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息网"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "抵制",
+            "印度",
+            "真相",
+            "残酷",
+            "中国",
+            "文章",
+            "贸易",
+            "行业",
+            "电信",
+            "印中"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视"
+        ],
+        "node_1": {
+            "ID": 61,
+            "nodeName": "央视",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "考文德",
+            "印媒",
+            "几无",
+            "新一届",
+            "悬念",
+            "总统",
+            "印人党",
+            "印度",
+            "选举",
+            "议会"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印军",
+            "开火",
+            "巴基斯坦",
+            "平民",
+            "冷血",
+            "控制线",
+            "印度",
+            "停火协议",
+            "克什米尔地区",
+            "巴印"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "总统",
+            "贱民",
+            "阶层",
+            "第二位",
+            "诞生",
+            "印度",
+            "选举",
+            "各邦",
+            "考文德",
+            "议会"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "总统",
+            "贱民",
+            "第二位",
+            "投票",
+            "阶层",
+            "诞生",
+            "印度",
+            "选举",
+            "各邦",
+            "考文德"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "强国军事",
+            "强国军事",
+            "强国军事"
+        ],
+        "node_1": {
+            "ID": 179,
+            "nodeName": "强国军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 179,
+            "nodeName": "强国军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 179,
+            "nodeName": "强国军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "顶尖",
+            "两位",
+            "专家",
+            "印度人",
+            "眼中",
+            "披露",
+            "印度",
+            "导弹",
+            "中国",
+            "烈火"
+        ]
+    }
+}

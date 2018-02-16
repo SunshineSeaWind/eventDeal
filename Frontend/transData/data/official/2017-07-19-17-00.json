@@ -1,0 +1,196 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-19 17:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "天下军事"
+        ],
+        "node_1": {
+            "ID": 272,
+            "nodeName": "天下军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "狠招",
+            "最新消息",
+            "印度",
+            "恐怖",
+            "放出",
+            "撤退",
+            "四大",
+            "不丹",
+            "中国",
+            "锡金"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "天下军事"
+        ],
+        "node_1": {
+            "ID": 272,
+            "nodeName": "天下军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "狠招",
+            "最新消息",
+            "印度",
+            "恐怖",
+            "放出",
+            "撤退",
+            "四大",
+            "不丹",
+            "中国",
+            "锡金"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "局座召忠",
+            "局座召忠"
+        ],
+        "node_1": {
+            "ID": 292,
+            "nodeName": "局座召忠",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 292,
+            "nodeName": "局座召忠",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "紧急",
+            "采购",
+            "一场",
+            "军队",
+            "武器弹药",
+            "战役",
+            "印度",
+            "三哥",
+            "山地",
+            "边境"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "喵喵的兵器次元",
+            "喵喵的兵器次元"
+        ],
+        "node_1": {
+            "ID": 93,
+            "nodeName": "喵喵的兵器次元",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 93,
+            "nodeName": "喵喵的兵器次元",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "雇佣兵",
+            "教官",
+            "强悍",
+            "贬低",
+            "万名",
+            "廓尔喀",
+            "佣兵",
+            "印度",
+            "英国",
+            "山地"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国青年网"
+        ],
+        "node_1": {
+            "ID": 220,
+            "nodeName": "中国青年网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "AK47",
+            "小兵",
+            "站哨",
+            "怒用",
+            "击毙",
+            "印度",
+            "克什米尔地区",
+            "游泳",
+            "少校",
+            "手机"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "强国军事",
+            "强国军事"
+        ],
+        "node_1": {
+            "ID": 179,
+            "nodeName": "强国军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 179,
+            "nodeName": "强国军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军购",
+            "或隐",
+            "很傻",
+            "视频"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "战略观察员",
+            "战略观察员",
+            "小飞猪观察",
+            "小飞猪观察"
+        ],
+        "node_1": {
+            "ID": 442,
+            "nodeName": "战略观察员",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 442,
+            "nodeName": "战略观察员",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 145,
+            "nodeName": "小飞猪观察",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 145,
+            "nodeName": "小飞猪观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "提供者",
+            "退役",
+            "零件",
+            "战机",
+            "印度",
+            "刚花",
+            "这国",
+            "简单",
+            "美洲虎",
+            "阵风"
+        ]
+    }
+}

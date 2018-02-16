@@ -1,0 +1,160 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-22 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "炸毁",
+            "大坝",
+            "叫嚣",
+            "战略",
+            "印度",
+            "三峡大坝",
+            "攻击",
+            "核武器",
+            "三峡",
+            "坝型"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "外交部网站",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 42,
+            "nodeName": "外交部网站",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "特朗普",
+            "对峙",
+            "中方",
+            "南亚",
+            "战略",
+            "称洞朗",
+            "内政部长",
+            "回应",
+            "发展"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "炸毁",
+            "大坝",
+            "叫嚣",
+            "战略",
+            "印度",
+            "三峡大坝",
+            "攻击",
+            "核武器",
+            "三峡",
+            "坝型"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "张琪军事",
+            "张琪军事"
+        ],
+        "node_1": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "僵持不下",
+            "谋划",
+            "勾结",
+            "印度",
+            "8I",
+            "马六甲海峡",
+            "印度洋",
+            "军演",
+            "演习"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "铁血讲武堂",
+            "铁血讲武堂"
+        ],
+        "node_1": {
+            "ID": 300,
+            "nodeName": "铁血讲武堂",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 300,
+            "nodeName": "铁血讲武堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "认输",
+            "倒计时",
+            "走投无路",
+            "曝光",
+            "真相",
+            "印度",
+            "俄罗斯",
+            "卫星",
+            "老铁"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国证券网"
+        ],
+        "node_1": {
+            "ID": 1002,
+            "nodeName": "中国证券网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "冷轧",
+            "不锈钢",
+            "反倾销税",
+            "规避",
+            "裁定",
+            "宽度",
+            "征收",
+            "产品",
+            "可免于"
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-31 02:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视网"
+        ],
+        "node_1": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大吉",
+            "骚乱",
+            "多天",
+            "局势",
+            "廓尔喀",
+            "示威者",
+            "警察",
+            "建邦",
+            "独立"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视网"
+        ],
+        "node_1": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大吉",
+            "骚乱",
+            "多天",
+            "局势",
+            "廓尔喀",
+            "示威者",
+            "警察",
+            "建邦",
+            "独立"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视网"
+        ],
+        "node_1": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "大吉",
+            "骚乱",
+            "多天",
+            "局势",
+            "廓尔喀",
+            "示威者",
+            "警察",
+            "建邦",
+            "独立"
+        ]
+    }
+}

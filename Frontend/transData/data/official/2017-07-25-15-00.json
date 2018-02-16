@@ -1,0 +1,250 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-07-25 15:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中华网日语"
+        ],
+        "node_1": {
+            "ID": 501,
+            "nodeName": "中华网日语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "新型",
+            "死亡",
+            "感染",
+            "英字",
+            "新聞",
+            "報道",
+            "H1N1"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中新经纬",
+            "军备观察",
+            "军备观察"
+        ],
+        "node_1": {
+            "ID": 129,
+            "nodeName": "中新经纬",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 294,
+            "nodeName": "军备观察",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 294,
+            "nodeName": "军备观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "全民皆兵",
+            "战败",
+            "人心惶惶",
+            "中印",
+            "还原",
+            "首破",
+            "万点",
+            "印度",
+            "印军",
+            "解放军"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新经纬"
+        ],
+        "node_1": {
+            "ID": 129,
+            "nodeName": "中新经纬",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "首破",
+            "万点",
+            "Nifty",
+            "印度",
+            "股指",
+            "指数",
+            "经纬",
+            "上涨",
+            "印度政府"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "金融界",
+            "航天君",
+            "航天君"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 387,
+            "nodeName": "航天君",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 387,
+            "nodeName": "航天君",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴基斯坦",
+            "火炮",
+            "印度",
+            "打巴铁",
+            "军力",
+            "抵挡",
+            "星期",
+            "第四",
+            "全世界",
+            "中国"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Galaxy",
+            "J7",
+            "Nxt",
+            "1198.5",
+            "新机",
+            "约合",
+            "三星",
+            "售价",
+            "内置"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "人民网",
+            "环球",
+            "环球",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 549,
+            "nodeName": "环球",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 549,
+            "nodeName": "环球",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "王毅",
+            "正告",
+            "印方",
+            "中国",
+            "解放军",
+            "退出",
+            "对峙",
+            "光伏",
+            "反倾销"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "国际在线",
+            "国际在线",
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 23,
+            "nodeName": "国际在线",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "奸杀",
+            "煮食",
+            "妇女儿童",
+            "主仆",
+            "德拉",
+            "库利",
+            "遇害者",
+            "豪宅",
+            "尸骨",
+            "宁德"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国小康",
+            "中国小康",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "对峙",
+            "越界",
+            "王毅",
+            "印军",
+            "时间轴",
+            "最新消息",
+            "梳理",
+            "中印",
+            "边界",
+            "中方"
+        ]
+    }
+}

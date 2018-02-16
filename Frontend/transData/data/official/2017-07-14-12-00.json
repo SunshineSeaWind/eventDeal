@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-14 12:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "长安剑"
+        ],
+        "node_1": {
+            "ID": 366,
+            "nodeName": "长安剑",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "执迷不悟",
+            "新华社",
+            "时评",
+            "陷于",
+            "被动",
+            "司法",
+            "贫困生",
+            "新闻",
+            "派出所",
+            "安倍"
+        ]
+    }
+}

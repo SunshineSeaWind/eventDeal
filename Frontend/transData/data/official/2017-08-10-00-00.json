@@ -1,0 +1,95 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-10 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "第五代",
+            "隐形",
+            "战机",
+            "研发",
+            "抛弃",
+            "战斗机",
+            "YF",
+            "AMCA",
+            "图为",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "第五代",
+            "隐形",
+            "战机",
+            "研发",
+            "抛弃",
+            "战斗机",
+            "YF",
+            "AMCA",
+            "图为",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "第五代",
+            "隐形",
+            "战机",
+            "研发",
+            "抛弃",
+            "战斗机",
+            "YF",
+            "AMCA",
+            "图为",
+            "印度"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中国",
+            "小康",
+            "非法",
+            "一忍再忍",
+            "越界",
+            "最新消息",
+            "滞留",
+            "对峙"
+        ]
+    }
+}

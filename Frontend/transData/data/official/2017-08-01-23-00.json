@@ -1,0 +1,92 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-01 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "India",
+            "Should",
+            "Stand",
+            "Strong",
+            "Against",
+            "China"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "朝日新闻"
+        ],
+        "node_1": {
+            "ID": 675,
+            "nodeName": "朝日新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "逮捕",
+            "警方",
+            "诈骗",
+            "印度尼西亚",
+            "我会",
+            "犯罪",
+            "嫌疑人",
+            "雅加达",
+            "受害人"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事玲玲柒"
+        ],
+        "node_1": {
+            "ID": 646,
+            "nodeName": "军事玲玲柒",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "邻居",
+            "导弹",
+            "不愿",
+            "装备",
+            "购买",
+            "阿卡什",
+            "印度",
+            "SA",
+            "防空",
+            "本国"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "军事玲玲柒"
+        ],
+        "node_1": {
+            "ID": 646,
+            "nodeName": "军事玲玲柒",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "邻居",
+            "导弹",
+            "不愿",
+            "装备",
+            "购买",
+            "阿卡什",
+            "印度",
+            "SA",
+            "防空",
+            "本国"
+        ]
+    }
+}

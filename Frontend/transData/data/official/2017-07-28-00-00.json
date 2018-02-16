@@ -1,0 +1,97 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-07-28 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "水瓶视角"
+        ],
+        "node_1": {
+            "ID": 73,
+            "nodeName": "水瓶视角",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "巴基斯坦",
+            "武器装备",
+            "研发",
+            "自主",
+            "自足",
+            "万国",
+            "强于",
+            "弹药",
+            "依旧"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "水瓶视角"
+        ],
+        "node_1": {
+            "ID": 73,
+            "nodeName": "水瓶视角",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "巴基斯坦",
+            "武器装备",
+            "研发",
+            "自主",
+            "自足",
+            "万国",
+            "强于",
+            "弹药",
+            "依旧"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Ola",
+            "进行谈判",
+            "腾讯",
+            "亿美元",
+            "叫车",
+            "日期",
+            "购买",
+            "服务",
+            "Capital",
+            "投资"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报-环球网"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "China",
+            "护照",
+            "大学生",
+            "台湾",
+            "印度",
+            "入境",
+            "洞朗",
+            "许可证",
+            "核发",
+            "官员"
+        ]
+    }
+}

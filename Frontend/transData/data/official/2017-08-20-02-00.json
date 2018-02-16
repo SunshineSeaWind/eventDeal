@@ -1,0 +1,67 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-20 02:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "阿萨姆",
+            "死亡",
+            "洪灾",
+            "chelovek",
+            "卢比",
+            "自然灾害",
+            "灾难"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网法文"
+        ],
+        "node_1": {
+            "ID": 558,
+            "nodeName": "中国网法文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火车",
+            "遇害",
+            "二号",
+            "脱轨",
+            "北方邦",
+            "事故",
+            "Khatauli",
+            "Muzaffarnagar"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网繁体"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "脱轨",
+            "北方邦",
+            "列车",
+            "事故",
+            "印度",
+            "火车",
+            "受伤",
+            "铁道部长"
+        ]
+    }
+}

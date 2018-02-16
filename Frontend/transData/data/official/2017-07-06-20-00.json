@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-06 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "不丹",
+            "幌子",
+            "外交部",
+            "侵犯",
+            "打着",
+            "中方",
+            "印方",
+            "耿爽",
+            "洞朗",
+            "关切"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "法制网"
+        ],
+        "node_1": {
+            "ID": 223,
+            "nodeName": "法制网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "不丹",
+            "幌子",
+            "外交部",
+            "打着",
+            "正名",
+            "侵犯",
+            "印方",
+            "中方",
+            "耿爽",
+            "洞朗"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "不丹",
+            "幌子",
+            "外交部",
+            "侵犯",
+            "打着",
+            "中方",
+            "印方",
+            "耿爽",
+            "洞朗",
+            "关切"
+        ]
+    }
+}

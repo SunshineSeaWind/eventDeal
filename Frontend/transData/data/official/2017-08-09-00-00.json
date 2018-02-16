@@ -1,0 +1,65 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-08-09 00:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "华网俄语"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "受害者",
+            "事故",
+            "变为",
+            "politsii"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网俄文"
+        ],
+        "node_1": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "chelovek",
+            "russian",
+            "china",
+            "org",
+            "cn",
+            "受害者",
+            "事故"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "沿街",
+            "雕像",
+            "喇叭",
+            "抵制",
+            "广播",
+            "印度",
+            "SJM",
+            "中国",
+            "宣传册",
+            "报道"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-08 19:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "七邦之窗"
+        ],
+        "node_1": {
+            "ID": 771,
+            "nodeName": "七邦之窗",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "拖死",
+            "屈人",
+            "压境",
+            "不战",
+            "印度",
+            "中国",
+            "西方",
+            "黄油",
+            "等国",
+            "美日"
+        ]
+    }
+}

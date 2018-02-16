@@ -1,0 +1,132 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-07-29 13:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "管带"
+        ],
+        "node_1": {
+            "ID": 587,
+            "nodeName": "管带",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "陆军",
+            "部署",
+            "印度",
+            "装甲部队",
+            "孟加拉国",
+            "一带",
+            "尼泊尔",
+            "沿中印",
+            "侧翼"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "管带"
+        ],
+        "node_1": {
+            "ID": 587,
+            "nodeName": "管带",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "陆军",
+            "部署",
+            "印度",
+            "装甲部队",
+            "孟加拉国",
+            "一带",
+            "尼泊尔",
+            "沿中印",
+            "侧翼"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "复星",
+            "变数",
+            "药企增",
+            "二度",
+            "延期",
+            "Gland",
+            "腾讯"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "批发商",
+            "西红柿",
+            "警卫",
+            "印度",
+            "抢手货",
+            "价格上涨",
+            "蔬果",
+            "卢比",
+            "飞涨",
+            "被窃"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "SU30MKI",
+            "舰队",
+            "边界",
+            "赶到"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "风雨飘摇的感情",
+            "风雨飘摇的感情"
+        ],
+        "node_1": {
+            "ID": 63,
+            "nodeName": "风雨飘摇的感情",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 63,
+            "nodeName": "风雨飘摇的感情",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "人用",
+            "吃火锅",
+            "叉子",
+            "筷子"
+        ]
+    }
+}

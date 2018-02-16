@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-08-15 02:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新京报"
+        ],
+        "node_1": {
+            "ID": 116,
+            "nodeName": "新京报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "彻查",
+            "呼吁",
+            "民众",
+            "北方邦",
+            "儿童",
+            "医院",
+            "死亡",
+            "阿迪蒂",
+            "亚纳",
+            "勒克"
+        ]
+    }
+}

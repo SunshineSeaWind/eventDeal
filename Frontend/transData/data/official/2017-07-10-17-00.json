@@ -1,0 +1,73 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-10 17:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "数据中心",
+            "甲骨文",
+            "班加罗尔",
+            "首家",
+            "甲骨文公司",
+            "印度",
+            "中小型",
+            "服务",
+            "企业",
+            "云端"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "哨所",
+            "印军",
+            "开火",
+            "无故",
+            "巴军",
+            "组图",
+            "小康",
+            "巴基斯坦",
+            "军方"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印军",
+            "巴军",
+            "组图",
+            "哨所",
+            "开火",
+            "无故",
+            "小康",
+            "停火协议",
+            "巴基斯坦",
+            "舒淇"
+        ]
+    }
+}

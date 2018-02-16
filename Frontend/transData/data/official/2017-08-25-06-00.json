@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-25 06:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "山西新闻网山西日报"
+        ],
+        "node_1": {
+            "ID": 246,
+            "nodeName": "山西新闻网山西日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "肆虐",
+            "洪水",
+            "山西",
+            "新闻网",
+            "许可证",
+            "转载",
+            "日报",
+            "授权",
+            "互联网",
+            "法制报"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "    "
+        ],
+        "node_1": {
+            "ID": 7,
+            "nodeName": "    ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "中印",
+            "西段",
+            "边界",
+            "修路",
+            "外交部",
+            "印方",
+            "无助于",
+            "华春莹",
+            "印度",
+            "边境地区"
+        ]
+    }
+}

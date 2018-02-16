@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-17 21:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "全球",
+            "节奏",
+            "经济",
+            "日期",
+            "增速",
+            "购买",
+            "服务",
+            "美国",
+            "特朗普"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报-环球网"
+        ],
+        "node_1": {
+            "ID": 86,
+            "nodeName": "环球时报-环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "毒打",
+            "嫁妆",
+            "婆家",
+            "女子",
+            "女儿",
+            "亚普",
+            "男方",
+            "卡什",
+            "丈夫",
+            "女方"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "手机",
+            "51%",
+            "市场份额",
+            "占据",
+            "印度",
+            "日期",
+            "制造商",
+            "购买",
+            "服务",
+            "智能手机"
+        ]
+    }
+}

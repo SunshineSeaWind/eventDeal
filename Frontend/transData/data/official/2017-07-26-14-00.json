@@ -1,0 +1,206 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-07-26 14:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "获救",
+            "电线杆",
+            "洪水"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            ""
+        ],
+        "node_1": {
+            "ID": 27,
+            "nodeName": "",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "误判",
+            "对峙",
+            "边界",
+            "印方",
+            "印度",
+            "锡金",
+            "和平",
+            "中方",
+            "事件",
+            "越界"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "H1N1",
+            "流感病毒",
+            "万余",
+            "甲型"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "    "
+        ],
+        "node_1": {
+            "ID": 7,
+            "nodeName": "    ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "H1N1",
+            "流感病毒",
+            "甲型",
+            "数百人",
+            "万余",
+            "印度",
+            "阿图尔",
+            "感染",
+            "流感",
+            "马哈拉施特拉邦"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "央视网",
+            "央视新闻客户端",
+            "央视网",
+            "央视网",
+            "央视网 "
+        ],
+        "node_1": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 101,
+            "nodeName": "央视新闻客户端",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 72,
+            "nodeName": "央视网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 582,
+            "nodeName": "央视网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "H1N1",
+            "流感病毒",
+            "甲型",
+            "数百人",
+            "万余",
+            "印度",
+            "阿图尔",
+            "感染",
+            "流感",
+            "马哈拉施特拉邦"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网"
+        ],
+        "node_1": {
+            "ID": 155,
+            "nodeName": "中新网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "性犯罪",
+            "女警",
+            "巡逻队",
+            "频发",
+            "图为",
+            "巡逻",
+            "妇女",
+            "蒲尔",
+            "街头",
+            "哈瓦特"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国新闻网 ",
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 238,
+            "nodeName": "中国新闻网 ",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "已致",
+            "人死",
+            "获救",
+            "倒塌",
+            "事故",
+            "孟买",
+            "楼房",
+            "外媒",
+            "一栋",
+            "当地政府"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "勇哥读史",
+            "勇哥读史"
+        ],
+        "node_1": {
+            "ID": 584,
+            "nodeName": "勇哥读史",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 584,
+            "nodeName": "勇哥读史",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "数百亿",
+            "奇葩",
+            "航母",
+            "笑话"
+        ]
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-25 08:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "人民网－人民日报",
+            "海外網"
+        ],
+        "node_1": {
+            "ID": 74,
+            "nodeName": "人民网－人民日报",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 551,
+            "nodeName": "海外網",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "試驗",
+            "失敗",
+            "中國",
+            "網民",
+            "致约",
+            "禽流感",
+            "印度",
+            "反賴",
+            "H1N1",
+            "甲型"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网－《人民日报》"
+        ],
+        "node_1": {
+            "ID": 75,
+            "nodeName": "人民网－《人民日报》",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "致约",
+            "禽流感",
+            "H1N1",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球时报"
+        ],
+        "node_1": {
+            "ID": 83,
+            "nodeName": "环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度洋",
+            "印度",
+            "美媒",
+            "遏制",
+            "日本",
+            "群岛",
+            "修建",
+            "中国",
+            "新德里",
+            "港口"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网"
+        ],
+        "node_1": {
+            "ID": 176,
+            "nodeName": "中国网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "核武",
+            "情报",
+            "台湾",
+            "情结",
+            "印度",
+            "台印",
+            "费尔南德斯",
+            "战斗机",
+            "泰米尔猛虎组织",
+            "军事"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 5,
+        "AllNodeNameArray": [
+            "人民网-国际频道",
+            "來源：新華社",
+            "人民网",
+            "澎湃新闻网",
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 12,
+            "nodeName": "來源：新華社",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 59,
+            "nodeName": "人民网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "甲型",
+            "疫情",
+            "H1N1",
+            "流感",
+            "登革热",
+            "来得早",
+            "疟疾",
+            "死亡",
+            "流感病毒",
+            "印度"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "小米",
+            "电源",
+            "首台",
+            "诞生",
+            "紫米",
+            "藏头诗"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "非常历史",
+            "非常历史"
+        ],
+        "node_1": {
+            "ID": 552,
+            "nodeName": "非常历史",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 552,
+            "nodeName": "非常历史",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "韩素音",
+            "伴侣",
+            "上校",
+            "三段",
+            "姻缘",
+            "伊恩",
+            "素音",
+            "文星",
+            "中国",
+            "一封"
+        ]
+    }
+}

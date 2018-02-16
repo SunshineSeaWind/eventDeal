@@ -1,0 +1,211 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-03 20:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "新华社",
+            "瞭望智库"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 261,
+            "nodeName": "瞭望智库",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "忠告",
+            "三点",
+            "掰腕子",
+            "果子吃",
+            "退回去",
+            "解放军",
+            "新华社",
+            "印度",
+            "印军",
+            "越界"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "新华社",
+            "凤凰军事",
+            "凤凰军事",
+            " 新华社 "
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 165,
+            "nodeName": "凤凰军事",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 165,
+            "nodeName": "凤凰军事",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 269,
+            "nodeName": " 新华社 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "军报",
+            "解放军",
+            "警告",
+            "忠告",
+            "三点",
+            "印度",
+            "中国",
+            "主权",
+            "和平",
+            "严厉"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "特朗普",
+            "唐纳德",
+            "荣耀",
+            "学前班",
+            "SHAME"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "服务业",
+            "印度",
+            "跌至",
+            "最低水平",
+            "许可证",
+            "公布",
+            "数据",
+            "收缩",
+            "仅为",
+            "制造业"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国网西班牙"
+        ],
+        "node_1": {
+            "ID": 569,
+            "nodeName": "中国网西班牙",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "新西兰",
+            "印度尼西亚",
+            "同意",
+            "反恐",
+            "恐怖主义",
+            "Alius",
+            "FTF",
+            "国家"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "华网俄语",
+            "中国网俄文"
+        ],
+        "node_1": {
+            "ID": 625,
+            "nodeName": "华网俄语",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 639,
+            "nodeName": "中国网俄文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "新西兰",
+            "印度尼西亚",
+            "深化",
+            "恐怖主义",
+            "同意",
+            "反恐",
+            "ITB",
+            "打击",
+            "激进",
+            "国家"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "泰国星暹日报"
+        ],
+        "node_1": {
+            "ID": 707,
+            "nodeName": "泰国星暹日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "同胞",
+            "绑架勒索",
+            "瓶塞",
+            "黑帮",
+            "刀割",
+            "虐待",
+            "肛门",
+            "印度人",
+            "受害者",
+            "警方"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "SU30MKI",
+            "舰队",
+            "边界",
+            "赶到",
+            "印度",
+            "HYPOCRITE",
+            "乌龟",
+            "愚蠢"
+        ]
+    }
+}

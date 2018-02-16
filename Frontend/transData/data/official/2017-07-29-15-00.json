@@ -1,0 +1,97 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-07-29 15:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "健康界"
+        ],
+        "node_1": {
+            "ID": 633,
+            "nodeName": "健康界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "复星",
+            "变数",
+            "药企增",
+            "二度",
+            "Gland",
+            "印度",
+            "交易",
+            "医药",
+            "卢比",
+            "CCEA"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "健康界"
+        ],
+        "node_1": {
+            "ID": 633,
+            "nodeName": "健康界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "复星",
+            "变数",
+            "药企增",
+            "二度",
+            "Gland",
+            "印度",
+            "交易",
+            "医药",
+            "卢比",
+            "CCEA"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "爱武器"
+        ],
+        "node_1": {
+            "ID": 171,
+            "nodeName": "爱武器",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴铁",
+            "亮相",
+            "少将",
+            "高调",
+            "起飞",
+            "颤抖",
+            "战机",
+            "中国空军",
+            "未来",
+            "隐身"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "爱武器"
+        ],
+        "node_1": {
+            "ID": 171,
+            "nodeName": "爱武器",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴铁",
+            "亮相",
+            "少将",
+            "高调",
+            "起飞",
+            "颤抖",
+            "战机",
+            "中国空军",
+            "未来",
+            "隐身"
+        ]
+    }
+}

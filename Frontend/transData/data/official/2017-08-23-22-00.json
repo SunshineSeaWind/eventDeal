@@ -1,0 +1,148 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-23 22:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "铁路",
+            "出轨",
+            "提议",
+            "事故",
+            "印度",
+            "纳伦",
+            "莫迪"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "小康",
+            "越界",
+            "最新消息",
+            "中印",
+            "耻辱",
+            "对峙",
+            "中方",
+            "忘记",
+            "班公湖"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "麦逗朋友圈"
+        ],
+        "node_1": {
+            "ID": 339,
+            "nodeName": "麦逗朋友圈",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度洋",
+            "游弋",
+            "不多见",
+            "场景",
+            "军舰",
+            "编队"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 4,
+        "AllNodeNameArray": [
+            "看航空",
+            "看航空",
+            "王良家长学堂",
+            "王良家长学堂"
+        ],
+        "node_1": {
+            "ID": 310,
+            "nodeName": "看航空",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 310,
+            "nodeName": "看航空",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1022,
+            "nodeName": "王良家长学堂",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 1022,
+            "nodeName": "王良家长学堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "催史",
+            "大悲",
+            "头条",
+            "巴厘岛",
+            "超越",
+            "制造业",
+            "航空",
+            "责任编辑"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "麦逗朋友圈"
+        ],
+        "node_1": {
+            "ID": 339,
+            "nodeName": "麦逗朋友圈",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度洋",
+            "游弋",
+            "不多见",
+            "场景",
+            "军舰",
+            "编队"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印控",
+            "克什米尔",
+            "放火",
+            "冲撞",
+            "抗议",
+            "克什米尔地区",
+            "学生",
+            "印度",
+            "报道",
+            "阿南"
+        ]
+    }
+}

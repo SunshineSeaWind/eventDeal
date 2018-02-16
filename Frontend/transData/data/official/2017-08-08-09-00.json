@@ -1,0 +1,245 @@
+{
+    "LinkedArraySize": 10,
+    "Date": "2017-08-08 09:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "抵制",
+            "双赢",
+            "中国",
+            "经济时报",
+            "亿美元",
+            "进口",
+            "出口额",
+            "印度人",
+            "呼吁"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            " 来源：环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 776,
+            "nodeName": " 来源：环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "偷发",
+            "剪掉",
+            "洞朗",
+            "支付宝",
+            "马云",
+            "对峙",
+            "抵制",
+            "报道",
+            "无知觉"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "环球网",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "洞朗",
+            "印度",
+            "对峙",
+            "印军",
+            "支付宝",
+            "马云",
+            "抵制",
+            "中国",
+            "报道",
+            "朗洞"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "建筑材料",
+            "价格上涨",
+            "印度",
+            "中国",
+            "周一",
+            "公司",
+            "IRMA",
+            "产品",
+            "陶瓷",
+            "原材料"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            ""
+        ],
+        "node_1": {
+            "ID": 27,
+            "nodeName": "",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "华为",
+            "小米",
+            "联想",
+            "紧随其后",
+            "智能手机",
+            "品牌",
+            "印度",
+            "摩托罗拉",
+            "中国",
+            "出货量"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网-国际频道"
+        ],
+        "node_1": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "一万公里",
+            "仅差",
+            "阿甘",
+            "百日",
+            "辛赫",
+            "跑步",
+            "孟买",
+            "公里"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            " 环球网 "
+        ],
+        "node_1": {
+            "ID": 255,
+            "nodeName": " 环球网 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "SE",
+            "芯片",
+            "装载",
+            "苹果",
+            "iPhone7",
+            "扩张",
+            "iPhone",
+            "苹果公司",
+            "手机",
+            "处理器"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网-环球时报"
+        ],
+        "node_1": {
+            "ID": 92,
+            "nodeName": "人民网-环球时报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度政府",
+            "社评",
+            "笃信",
+            "念经",
+            "印度",
+            "中国",
+            "新德里",
+            "印军",
+            "开战",
+            "军队"
+        ]
+    },
+    "LinkedArray_9": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中新网英文"
+        ],
+        "node_1": {
+            "ID": 605,
+            "nodeName": "中新网英文",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "航班",
+            "印度尼西亚",
+            "航空公司",
+            "三亚市",
+            "雅加达",
+            "三亚",
+            "飞行",
+            "连接",
+            "外国游客",
+            "巴萨"
+        ]
+    },
+    "LinkedArray_10": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "小康",
+            "CNN",
+            "曝中印",
+            "已不多",
+            "撤军",
+            "对峙",
+            "视频",
+            "加紧",
+            "运送",
+            "战狼"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-08-28 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "北京晨报"
+        ],
+        "node_1": {
+            "ID": 876,
+            "nodeName": "北京晨报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "信徒",
+            "千余",
+            "被捕",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "印度",
+            "印人党",
+            "宣判"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "北京晨报 "
+        ],
+        "node_1": {
+            "ID": 1108,
+            "nodeName": "北京晨报 ",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "信徒",
+            "大师",
+            "博览",
+            "千余",
+            "被捕",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "印度"
+        ]
+    }
+}

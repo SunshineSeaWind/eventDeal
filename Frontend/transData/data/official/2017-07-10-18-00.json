@@ -1,0 +1,28 @@
+{
+    "LinkedArraySize": 1,
+    "Date": "2017-07-10 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印巴",
+            "边境",
+            "交火",
+            "壮胆",
+            "印军",
+            "印度",
+            "山地",
+            "步师",
+            "哨所",
+            "后勤"
+        ]
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-07-27 23:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "地球村观光"
+        ],
+        "node_1": {
+            "ID": 589,
+            "nodeName": "地球村观光",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "柯达",
+            "智能手机",
+            "印度",
+            "好赚",
+            "印度人",
+            "Ektra",
+            "拍照",
+            "Bullitt",
+            "Group",
+            "镀膜"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "Global Times"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "India",
+            "Today",
+            "draws",
+            "pipe",
+            "dream"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "五穆遗书"
+        ],
+        "node_1": {
+            "ID": 596,
+            "nodeName": "五穆遗书",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "勇猛善战",
+            "体格健壮",
+            "普特",
+            "武士",
+            "印度",
+            "丛林战",
+            "丛林",
+            "叛乱",
+            "学校",
+            "陆军"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "五穆遗书"
+        ],
+        "node_1": {
+            "ID": 596,
+            "nodeName": "五穆遗书",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "勇猛善战",
+            "体格健壮",
+            "普特",
+            "武士",
+            "印度",
+            "丛林战",
+            "丛林",
+            "叛乱",
+            "学校",
+            "陆军"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "产品",
+            "反倾销",
+            "太阳能",
+            "进口",
+            "印度",
+            "启动",
+            "日期",
+            "购买",
+            "服务",
+            "倾销"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "战术忽悠局",
+            "战术忽悠局"
+        ],
+        "node_1": {
+            "ID": 545,
+            "nodeName": "战术忽悠局",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 545,
+            "nodeName": "战术忽悠局",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "巴基斯坦",
+            "印度",
+            "错话",
+            "对策",
+            "应付",
+            "将会",
+            "国防",
+            "生产",
+            "兵器工业",
+            "军工厂"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "AI",
+            "亚马逊",
+            "团队",
+            "在线教育",
+            "新品",
+            "浮出",
+            "革新",
+            "掘金",
+            "晚报",
+            "神秘"
+        ]
+    }
+}

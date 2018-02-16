@@ -1,0 +1,154 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-15 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "中国网繁体",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 595,
+            "nodeName": "中国网繁体",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "游行",
+            "火车",
+            "内乱",
+            "和平",
+            "印度",
+            "苏拉特",
+            "比哈尔邦",
+            "通往",
+            "古吉拉特邦",
+            "北方邦"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "游行",
+            "火车",
+            "和平",
+            "内乱",
+            "印度",
+            "苏拉特",
+            "比哈尔邦",
+            "通往",
+            "古吉拉特邦",
+            "北方邦"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "战胜",
+            "足够",
+            "强大",
+            "印度",
+            "报道",
+            "喜马拉雅",
+            "巴基斯坦",
+            "边界"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "四川日报"
+        ],
+        "node_1": {
+            "ID": 60,
+            "nodeName": "四川日报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "游行",
+            "火车",
+            "内乱",
+            "和平",
+            "印度",
+            "苏拉特",
+            "比哈尔邦",
+            "通往",
+            "古吉拉特邦",
+            "北方邦"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "游行",
+            "火车",
+            "和平",
+            "苏拉特",
+            "印度",
+            "比哈尔邦",
+            "在线",
+            "通往",
+            "古吉拉特邦",
+            "ICP"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            " 来源：海外网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 821,
+            "nodeName": " 来源：海外网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "火车",
+            "游行",
+            "和平",
+            "万人",
+            "印度",
+            "苏拉特",
+            "比哈尔邦",
+            "通往",
+            "古吉拉特邦",
+            "北方邦"
+        ]
+    }
+}

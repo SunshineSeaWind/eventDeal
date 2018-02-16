@@ -1,0 +1,294 @@
+{
+    "LinkedArraySize": 8,
+    "Date": "2017-08-29 17:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "刘逸明",
+            "Vista看天下"
+        ],
+        "node_1": {
+            "ID": 1116,
+            "nodeName": "刘逸明",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1128,
+            "nodeName": "Vista看天下",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸",
+            "信徒",
+            "大师",
+            "骚乱",
+            "被判",
+            "入狱",
+            "辛格",
+            "印度",
+            "亚纳邦",
+            "信众"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "刘逸明"
+        ],
+        "node_1": {
+            "ID": 1116,
+            "nodeName": "刘逸明",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强奸",
+            "信徒",
+            "被判",
+            "入狱",
+            "辛格",
+            "大师",
+            "印度",
+            "亚纳邦",
+            "哈里",
+            "骚乱"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国新闻网"
+        ],
+        "node_1": {
+            "ID": 41,
+            "nodeName": "中国新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "强降雨",
+            "外媒",
+            "人因",
+            "比哈尔邦",
+            "洪水",
+            "死亡",
+            "印度"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "局座召忠",
+            "局座召忠"
+        ],
+        "node_1": {
+            "ID": 292,
+            "nodeName": "局座召忠",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 292,
+            "nodeName": "局座召忠",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "套萨德",
+            "沙特",
+            "韩国",
+            "土豪",
+            "强硬",
+            "买下",
+            "萨德",
+            "军购",
+            "军火",
+            "大单"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 9,
+        "AllNodeNameArray": [
+            "参考消息网",
+            "经济观察报",
+            "钛媒体APP",
+            "金融界",
+            "钛媒体APP",
+            "张琪军事",
+            "经济观察报",
+            "张琪军事",
+            "中国小康"
+        ],
+        "node_1": {
+            "ID": 31,
+            "nodeName": "参考消息网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 143,
+            "nodeName": "经济观察报",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 1127,
+            "nodeName": "钛媒体APP",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 1127,
+            "nodeName": "钛媒体APP",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_7": {
+            "ID": 143,
+            "nodeName": "经济观察报",
+            "nodeInfo": {}
+        },
+        "node_8": {
+            "ID": 228,
+            "nodeName": "张琪军事",
+            "nodeInfo": {}
+        },
+        "node_9": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印度",
+            "OPPO",
+            "vivo",
+            "员工",
+            "销量",
+            "中国",
+            "30%",
+            "坏消息",
+            "撤军",
+            "对峙"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 6,
+        "AllNodeNameArray": [
+            "Global Times",
+            "海外网",
+            "海外网",
+            "海外网",
+            "中国小康",
+            "央视新闻"
+        ],
+        "node_1": {
+            "ID": 566,
+            "nodeName": "Global Times",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_4": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "node_5": {
+            "ID": 87,
+            "nodeName": "中国小康",
+            "nodeInfo": {}
+        },
+        "node_6": {
+            "ID": 229,
+            "nodeName": "央视新闻",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "金砖",
+            "莫迪",
+            "外交部",
+            "厦门",
+            "峰会",
+            "会晤",
+            "领导人",
+            "印度",
+            "第九次",
+            "日至"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 3,
+        "AllNodeNameArray": [
+            "中国日报网",
+            "中国日报网",
+            "海外网"
+        ],
+        "node_1": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 130,
+            "nodeName": "中国日报网",
+            "nodeInfo": {}
+        },
+        "node_3": {
+            "ID": 158,
+            "nodeName": "海外网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "女警",
+            "入职",
+            "安全部队",
+            "宣誓",
+            "医保",
+            "老顽童",
+            "方案",
+            "公布",
+            "目录",
+            "塞罕坝"
+        ]
+    },
+    "LinkedArray_8": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "强国军事",
+            "强国军事"
+        ],
+        "node_1": {
+            "ID": 179,
+            "nodeName": "强国军事",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 179,
+            "nodeName": "强国军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "增购",
+            "鸡肋",
+            "战机",
+            "再花",
+            "印度",
+            "阵风",
+            "法国",
+            "空军",
+            "美洲豹",
+            "攻击机"
+        ]
+    }
+}

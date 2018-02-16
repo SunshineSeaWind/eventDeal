@@ -1,0 +1,95 @@
+{
+    "LinkedArraySize": 4,
+    "Date": "2017-08-26 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "两邦",
+            "组图",
+            "在线",
+            "ICP",
+            "国际",
+            "印度",
+            "监督",
+            "证号"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "西北部",
+            "两邦",
+            "亚纳邦",
+            "哈里",
+            "旁遮普邦",
+            "暴力事件",
+            "在线",
+            "ICP",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "实弹",
+            "远航",
+            "演练",
+            "编队",
+            "组图",
+            "访问",
+            "敌情",
+            "补给",
+            "印度洋",
+            "海域"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华网"
+        ],
+        "node_1": {
+            "ID": 69,
+            "nodeName": "新华网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "远航",
+            "演练",
+            "编队",
+            "组图",
+            "实弹",
+            "在线",
+            "ICP",
+            "访问",
+            "敌情"
+        ]
+    }
+}

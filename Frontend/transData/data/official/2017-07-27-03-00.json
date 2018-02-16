@@ -1,0 +1,116 @@
+{
+    "LinkedArraySize": 5,
+    "Date": "2017-07-27 03:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Continent",
+            "India",
+            "crashing",
+            "into",
+            "Asia",
+            "your",
+            "Germany",
+            "made",
+            "tampons",
+            "Ronald"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Israel",
+            "India",
+            "CHina",
+            "ready",
+            "sanction",
+            "its",
+            "role",
+            "arm",
+            "supporting",
+            "China"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Israel",
+            "CHina",
+            "ready",
+            "sanction",
+            "its",
+            "role",
+            "arm",
+            "supporting",
+            "India"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "中国日报BBS"
+        ],
+        "node_1": {
+            "ID": 560,
+            "nodeName": "中国日报BBS",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Nuke",
+            "印度",
+            "Sushma",
+            "Swaraj",
+            "摊牌",
+            "拥有",
+            "导弹"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "金融界"
+        ],
+        "node_1": {
+            "ID": 2,
+            "nodeName": "金融界",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "Uber",
+            "推网",
+            "迎新",
+            "对手",
+            "官方",
+            "日期",
+            "服务",
+            "购买",
+            "盖德",
+            "印度政府"
+        ]
+    }
+}

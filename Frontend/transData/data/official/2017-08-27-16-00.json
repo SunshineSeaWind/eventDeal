@@ -1,0 +1,172 @@
+{
+    "LinkedArraySize": 7,
+    "Date": "2017-08-27 16:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "新华社"
+        ],
+        "node_1": {
+            "ID": 4,
+            "nodeName": "新华社",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "骚乱",
+            "强奸案",
+            "逾千人",
+            "引爆",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "班杰",
+            "旁遮普邦",
+            "库拉"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "争议",
+            "边民",
+            "逃离",
+            "阻止",
+            "印度",
+            "争议地区",
+            "直升机",
+            "中国社会科学院",
+            "中印",
+            "学术"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "争议",
+            "边民",
+            "逃离",
+            "阻止",
+            "印度",
+            "争议地区",
+            "直升机",
+            "中印",
+            "在线",
+            "边境"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "澎湃新闻网"
+        ],
+        "node_1": {
+            "ID": 81,
+            "nodeName": "澎湃新闻网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "收监",
+            "关押",
+            "地板",
+            "大师",
+            "强奸",
+            "辛格",
+            "亚纳邦",
+            "哈里",
+            "监狱",
+            "骚乱"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "环球网"
+        ],
+        "node_1": {
+            "ID": 26,
+            "nodeName": "环球网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "争议",
+            "边民",
+            "逃离",
+            "阻止",
+            "印度",
+            "争议地区",
+            "直升机",
+            "中印",
+            "边境",
+            "环球网"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "小猪猪观察",
+            "小猪猪观察"
+        ],
+        "node_1": {
+            "ID": 1046,
+            "nodeName": "小猪猪观察",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 1046,
+            "nodeName": "小猪猪观察",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "这国",
+            "司令",
+            "三架",
+            "解职",
+            "星期",
+            "飞机",
+            "美军",
+            "印度",
+            "无人机",
+            "坠毁"
+        ]
+    },
+    "LinkedArray_7": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "参考消息"
+        ],
+        "node_1": {
+            "ID": 5,
+            "nodeName": "参考消息",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "印媒",
+            "实弹",
+            "演练",
+            "强硬",
+            "解放军",
+            "印度洋",
+            "演习",
+            "印度",
+            "编队",
+            "中国"
+        ]
+    }
+}

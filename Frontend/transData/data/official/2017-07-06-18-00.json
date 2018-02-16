@@ -1,0 +1,51 @@
+{
+    "LinkedArraySize": 2,
+    "Date": "2017-07-06 18:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "外交部网站"
+        ],
+        "node_1": {
+            "ID": 42,
+            "nodeName": "外交部网站",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "莫迪",
+            "习近平",
+            "外交部",
+            "会见",
+            "中方",
+            "印方",
+            "安理会",
+            "半岛",
+            "印度",
+            "朝方"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "人民网-国际频道"
+        ],
+        "node_1": {
+            "ID": 91,
+            "nodeName": "人民网-国际频道",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "不丹",
+            "外交部",
+            "幌子",
+            "侵犯",
+            "打着",
+            "中方",
+            "印方",
+            "半岛",
+            "安理会",
+            "和平"
+        ]
+    }
+}

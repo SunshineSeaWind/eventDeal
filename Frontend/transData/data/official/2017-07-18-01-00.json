@@ -1,0 +1,74 @@
+{
+    "LinkedArraySize": 3,
+    "Date": "2017-07-18 01:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "北京青年报"
+        ],
+        "node_1": {
+            "ID": 233,
+            "nodeName": "北京青年报",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "贱民",
+            "第二位",
+            "诞生",
+            "总统",
+            "考文德",
+            "选举",
+            "印度",
+            "议会",
+            "各邦",
+            "议员"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "联合防务"
+        ],
+        "node_1": {
+            "ID": 410,
+            "nodeName": "联合防务",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "长钉",
+            "红箭",
+            "老式",
+            "以色列",
+            "我军",
+            "导弹",
+            "反坦克",
+            "标枪",
+            "地堡",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "联合防务"
+        ],
+        "node_1": {
+            "ID": 410,
+            "nodeName": "联合防务",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "长钉",
+            "红箭",
+            "老式",
+            "以色列",
+            "我军",
+            "导弹",
+            "反坦克",
+            "标枪",
+            "地堡",
+            "印度"
+        ]
+    }
+}

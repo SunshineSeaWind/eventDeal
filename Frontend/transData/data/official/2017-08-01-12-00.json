@@ -1,0 +1,141 @@
+{
+    "LinkedArraySize": 6,
+    "Date": "2017-08-01 12:00:00",
+    "TimeWindowLen": "one hour",
+    "LinkedArray_1": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美媒",
+            "最强",
+            "军队",
+            "第四",
+            "第三",
+            "力量",
+            "人力",
+            "该国",
+            "土耳其",
+            "印度"
+        ]
+    },
+    "LinkedArray_2": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "六子看军事"
+        ],
+        "node_1": {
+            "ID": 22,
+            "nodeName": "六子看军事",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "美媒",
+            "最强",
+            "军队",
+            "第四",
+            "第三",
+            "力量",
+            "人力",
+            "该国",
+            "土耳其",
+            "印度"
+        ]
+    },
+    "LinkedArray_3": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "猎云网",
+            "猎云网"
+        ],
+        "node_1": {
+            "ID": 120,
+            "nodeName": "猎云网",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 120,
+            "nodeName": "猎云网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电商",
+            "软银",
+            "愿景",
+            "Flipkart",
+            "亿美元",
+            "磋商",
+            "投资",
+            "基金",
+            "孙正义",
+            "Snapdeal"
+        ]
+    },
+    "LinkedArray_4": {
+        "nodeSize": 2,
+        "AllNodeNameArray": [
+            "精军堂",
+            "精军堂"
+        ],
+        "node_1": {
+            "ID": 673,
+            "nodeName": "精军堂",
+            "nodeInfo": {}
+        },
+        "node_2": {
+            "ID": 673,
+            "nodeName": "精军堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "实拍",
+            "喜剧片",
+            "滑稽"
+        ]
+    },
+    "LinkedArray_5": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "猎云网"
+        ],
+        "node_1": {
+            "ID": 120,
+            "nodeName": "猎云网",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "电商",
+            "软银",
+            "愿景",
+            "Flipkart",
+            "亿美元",
+            "磋商",
+            "投资",
+            "基金",
+            "孙正义",
+            "Snapdeal"
+        ]
+    },
+    "LinkedArray_6": {
+        "nodeSize": 1,
+        "AllNodeNameArray": [
+            "精军堂"
+        ],
+        "node_1": {
+            "ID": 673,
+            "nodeName": "精军堂",
+            "nodeInfo": {}
+        },
+        "keywords": [
+            "实拍",
+            "喜剧片",
+            "滑稽"
+        ]
+    }
+}
