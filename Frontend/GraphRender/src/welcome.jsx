@@ -8,10 +8,14 @@ export default class WelcomePage extends React.Component {
         <h1>Welcome to the Code Galaxies, Commander</h1>
         <h2>Choose your destination:</h2>
         <div className='media-list'>
-          <Destination description='TestGraph'
-                      href='#/galaxy/TestGraph?l=1'
+          <Destination description='Relations'
+                      href='#/galaxy/Relations?l=1'
                       media='brew_fly_first.png'
-                      name='TestGraph'/>
+                      name='Relations'/>
+          <Destination description='Timeline'
+                      href='#/galaxy/Timeline?l=1'
+                      media='composer_fly_first.png'
+                      name='Timeline'/>
         </div>
       </div>
     );
