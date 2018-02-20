@@ -109,7 +109,7 @@ function getResult(){
   layout = createLayout(graph, {
   iterations: 1,
   saveEach: 10, // Save each `10th` iteration
-  outDir: './result', // Save results into `./myFolder`
+  outDir: './datetime_result', // Save results into `./myFolder`
   layout: require('ngraph.forcelayout3d') // use custom layouter
 });
 
