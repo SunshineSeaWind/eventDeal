@@ -9,7 +9,7 @@ export default class WelcomePage extends React.Component {
         <h2>Choose your destination:</h2>
         <div className='media-list'>
           <Destination description='Relations'
-                      href='#/galaxy/Relations?l=1'
+                      href='#/galaxy/Relations?cx=-1&cy=0&cz=177&lx=0.0000&ly=0.0000&lz=0.0000&lw=1.0000&ml=150&s=1.75&l=1'
                       media='brew_fly_first.png'
                       name='Relations'/>
           <Destination description='Timeline'
