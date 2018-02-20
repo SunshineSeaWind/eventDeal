@@ -103,7 +103,7 @@ function addNodes(){
 function getResult(){
 
   saveGraph(graph, {
-    outDir:'./result'
+    outDir:'./datetime_result'
   });
 
   layout = createLayout(graph, {
