@@ -12,10 +12,10 @@ export default class WelcomePage extends React.Component {
                       href='#/galaxy/Relations?cx=-1&cy=0&cz=177&lx=0.0000&ly=0.0000&lz=0.0000&lw=1.0000&ml=150&s=1.75&l=1'
                       media='brew_fly_first.png'
                       name='Relations'/>
-          <Destination description='Timeline'
-                      href='#/galaxy/Timeline?l=1'
+          <Destination description='NewTimeline'
+                      href='#/galaxy/NewTimeline?l=1'
                       media='composer_fly_first.png'
-                      name='Timeline'/>
+                      name='NewTimeline'/>
         </div>
       </div>
     );
