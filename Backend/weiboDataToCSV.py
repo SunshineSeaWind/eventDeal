@@ -39,11 +39,9 @@ def timeChange(date_time):
     result = datetime.datetime(year, month, day, hour, minute, second)
     return result
 
-#匹配模式/xx网、xx社、xx报
-p1 = ".*?[网社报]"
-patternModel = re.compile(p1)
-input_file_Path = 'data/weibo.json'
-outfile_Path = 'data/weibo.csv'
+
+input_file_Path = 'weibo.json'
+outfile_Path = 'weibo.csv'
 InfoList = []
 with open(input_file_Path, 'r',encoding='UTF-8') as file:
     content = json.loads(file.read(),strict=False)
@@ -59,7 +57,7 @@ with open(input_file_Path, 'r',encoding='UTF-8') as file:
         except Exception:
             title = ''
         text = data['info:text']
-        forward_Name = data['info:source']
+        forward_Name = data['info:source'].strip()
         ID = data['info:userId']
         try:
             attitudes_count = data['info:attitudes_count']
@@ -73,23 +71,7 @@ with open(input_file_Path, 'r',encoding='UTF-8') as file:
             comments_count = '0'
         if comments_count == '':
             comments_count = '0'
-        '''
-        #提取关键词(限定数量)
-        KeywordNum = math.floor( len(text) / 150) + 1
-        if KeywordNum > 5: KeywordNum = 5
-        keywords = analyse.extract_tags(text,topK = KeywordNum)
-        source_Name = []
-        result = jieba.cut(text, cut_all = False)
-        # print(','.join(result))
-        for i in result:
-            match_result = re.findall(patternModel, i)
-            for info in match_result:
-                # print(info)
-                #去除单个字以及两个字
-                if len(info) > 2:
-                    # print(info)
-                    source_Name.append(info)
-        '''
+        #不需要的字段属性
         keywords = ' '
         source_Name = 'null'
         InfoTemp = Info_Struct(ID, release_Date, title, text,forward_Name, source_Name, attitudes_count,
