@@ -42,6 +42,8 @@ def timeChange(date_time):
 
 input_file_Path = 'weibo.json'
 outfile_Path = 'weibo.csv'
+# input_file_Path = 'test.json'
+# outfile_Path = 'test.csv'
 InfoList = []
 with open(input_file_Path, 'r',encoding='UTF-8') as file:
     content = json.loads(file.read(),strict=False)
@@ -58,7 +60,11 @@ with open(input_file_Path, 'r',encoding='UTF-8') as file:
             title = ''
         text = data['info:text']
         forward_Name = data['info:source'].strip()
+        if forward_Name == '':
+            forward_Name = 'NONE'
         ID = data['info:userId']
+        if ID == '':
+            ID = '0000000000'
         try:
             attitudes_count = data['info:attitudes_count']
         except Exception:

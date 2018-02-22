@@ -230,7 +230,7 @@ class TimeWindow:
             AllNodeDic['AllNodeNameArray'] = AllNodeNameArray
             for data in similarContentDic[i]:
                 nodeAttr = 'node_' + str(count_node)
-                ID = data.id
+                ID = int(data.id)
                 nodeName = str(data.username)
                 # print(nodeName)
 
@@ -324,7 +324,7 @@ class TimeWindow:
             KeywordNum = math.floor(len(text) / 30) + 1
             new_text = analyse.extract_tags(text, topK=KeywordNum)
             # print(new_text)
-            # 若小于2，直接添加
+            # 若小于5，直接添加
             if len(texts) <= 5:
                 texts.append(new_text)
                 # 添加数据进字典
@@ -604,8 +604,8 @@ class CountDeal:
 if __name__ == "__main__":
     filename = input("please input the file name(the encoding should be gb18030):")
     type = int(input("please input the data type(official data is 0, unofficial is 1):"))
-    stopwords_file_name = "srcdata/stopwords.txt"
-    nameDictionary_file_name = "srcdata/NameDictionary.txt"
+    stopwords_file_name = "data/stopwords.txt"
+    nameDictionary_file_name = "data/NameDictionary.txt"
 
     data = pd.read_csv(filename, encoding='gb18030')
     data = np.array(data)
@@ -636,4 +636,4 @@ if __name__ == "__main__":
     print("minute window:")
     count_deal.printWindow(2)
 
-    # ount_deal.dealDayHourMinList()
+    count_deal.dealDayHourMinList()

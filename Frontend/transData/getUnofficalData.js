@@ -5,14 +5,14 @@ var path = require('path');
 var createGraph = require('ngraph.graph');
 var saveGraph = require('ngraph.tobinary');
 
-var createLayout = require('ngraph.offline.layout');
+// var createLayout = require('ngraph.offline.layout');
 
 var graph = createGraph();
 var layout;
 
 
-//保存所有节点，数组下标为ID
-var nodes=[];
+//保存所有节点，字典键为ID
+var nodes=new Array();
 //保存所有边
 var links=[] ;
 var linkcount=0;
@@ -20,7 +20,7 @@ var linkcount=0;
 //读取文件
 function readFile(fname)
 {
-      var readFile=JSON.parse(fs.readFileSync( fname));
+      var readFile=JSON.parse(fs.readFileSync(fname));
 
 
       var LinkedArraySize=readFile.LinkedArraySize;
@@ -36,7 +36,8 @@ function readFile(fname)
               //获取node
               var node=LinkedArray["node_"+j];
               nodes[node.ID]=node.nodeName;
-              //console.log(nodes[node.ID]);
+              console.log(node.ID)
+              console.log(nodes[node.ID]);
           }
           //保存Lnik
           if(nodeSize>=2){
@@ -84,13 +85,14 @@ function ls(ff)
 
 //添加所有节点和边
 function addNodes(){
-  var i=0;
+  
   for(node in nodes){
-    graph.addNode(nodes[i]);
+    graph.addNode(nodes[node]);
     //console.log(i+"\t"+nodes[i]);
-    i++;
+    // i++;
   }
 
+  var i=0;
   i=0;
   console.log("linkcount: "+linkcount);
   for(link in links){
@@ -105,23 +107,23 @@ function addNodes(){
 function getResult(){
 
   saveGraph(graph, {
-    outDir:'./result'
+    outDir:'./UnofficialRelations'
   });
 
-  layout = createLayout(graph, {
-  iterations: 100, 
-  saveEach: 10, // Save each `10th` iteration
-  outDir: './result', // Save results into `./myFolder`
-  layout: require('ngraph.forcelayout3d') // use custom layouter
-});
+//   layout = createLayout(graph, {
+//   iterations: 100, 
+//   saveEach: 10, // Save each `10th` iteration
+//   outDir: './UnofficialRelations', // Save results into `./myFolder`
+//   layout: require('ngraph.forcelayout3d') // use custom layouter
+// });
 
 
-  layout.run(true);
+//   layout.run(true);
 
 }
 
 //遍历文件夹
-ls('.\\data\\official');
+ls('D:\\F\\FengRuCup\\Ring大数据-中印对峙爬虫数据\\数据\\result\\unofficial');
 
 
 //添加所有节点和边

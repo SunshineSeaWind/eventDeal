@@ -5,7 +5,7 @@ var path = require('path');
 var createGraph = require('ngraph.graph');
 var saveGraph = require('ngraph.tobinary');
 
-var createLayout = require('ngraph.offline.layout');
+// var createLayout = require('ngraph.offline.layout');
 
 var graph = createGraph();
 var layout;
@@ -21,12 +21,12 @@ var linkcount=0;
 //读取文件
 function readFile(fname)
 {
-      var readFile=JSON.parse(fs.readFileSync( fname));
+      var readFile=JSON.parse(fs.readFileSync(fname));
 
 
       var LinkedArraySize=readFile.LinkedArraySize;
 
-      timeNodes.push(readFile.date);
+      timeNodes.push(readFile.Date);
       var tmpnode=[];
 
       var i=0,j=0;
@@ -81,7 +81,7 @@ function addNodes(){
     i++;
   }
 
-  i=0;
+  i = 0;
 
   for(node in timeNodes){
     graph.addNode(timeNodes[i]);
@@ -103,23 +103,23 @@ function addNodes(){
 function getResult(){
 
   saveGraph(graph, {
-    outDir:'./datetime_result'
+    outDir:'./UnofficialTimeline'
   });
 
-  layout = createLayout(graph, {
-  iterations: 1,
-  saveEach: 10, // Save each `10th` iteration
-  outDir: './datetime_result', // Save results into `./myFolder`
-  layout: require('ngraph.forcelayout3d') // use custom layouter
-});
+//   layout = createLayout(graph, {
+//   iterations: 100,
+//   saveEach: 10, // Save each `10th` iteration
+//   outDir: './UnofficialTimeline', // Save results into `./myFolder`
+//   layout: require('ngraph.forcelayout3d') // use custom layouter
+// });
 
 
-  layout.run(true);
+  // layout.run(true);
 
 }
 
 //遍历文件夹
-ls('.\\data\\official');
+ls('D:\\F\\FengRuCup\\Ring大数据-中印对峙爬虫数据\\数据\\result\\official');
 
 
 //添加所有节点和边
