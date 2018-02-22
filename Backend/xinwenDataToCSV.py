@@ -53,7 +53,9 @@ with open(input_file_Path, 'r',encoding='UTF-8') as file:
         release_Date = timeChange(data['info:releasedate'])
         title = data['info:title']
         text = data['info:text']
-        userName = data['info:post_user']
+        userName = data['info:post_user'].strip()
+        if userName == '':
+            userName = ' '
         if userName in IdDic:
             ID = IdDic[userName]
         else :
