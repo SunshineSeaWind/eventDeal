@@ -32,8 +32,13 @@ function readFile(fname)
       var i=0,j=0;
       for (i=1;i<=LinkedArraySize;i++){
           var node=readFile["LinkedArray_"+i];
-          nodes.push(node.keywords.join(' '));
-          tmpnode.push(node.keywords.join(' '));
+          var Obj=new Object();
+          Obj.keywords = node.keywords.join(' ')
+          Obj.data = node.AllNodeNameArray.join(' ')
+          // nodes.push(node.keywords.join(' '));
+          nodes.push(Obj);
+          tmpnode.push(Obj.keywords);
+          // tmpnode.push(Obj);          
       }
 
       //creat link
@@ -76,7 +81,8 @@ function ls(ff)
 function addNodes(){
   var i=0;
   for(node in nodes){
-    graph.addNode(nodes[i]);
+    graph.addNode(nodes[i].keywords,nodes[i].data);
+    // graph.addNode(nodes[i],nodes[i].data);    
     //console.log(i+"\t"+nodes[i]);
     i++;
   }

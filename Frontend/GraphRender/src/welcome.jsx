@@ -16,6 +16,10 @@ export default class WelcomePage extends React.Component {
                       href='#/galaxy/OfficialTimeline?l=1'
                       media='composer_fly_first.png'
                       name='OfficialTimeline'/>
+          <Destination description='OfficialTimelineAddData'
+                      href='#/galaxy/OfficialTimelineAddData?l=1'
+                      media='composer_fly_first.png'
+                      name='OfficialTimelineAddData'/>            
         </div>
       </div>
     );
