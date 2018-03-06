@@ -95,6 +95,17 @@ function addNodes(){
     i++;
   }
 
+  // 在时间节点之间添加link关系
+  i = 0;
+  for(node in timeNodes){
+    if (i < timeNodes.length - 1){
+      for(var j = 0 ; j < 100 ; j++){
+        graph.addLink(timeNodes[i], timeNodes[i+1]);
+      }
+    }
+    i++;
+  }
+
   i = 0;
   console.log("linkcount: "+linkcount);
   for(link in links){

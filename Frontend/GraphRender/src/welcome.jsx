@@ -19,7 +19,15 @@ export default class WelcomePage extends React.Component {
           <Destination description='OfficialTimelineAddData'
                       href='#/galaxy/OfficialTimelineAddData?l=1'
                       media='composer_fly_first.png'
-                      name='OfficialTimelineAddData'/>            
+                      name='OfficialTimelineAddData'/> 
+          <Destination description='OfficialTimelineTimeNodeConnect'
+                      href='#/galaxy/OfficialTimelineTimeNodeConnect?l=1'
+                      media='composer_fly_first.png'
+                      name='OfficialTimelineTimeNodeConnect'/>
+          <Destination description='TestGraphTest'
+                      href='#/galaxy/TestGraphTest?l=1'
+                      media='composer_fly_first.png'
+                      name='TestGraphTest'/>                        
         </div>
       </div>
     );
