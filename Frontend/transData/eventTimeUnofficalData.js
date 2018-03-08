@@ -99,8 +99,9 @@ function addNodes(){
   i = 0;
   for(node in timeNodes){
     if (i < timeNodes.length - 1){
-      for(var j = 0 ; j < 50 ; j++){
+      for(var j = 0 ; j < 200 ; j++){
         graph.addLink(timeNodes[i], timeNodes[i+1]);
+        graph.addLink(timeNodes[i+1], timeNodes[i]);
       }
     }
     i++;
