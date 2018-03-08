@@ -12,18 +12,19 @@ export default class WelcomePage extends React.Component {
                       href='#/galaxy/OfficialRelations?cx=-1&cy=0&cz=177&lx=0.0000&ly=0.0000&lz=0.0000&lw=1.0000&ml=150&s=1.75&l=1'
                       media='brew_fly_first.png'
                       name='OfficialRelations'/>
-          <Destination description='OfficialTimeline'
+          /*<Destination description='OfficialTimeline'
                       href='#/galaxy/OfficialTimeline?l=1'
                       media='composer_fly_first.png'
                       name='OfficialTimeline'/>
           <Destination description='OfficialTimelineAddData'
                       href='#/galaxy/OfficialTimelineAddData?l=1'
                       media='composer_fly_first.png'
-                      name='OfficialTimelineAddData'/> 
+                      name='OfficialTimelineAddData'/>
+		  */
           <Destination description='OfficialTimelineTimeNodeConnect'
                       href='#/galaxy/OfficialTimelineTimeNodeConnect?l=1'
                       media='composer_fly_first.png'
-                      name='OfficialTimelineTimeNodeConnect'/>
+                      name='OfficialTimeline'/>
           <Destination description='TestGraphTest'
                       href='#/galaxy/TestGraphTest?l=1'
                       media='composer_fly_first.png'
