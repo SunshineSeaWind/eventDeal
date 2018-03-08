@@ -27,7 +27,16 @@ export default class WelcomePage extends React.Component {
           <Destination description='TestGraphTest'
                       href='#/galaxy/TestGraphTest?l=1'
                       media='composer_fly_first.png'
-                      name='TestGraphTest'/>                        
+                      name='TestGraphTest'/>
+          <Destination description='UnofficialRelations'
+                          href='#/galaxy/UnofficialRelations?l=1'
+                          media='composer_fly_first.png'
+                          name='UnofficialRelations'/>
+          <Destination description='UnofficialTimeline'
+                          href='#/galaxy/UnofficialTimeline?l=1'
+                          media='composer_fly_first.png'
+                          name='UnofficialTimeline'/>
+			
         </div>
       </div>
     );
