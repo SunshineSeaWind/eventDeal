@@ -22,7 +22,7 @@ export default class WelcomePage extends React.Component {
                       name='OfficialTimelineAddData'/>
 					  */}
           <Destination description='OfficialTimelineTimeNodeConnect'
-                      href='#/galaxy/OfficialTimelineTimeNodeConnect?l=1'
+                      href='#/galaxy/OfficialTimelineTimeNodeConnect?cx=268&cy=0&cz=10485&lx=0.0000&ly=0.0000&lz=0.0000&lw=1.0000&ml=150&s=1.75&l=1&v=2018-3-7T00-00-00Z'
                       media='composer_fly_first.png'
                       name='OfficialTimeline'/>
           <Destination description='TestGraphTest'
@@ -37,7 +37,7 @@ export default class WelcomePage extends React.Component {
                           href='#/galaxy/UnofficialTimeline?l=1'
                           media='composer_fly_first.png'
                           name='UnofficialTimeline'/>
-			
+
         </div>
       </div>
     );
